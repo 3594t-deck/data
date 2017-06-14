@@ -29,9 +29,9 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "覇者の求心",
-    "point": 6,
-    "type": "全体強化"
+    "name": "強化戦法",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -114,9 +114,9 @@ callback(
   "suppression": 2,
   "skills": ["伏兵"],
   "strategy": {
-    "name": "強化戦法",
-    "point": 4,
-    "type": "強化"
+    "name": "十の因果",
+    "point": 3,
+    "type": "妨害"
   }
 }, {
   "majorVer": "第1弾",
@@ -131,9 +131,9 @@ callback(
   "suppression": 0,
   "skills": ["勇猛"],
   "strategy": {
-    "name": "覇者の求心",
-    "point": 6,
-    "type": "全体強化"
+    "name": "魏武の強兵",
+    "point": 3,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -148,7 +148,7 @@ callback(
   "suppression": 2,
   "skills": ["勇猛"],
   "strategy": {
-    "name": "強化戦法",
+    "name": "巧遅の乱撃",
     "point": 4,
     "type": "強化"
   }
@@ -165,8 +165,8 @@ callback(
   "suppression": 2,
   "skills": ["勇猛"],
   "strategy": {
-    "name": "十の因果",
-    "point": 3,
+    "name": "隻眼の一喝",
+    "point": 5,
     "type": "妨害"
   }
 }, {
@@ -182,9 +182,9 @@ callback(
   "suppression": 1,
   "skills": ["伏兵"],
   "strategy": {
-    "name": "巧遅の乱撃",
+    "name": "後方指揮",
     "point": 4,
-    "type": "強化"
+    "type": "全体強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -199,9 +199,9 @@ callback(
   "suppression": 1,
   "skills": ["復活"],
   "strategy": {
-    "name": "隻眼の一喝",
-    "point": 5,
-    "type": "妨害"
+    "name": "猪突猛進",
+    "point": 3,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -216,9 +216,9 @@ callback(
   "suppression": 2,
   "skills": ["防柵"],
   "strategy": {
-    "name": "後方指揮",
+    "name": "挑発",
     "point": 4,
-    "type": "全体強化"
+    "type": "妨害"
   }
 }, {
   "majorVer": "第1弾",
@@ -233,9 +233,9 @@ callback(
   "suppression": 1,
   "skills": ["魅力"],
   "strategy": {
-    "name": "猪突猛進",
-    "point": 3,
-    "type": "強化"
+    "name": "飛天の舞い",
+    "point": 5,
+    "type": "舞踊"
   }
 }, {
   "majorVer": "第1弾",
@@ -250,9 +250,9 @@ callback(
   "suppression": 2,
   "skills": ["伏兵"],
   "strategy": {
-    "name": "挑発",
-    "point": 4,
-    "type": "妨害"
+    "name": "攻守自在",
+    "point": 6,
+    "type": "全体強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -267,9 +267,9 @@ callback(
   "suppression": 1,
   "skills": [],
   "strategy": {
-    "name": "飛天の舞い",
-    "point": 5,
-    "type": "舞踊"
+    "name": "的確な援兵",
+    "point": 3,
+    "type": "回復"
   }
 }, {
   "majorVer": "第1弾",
@@ -284,9 +284,9 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "攻守自在",
-    "point": 6,
-    "type": "全体強化"
+    "name": "玄妙なる反計",
+    "point": 4,
+    "type": "反計"
   }
 }, {
   "majorVer": "第1弾",
@@ -301,9 +301,9 @@ callback(
   "suppression": 2,
   "skills": ["防柵"],
   "strategy": {
-    "name": "魏武の強兵",
-    "point": 3,
-    "type": "強化"
+    "name": "大水計",
+    "point": 7,
+    "type": "ダメージ"
   }
 }, {
   "majorVer": "第1弾",
@@ -318,9 +318,9 @@ callback(
   "suppression": 1,
   "skills": [],
   "strategy": {
-    "name": "覇者の求心",
-    "point": 6,
-    "type": "全体強化"
+    "name": "神速戦法",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -335,9 +335,9 @@ callback(
   "suppression": 1,
   "skills": ["魅力"],
   "strategy": {
-    "name": "的確な援兵",
-    "point": 3,
-    "type": "回復"
+    "name": "悲哀の舞い",
+    "point": 6,
+    "type": "舞踊"
   }
 }, {
   "majorVer": "第1弾",
@@ -352,9 +352,9 @@ callback(
   "suppression": 1,
   "skills": [],
   "strategy": {
-    "name": "玄妙なる反計",
-    "point": 4,
-    "type": "反計"
+    "name": "殿、私の馬を！",
+    "point": 3,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -369,9 +369,9 @@ callback(
   "suppression": 1,
   "skills": ["勇猛"],
   "strategy": {
-    "name": "大水計",
-    "point": 7,
-    "type": "ダメージ"
+    "name": "剛騎戦法",
+    "point": 3,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -386,9 +386,9 @@ callback(
   "suppression": 2,
   "skills": ["勇猛"],
   "strategy": {
-    "name": "十の因果",
+    "name": "刹那の怪力",
     "point": 3,
-    "type": "妨害"
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -403,9 +403,9 @@ callback(
   "suppression": 2,
   "skills": ["防柵", "魅力"],
   "strategy": {
-    "name": "神速戦法",
-    "point": 4,
-    "type": "強化"
+    "name": "詩聖の号令",
+    "point": 5,
+    "type": "全体強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -420,8 +420,8 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "魏武の強兵",
-    "point": 3,
+    "name": "鉄壁の守護神",
+    "point": 4,
     "type": "強化"
   }
 }, {
@@ -454,9 +454,9 @@ callback(
   "suppression": 2,
   "skills": ["魅力"],
   "strategy": {
-    "name": "巧遅の乱撃",
-    "point": 4,
-    "type": "強化"
+    "name": "翻意の計",
+    "point": 5,
+    "type": "妨害"
   }
 }, {
   "majorVer": "第1弾",
@@ -471,9 +471,9 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "離間の計",
-    "point": 6,
-    "type": "妨害"
+    "name": "神速の大号令",
+    "point": 7,
+    "type": "全体強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -488,9 +488,9 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "飛天の舞い",
-    "point": 5,
-    "type": "舞踊"
+    "name": "局地の弾劾",
+    "point": 3,
+    "type": "妨害"
   }
 }, {
   "majorVer": "第1弾",
@@ -505,9 +505,9 @@ callback(
   "suppression": 2,
   "skills": ["伏兵"],
   "strategy": {
-    "name": "悲哀の舞い",
-    "point": 6,
-    "type": "舞踊"
+    "name": "反計",
+    "point": 3,
+    "type": "反計"
   }
 }, {
   "majorVer": "第1弾",
@@ -522,9 +522,9 @@ callback(
   "suppression": 1,
   "skills": ["伏兵", "魅力"],
   "strategy": {
-    "name": "殿、私の馬を！",
-    "point": 3,
-    "type": "強化"
+    "name": "弱体化の計",
+    "point": 5,
+    "type": "妨害"
   }
 }, {
   "majorVer": "第1弾",
@@ -539,9 +539,9 @@ callback(
   "suppression": 2,
   "skills": ["勇猛"],
   "strategy": {
-    "name": "隻眼の一喝",
-    "point": 5,
-    "type": "妨害"
+    "name": "強化戦法",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -556,7 +556,7 @@ callback(
   "suppression": 2,
   "skills": ["魅力"],
   "strategy": {
-    "name": "剛騎戦法",
+    "name": "飛天の旋律",
     "point": 3,
     "type": "強化"
   }
@@ -573,9 +573,9 @@ callback(
   "suppression": 2,
   "skills": ["防柵"],
   "strategy": {
-    "name": "飛天の舞い",
+    "name": "援軍",
     "point": 5,
-    "type": "舞踊"
+    "type": "回復"
   }
 }, {
   "majorVer": "第1弾",
@@ -590,9 +590,9 @@ callback(
   "suppression": 2,
   "skills": ["魅力"],
   "strategy": {
-    "name": "巧遅の乱撃",
-    "point": 4,
-    "type": "強化"
+    "name": "錯乱の計",
+    "point": 3,
+    "type": "妨害"
   }
 }, {
   "majorVer": "第1弾",
@@ -607,9 +607,9 @@ callback(
   "suppression": 2,
   "skills": ["勇猛"],
   "strategy": {
-    "name": "覇者の求心",
-    "point": 6,
-    "type": "全体強化"
+    "name": "特攻戦法",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -624,9 +624,9 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "飛天の舞い",
+    "name": "牛歩の計",
     "point": 5,
-    "type": "舞踊"
+    "type": "妨害"
   }
 }, {
   "majorVer": "第1弾",
@@ -641,9 +641,9 @@ callback(
   "suppression": 1,
   "skills": ["勇猛"],
   "strategy": {
-    "name": "大水計",
-    "point": 7,
-    "type": "ダメージ"
+    "name": "神速戦法",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -658,9 +658,9 @@ callback(
   "suppression": 1,
   "skills": [],
   "strategy": {
-    "name": "挑発",
-    "point": 4,
-    "type": "妨害"
+    "name": "反計",
+    "point": 3,
+    "type": "反計"
   }
 }, {
   "majorVer": "第1弾",
@@ -675,9 +675,9 @@ callback(
   "suppression": 1,
   "skills": ["伏兵"],
   "strategy": {
-    "name": "覇者の求心",
+    "name": "守勢の反計",
     "point": 6,
-    "type": "全体強化"
+    "type": "反計"
   }
 }, {
   "majorVer": "第1弾",
@@ -692,8 +692,8 @@ callback(
   "suppression": 1,
   "skills": ["魅力"],
   "strategy": {
-    "name": "剛騎戦法",
-    "point": 3,
+    "name": "魅惑の笑顔",
+    "point": 5,
     "type": "強化"
   }
 }, {
@@ -709,9 +709,9 @@ callback(
   "suppression": 1,
   "skills": [],
   "strategy": {
-    "name": "刹那の怪力",
+    "name": "愚鈍の計",
     "point": 3,
-    "type": "強化"
+    "type": "妨害"
   }
 }, {
   "majorVer": "第1弾",
@@ -726,9 +726,9 @@ callback(
   "suppression": 1,
   "skills": [],
   "strategy": {
-    "name": "隻眼の一喝",
-    "point": 5,
-    "type": "妨害"
+    "name": "神速戦法",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -743,9 +743,9 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "攻守自在",
-    "point": 6,
-    "type": "全体強化"
+    "name": "征圧戦法",
+    "point": 2,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -760,9 +760,9 @@ callback(
   "suppression": 3,
   "skills": ["勇猛"],
   "strategy": {
-    "name": "詩聖の号令",
-    "point": 5,
-    "type": "全体強化"
+    "name": "武の咆哮",
+    "point": 6,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -777,9 +777,9 @@ callback(
   "suppression": 0,
   "skills": ["伏兵"],
   "strategy": {
-    "name": "玄妙なる反計",
-    "point": 4,
-    "type": "反計"
+    "name": "水計",
+    "point": 7,
+    "type": "ダメージ"
   }
 }, {
   "majorVer": "第1弾",
@@ -794,7 +794,7 @@ callback(
   "suppression": 1,
   "skills": ["勇猛", "魅力"],
   "strategy": {
-    "name": "鉄壁の守護神",
+    "name": "よみがえる悪霊",
     "point": 4,
     "type": "強化"
   }
@@ -811,9 +811,9 @@ callback(
   "suppression": 1,
   "skills": ["防柵"],
   "strategy": {
-    "name": "十の因果",
-    "point": 3,
-    "type": "妨害"
+    "name": "指揮",
+    "point": 5,
+    "type": "全体強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -828,9 +828,9 @@ callback(
   "suppression": 3,
   "skills": ["魅力"],
   "strategy": {
-    "name": "翻意の計",
-    "point": 5,
-    "type": "妨害"
+    "name": "魏武の継承者",
+    "point": 6,
+    "type": "全体強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -845,9 +845,9 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "挑発",
+    "name": "強化戦法",
     "point": 4,
-    "type": "妨害"
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -862,9 +862,9 @@ callback(
   "suppression": 3,
   "skills": [],
   "strategy": {
-    "name": "神速の大号令",
-    "point": 7,
-    "type": "全体強化"
+    "name": "強化戦法",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -879,9 +879,9 @@ callback(
   "suppression": 2,
   "skills": ["復活", "魅力"],
   "strategy": {
-    "name": "大水計",
-    "point": 7,
-    "type": "ダメージ"
+    "name": "劉備の大徳",
+    "point": 6,
+    "type": "全体強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -896,9 +896,9 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "刹那の怪力",
+    "name": "的確な援兵",
     "point": 3,
-    "type": "強化"
+    "type": "回復"
   }
 }, {
   "majorVer": "第1弾",
@@ -913,9 +913,9 @@ callback(
   "suppression": 2,
   "skills": ["伏兵", "復活", "魅力"],
   "strategy": {
-    "name": "剛騎戦法",
-    "point": 3,
-    "type": "強化"
+    "name": "援軍",
+    "point": 5,
+    "type": "回復"
   }
 }, {
   "majorVer": "第1弾",
@@ -930,9 +930,9 @@ callback(
   "suppression": 2,
   "skills": ["防柵", "魅力"],
   "strategy": {
-    "name": "的確な援兵",
-    "point": 3,
-    "type": "回復"
+    "name": "挑発",
+    "point": 4,
+    "type": "妨害"
   }
 }, {
   "majorVer": "第1弾",
@@ -947,9 +947,9 @@ callback(
   "suppression": 1,
   "skills": ["復活"],
   "strategy": {
-    "name": "飛天の舞い",
-    "point": 5,
-    "type": "舞踊"
+    "name": "奮激戦法",
+    "point": 3,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -964,9 +964,9 @@ callback(
   "suppression": 1,
   "skills": ["復活"],
   "strategy": {
-    "name": "飛天の舞い",
-    "point": 5,
-    "type": "舞踊"
+    "name": "強化戦法",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -981,9 +981,9 @@ callback(
   "suppression": 2,
   "skills": ["魅力"],
   "strategy": {
-    "name": "巧遅の乱撃",
-    "point": 4,
-    "type": "強化"
+    "name": "落雷",
+    "point": 6,
+    "type": "ダメージ"
   }
 }, {
   "majorVer": "第1弾",
@@ -998,7 +998,7 @@ callback(
   "suppression": 1,
   "skills": [],
   "strategy": {
-    "name": "強化戦法",
+    "name": "大車輪戦法",
     "point": 4,
     "type": "強化"
   }
@@ -1015,9 +1015,9 @@ callback(
   "suppression": 4,
   "skills": ["防柵", "勇猛", "魅力"],
   "strategy": {
-    "name": "隻眼の一喝",
-    "point": 5,
-    "type": "妨害"
+    "name": "武神の大号令",
+    "point": 7,
+    "type": "全体強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1032,9 +1032,9 @@ callback(
   "suppression": 1,
   "skills": ["勇猛", "魅力"],
   "strategy": {
-    "name": "的確な援兵",
+    "name": "若き血の目覚め",
     "point": 3,
-    "type": "回復"
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1049,8 +1049,8 @@ callback(
   "suppression": 2,
   "skills": ["魅力"],
   "strategy": {
-    "name": "攻守自在",
-    "point": 6,
+    "name": "指揮",
+    "point": 5,
     "type": "全体強化"
   }
 }, {
@@ -1066,9 +1066,9 @@ callback(
   "suppression": 1,
   "skills": ["魅力"],
   "strategy": {
-    "name": "猪突猛進",
-    "point": 3,
-    "type": "強化"
+    "name": "回復の舞い",
+    "point": 7,
+    "type": "舞踊"
   }
 }, {
   "majorVer": "第1弾",
@@ -1083,8 +1083,8 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "神速戦法",
-    "point": 4,
+    "name": "長槍戦法",
+    "point": 3,
     "type": "強化"
   }
 }, {
@@ -1100,9 +1100,9 @@ callback(
   "suppression": 1,
   "skills": ["伏兵"],
   "strategy": {
-    "name": "後方指揮",
+    "name": "無血開城",
     "point": 4,
-    "type": "全体強化"
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1117,9 +1117,9 @@ callback(
   "suppression": 1,
   "skills": [],
   "strategy": {
-    "name": "覇者の求心",
-    "point": 6,
-    "type": "全体強化"
+    "name": "反逆の狼煙",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1134,9 +1134,9 @@ callback(
   "suppression": 2,
   "skills": ["防柵", "勇猛"],
   "strategy": {
-    "name": "挑発",
+    "name": "零距離戦法",
     "point": 4,
-    "type": "妨害"
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1151,8 +1151,8 @@ callback(
   "suppression": 2,
   "skills": ["伏兵"],
   "strategy": {
-    "name": "神速戦法",
-    "point": 4,
+    "name": "奮激戦法",
+    "point": 3,
     "type": "強化"
   }
 }, {
@@ -1168,9 +1168,9 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "離間の計",
-    "point": 6,
-    "type": "妨害"
+    "name": "零距離戦法",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1185,9 +1185,9 @@ callback(
   "suppression": 0,
   "skills": ["勇猛"],
   "strategy": {
-    "name": "大水計",
-    "point": 7,
-    "type": "ダメージ"
+    "name": "長槍戦法",
+    "point": 3,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1202,7 +1202,7 @@ callback(
   "suppression": 3,
   "skills": ["伏兵", "魅力"],
   "strategy": {
-    "name": "攻守自在",
+    "name": "八卦の軍略",
     "point": 6,
     "type": "全体強化"
   }
@@ -1219,9 +1219,9 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "離間の計",
+    "name": "落雷",
     "point": 6,
-    "type": "妨害"
+    "type": "ダメージ"
   }
 }, {
   "majorVer": "第1弾",
@@ -1253,9 +1253,9 @@ callback(
   "suppression": 1,
   "skills": ["伏兵"],
   "strategy": {
-    "name": "後方指揮",
-    "point": 4,
-    "type": "全体強化"
+    "name": "嘲笑の計",
+    "point": 3,
+    "type": "妨害"
   }
 }, {
   "majorVer": "第1弾",
@@ -1270,9 +1270,9 @@ callback(
   "suppression": 2,
   "skills": ["勇猛"],
   "strategy": {
-    "name": "覇者の求心",
+    "name": "雷槍・丈八蛇矛",
     "point": 6,
-    "type": "全体強化"
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1287,9 +1287,9 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "攻守自在",
-    "point": 6,
-    "type": "全体強化"
+    "name": "不撓不屈",
+    "point": 5,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1304,9 +1304,9 @@ callback(
   "suppression": 1,
   "skills": ["伏兵"],
   "strategy": {
-    "name": "大水計",
-    "point": 7,
-    "type": "ダメージ"
+    "name": "泣斬馬謖",
+    "point": 5,
+    "type": "特殊"
   }
 }, {
   "majorVer": "第1弾",
@@ -1321,9 +1321,9 @@ callback(
   "suppression": 0,
   "skills": ["伏兵"],
   "strategy": {
-    "name": "飛天の舞い",
-    "point": 5,
-    "type": "舞踊"
+    "name": "奮激戦法",
+    "point": 3,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1338,9 +1338,9 @@ callback(
   "suppression": 2,
   "skills": ["勇猛"],
   "strategy": {
-    "name": "神速の大号令",
-    "point": 7,
-    "type": "全体強化"
+    "name": "白銀の獅子",
+    "point": 6,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1355,9 +1355,9 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "局地の弾劾",
+    "name": "車輪の伝授",
     "point": 3,
-    "type": "妨害"
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1372,9 +1372,9 @@ callback(
   "suppression": 2,
   "skills": ["防柵", "魅力"],
   "strategy": {
-    "name": "殿、私の馬を！",
-    "point": 3,
-    "type": "強化"
+    "name": "挺身の身代わり",
+    "point": 4,
+    "type": "復活"
   }
 }, {
   "majorVer": "第1弾",
@@ -1389,9 +1389,9 @@ callback(
   "suppression": 2,
   "skills": ["防柵"],
   "strategy": {
-    "name": "局地の弾劾",
-    "point": 3,
-    "type": "妨害"
+    "name": "強化戦法",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1406,9 +1406,9 @@ callback(
   "suppression": 2,
   "skills": ["復活", "魅力"],
   "strategy": {
-    "name": "反計",
-    "point": 3,
-    "type": "反計"
+    "name": "戦女の後援",
+    "point": 4,
+    "type": "全体強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1423,8 +1423,8 @@ callback(
   "suppression": 2,
   "skills": ["伏兵"],
   "strategy": {
-    "name": "隻眼の一喝",
-    "point": 5,
+    "name": "雲散の計",
+    "point": 4,
     "type": "妨害"
   }
 }, {
@@ -1440,8 +1440,8 @@ callback(
   "suppression": 1,
   "skills": ["伏兵"],
   "strategy": {
-    "name": "挑発",
-    "point": 4,
+    "name": "連環の計",
+    "point": 6,
     "type": "妨害"
   }
 }, {
@@ -1457,9 +1457,9 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "弱体化の計",
-    "point": 5,
-    "type": "妨害"
+    "name": "反逆の狼煙",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1474,9 +1474,9 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "神速の大号令",
-    "point": 7,
-    "type": "全体強化"
+    "name": "落雷",
+    "point": 6,
+    "type": "ダメージ"
   }
 }, {
   "majorVer": "第1弾",
@@ -1491,9 +1491,9 @@ callback(
   "suppression": 2,
   "skills": ["復活", "魅力"],
   "strategy": {
-    "name": "大水計",
-    "point": 7,
-    "type": "ダメージ"
+    "name": "劉備の大徳",
+    "point": 6,
+    "type": "全体強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1508,9 +1508,9 @@ callback(
   "suppression": 1,
   "skills": [],
   "strategy": {
-    "name": "玄妙なる反計",
+    "name": "強化戦法",
     "point": 4,
-    "type": "反計"
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1525,9 +1525,9 @@ callback(
   "suppression": 1,
   "skills": [],
   "strategy": {
-    "name": "悲哀の舞い",
-    "point": 6,
-    "type": "舞踊"
+    "name": "強化戦法",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1542,9 +1542,9 @@ callback(
   "suppression": 2,
   "skills": ["復活"],
   "strategy": {
-    "name": "局地の弾劾",
-    "point": 3,
-    "type": "妨害"
+    "name": "大車輪戦法",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1559,9 +1559,9 @@ callback(
   "suppression": 1,
   "skills": ["魅力"],
   "strategy": {
-    "name": "飛天の旋律",
+    "name": "局地の雲散",
     "point": 3,
-    "type": "強化"
+    "type": "妨害"
   }
 }, {
   "majorVer": "第1弾",
@@ -1576,9 +1576,9 @@ callback(
   "suppression": 1,
   "skills": ["復活"],
   "strategy": {
-    "name": "翻意の計",
-    "point": 5,
-    "type": "妨害"
+    "name": "無知の勇",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1593,9 +1593,9 @@ callback(
   "suppression": 1,
   "skills": [],
   "strategy": {
-    "name": "十の因果",
-    "point": 3,
-    "type": "妨害"
+    "name": "一騎当千",
+    "point": 5,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1610,7 +1610,7 @@ callback(
   "suppression": 2,
   "skills": ["勇猛", "魅力"],
   "strategy": {
-    "name": "女傑の連撃",
+    "name": "孫呉流弓技",
     "point": 4,
     "type": "強化"
   }
@@ -1627,9 +1627,9 @@ callback(
   "suppression": 2,
   "skills": ["勇猛"],
   "strategy": {
-    "name": "挑発",
-    "point": 4,
-    "type": "妨害"
+    "name": "剛槍戦法",
+    "point": 3,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1644,9 +1644,9 @@ callback(
   "suppression": 1,
   "skills": ["復活"],
   "strategy": {
-    "name": "飛天の舞い",
-    "point": 5,
-    "type": "舞踊"
+    "name": "奮激の伝授",
+    "point": 3,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1661,9 +1661,9 @@ callback(
   "suppression": 2,
   "skills": ["防柵"],
   "strategy": {
-    "name": "悲哀の舞い",
-    "point": 6,
-    "type": "舞踊"
+    "name": "白眉の教授",
+    "point": 3,
+    "type": "全体強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1678,9 +1678,9 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "離間の計",
-    "point": 6,
-    "type": "妨害"
+    "name": "強化戦法",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1695,9 +1695,9 @@ callback(
   "suppression": 2,
   "skills": ["魅力"],
   "strategy": {
-    "name": "隻眼の一喝",
-    "point": 5,
-    "type": "妨害"
+    "name": "天啓の幻",
+    "point": 7,
+    "type": "全体強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1712,9 +1712,9 @@ callback(
   "suppression": 4,
   "skills": [],
   "strategy": {
-    "name": "覇者の求心",
-    "point": 6,
-    "type": "全体強化"
+    "name": "強化戦法",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1729,9 +1729,9 @@ callback(
   "suppression": 1,
   "skills": ["魅力"],
   "strategy": {
-    "name": "反計",
-    "point": 3,
-    "type": "反計"
+    "name": "錯乱の舞い",
+    "point": 6,
+    "type": "舞踊"
   }
 }, {
   "majorVer": "第1弾",
@@ -1746,9 +1746,9 @@ callback(
   "suppression": 1,
   "skills": ["伏兵"],
   "strategy": {
-    "name": "悲哀の舞い",
-    "point": 6,
-    "type": "舞踊"
+    "name": "命がけの推挙",
+    "point": 2,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1763,9 +1763,9 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "隻眼の一喝",
-    "point": 5,
-    "type": "妨害"
+    "name": "強化戦法",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1780,9 +1780,9 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "離間の計",
-    "point": 6,
-    "type": "妨害"
+    "name": "残響の鈴音",
+    "point": 5,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1797,9 +1797,9 @@ callback(
   "suppression": 2,
   "skills": ["伏兵", "防柵"],
   "strategy": {
-    "name": "巧遅の乱撃",
-    "point": 4,
-    "type": "強化"
+    "name": "侮蔑の計",
+    "point": 3,
+    "type": "妨害"
   }
 }, {
   "majorVer": "第1弾",
@@ -1814,9 +1814,9 @@ callback(
   "suppression": 1,
   "skills": [],
   "strategy": {
-    "name": "悲哀の舞い",
-    "point": 6,
-    "type": "舞踊"
+    "name": "強化戦法",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1831,8 +1831,8 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "刹那の怪力",
-    "point": 3,
+    "name": "遠弓麻痺矢戦法",
+    "point": 4,
     "type": "強化"
   }
 }, {
@@ -1848,9 +1848,9 @@ callback(
   "suppression": 1,
   "skills": ["防柵", "魅力"],
   "strategy": {
-    "name": "殿、私の馬を！",
+    "name": "防柵小再建",
     "point": 3,
-    "type": "強化"
+    "type": "復活"
   }
 }, {
   "majorVer": "第1弾",
@@ -1865,9 +1865,9 @@ callback(
   "suppression": 2,
   "skills": ["防柵", "魅力"],
   "strategy": {
-    "name": "援軍",
+    "name": "賢母の教え",
     "point": 5,
-    "type": "回復"
+    "type": "全体強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1882,9 +1882,9 @@ callback(
   "suppression": 2,
   "skills": ["防柵"],
   "strategy": {
-    "name": "覇者の求心",
-    "point": 6,
-    "type": "全体強化"
+    "name": "漢の意地",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1899,9 +1899,9 @@ callback(
   "suppression": 2,
   "skills": ["伏兵", "魅力"],
   "strategy": {
-    "name": "神速の大号令",
+    "name": "赤壁の大火",
     "point": 7,
-    "type": "全体強化"
+    "type": "ダメージ"
   }
 }, {
   "majorVer": "第1弾",
@@ -1916,9 +1916,9 @@ callback(
   "suppression": 1,
   "skills": [],
   "strategy": {
-    "name": "隻眼の一喝",
-    "point": 5,
-    "type": "妨害"
+    "name": "孫呉の戦",
+    "point": 3,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -1933,9 +1933,9 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "玄妙なる反計",
-    "point": 4,
-    "type": "反計"
+    "name": "火計",
+    "point": 7,
+    "type": "ダメージ"
   }
 }, {
   "majorVer": "第1弾",
@@ -1950,7 +1950,7 @@ callback(
   "suppression": 2,
   "skills": ["伏兵"],
   "strategy": {
-    "name": "飛天の旋律",
+    "name": "守城戦法",
     "point": 3,
     "type": "強化"
   }
@@ -1967,9 +1967,9 @@ callback(
   "suppression": 2,
   "skills": ["魅力"],
   "strategy": {
-    "name": "猪突猛進",
+    "name": "浄化の計",
     "point": 3,
-    "type": "強化"
+    "type": "回復"
   }
 }, {
   "majorVer": "第1弾",
@@ -1984,9 +1984,9 @@ callback(
   "suppression": 1,
   "skills": [],
   "strategy": {
-    "name": "大水計",
-    "point": 7,
-    "type": "ダメージ"
+    "name": "川賊の破弓",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2001,9 +2001,9 @@ callback(
   "suppression": 2,
   "skills": ["防柵", "魅力"],
   "strategy": {
-    "name": "飛天の旋律",
-    "point": 3,
-    "type": "強化"
+    "name": "流星の儀式",
+    "point": 5,
+    "type": "特殊"
   }
 }, {
   "majorVer": "第1弾",
@@ -2018,9 +2018,9 @@ callback(
   "suppression": 1,
   "skills": [],
   "strategy": {
-    "name": "刹那の怪力",
+    "name": "身代わり",
     "point": 3,
-    "type": "強化"
+    "type": "復活"
   }
 }, {
   "majorVer": "第1弾",
@@ -2035,9 +2035,9 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "神速戦法",
-    "point": 4,
-    "type": "強化"
+    "name": "火計",
+    "point": 7,
+    "type": "ダメージ"
   }
 }, {
   "majorVer": "第1弾",
@@ -2052,9 +2052,9 @@ callback(
   "suppression": 3,
   "skills": ["防柵", "魅力"],
   "strategy": {
-    "name": "神速戦法",
-    "point": 4,
-    "type": "強化"
+    "name": "若き王の手腕",
+    "point": 6,
+    "type": "全体強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2069,9 +2069,9 @@ callback(
   "suppression": 2,
   "skills": ["魅力"],
   "strategy": {
-    "name": "隻眼の一喝",
-    "point": 5,
-    "type": "妨害"
+    "name": "天啓の幻",
+    "point": 7,
+    "type": "全体強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2086,8 +2086,8 @@ callback(
   "suppression": 1,
   "skills": ["勇猛", "魅力"],
   "strategy": {
-    "name": "魏武の強兵",
-    "point": 3,
+    "name": "小覇王の蛮勇",
+    "point": 5,
     "type": "強化"
   }
 }, {
@@ -2103,7 +2103,7 @@ callback(
   "suppression": 1,
   "skills": ["勇猛", "魅力"],
   "strategy": {
-    "name": "猪突猛進",
+    "name": "弓腰姫の目覚め",
     "point": 3,
     "type": "強化"
   }
@@ -2120,9 +2120,9 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "飛天の舞い",
-    "point": 5,
-    "type": "舞踊"
+    "name": "孫呉の戦",
+    "point": 3,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2137,8 +2137,8 @@ callback(
   "suppression": 2,
   "skills": ["魅力"],
   "strategy": {
-    "name": "巧遅の乱撃",
-    "point": 4,
+    "name": "大華の旋律",
+    "point": 3,
     "type": "強化"
   }
 }, {
@@ -2154,9 +2154,9 @@ callback(
   "suppression": 1,
   "skills": ["勇猛"],
   "strategy": {
-    "name": "翻意の計",
+    "name": "剛弓麻痺矢戦法",
     "point": 5,
-    "type": "妨害"
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2171,9 +2171,9 @@ callback(
   "suppression": 1,
   "skills": ["伏兵"],
   "strategy": {
-    "name": "局地の弾劾",
+    "name": "麻痺矢の伝授",
     "point": 3,
-    "type": "妨害"
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2188,9 +2188,9 @@ callback(
   "suppression": 1,
   "skills": ["防柵"],
   "strategy": {
-    "name": "後方指揮",
-    "point": 4,
-    "type": "全体強化"
+    "name": "剛弓の伝授",
+    "point": 3,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2205,9 +2205,9 @@ callback(
   "suppression": 1,
   "skills": ["勇猛"],
   "strategy": {
-    "name": "翻意の計",
-    "point": 5,
-    "type": "妨害"
+    "name": "漢の意地",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2222,9 +2222,9 @@ callback(
   "suppression": 2,
   "skills": ["防柵"],
   "strategy": {
-    "name": "挑発",
-    "point": 4,
-    "type": "妨害"
+    "name": "遠弓戦法",
+    "point": 3,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2239,8 +2239,8 @@ callback(
   "suppression": 2,
   "skills": ["防柵"],
   "strategy": {
-    "name": "覇者の求心",
-    "point": 6,
+    "name": "麻痺矢の大号令",
+    "point": 7,
     "type": "全体強化"
   }
 }, {
@@ -2256,9 +2256,9 @@ callback(
   "suppression": 0,
   "skills": [],
   "strategy": {
-    "name": "隻眼の一喝",
-    "point": 5,
-    "type": "妨害"
+    "name": "特攻戦法",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2273,7 +2273,7 @@ callback(
   "suppression": 1,
   "skills": ["伏兵"],
   "strategy": {
-    "name": "刹那の怪力",
+    "name": "長槍戦法",
     "point": 3,
     "type": "強化"
   }
@@ -2290,9 +2290,9 @@ callback(
   "suppression": 2,
   "skills": ["防柵", "魅力"],
   "strategy": {
-    "name": "翻意の計",
-    "point": 5,
-    "type": "妨害"
+    "name": "駿才の大号令",
+    "point": 6,
+    "type": "全体強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2307,8 +2307,8 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "刹那の怪力",
-    "point": 3,
+    "name": "強化戦法",
+    "point": 4,
     "type": "強化"
   }
 }, {
@@ -2324,9 +2324,9 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "神速の大号令",
-    "point": 7,
-    "type": "全体強化"
+    "name": "強化戦法",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2341,9 +2341,9 @@ callback(
   "suppression": 2,
   "skills": ["勇猛"],
   "strategy": {
-    "name": "隻眼の一喝",
+    "name": "呉下の阿蒙",
     "point": 5,
-    "type": "妨害"
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2358,9 +2358,9 @@ callback(
   "suppression": 2,
   "skills": ["伏兵", "魅力"],
   "strategy": {
-    "name": "的確な援兵",
-    "point": 3,
-    "type": "回復"
+    "name": "美周姫の号令",
+    "point": 5,
+    "type": "全体強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2375,9 +2375,9 @@ callback(
   "suppression": 2,
   "skills": ["伏兵"],
   "strategy": {
-    "name": "魏武の強兵",
-    "point": 3,
-    "type": "強化"
+    "name": "援軍",
+    "point": 5,
+    "type": "回復"
   }
 }, {
   "majorVer": "第1弾",
@@ -2392,9 +2392,9 @@ callback(
   "suppression": 2,
   "skills": ["防柵"],
   "strategy": {
-    "name": "弱体化の計",
-    "point": 5,
-    "type": "妨害"
+    "name": "ふんばれ！",
+    "point": 3,
+    "type": "全体強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2426,9 +2426,9 @@ callback(
   "suppression": 1,
   "skills": [],
   "strategy": {
-    "name": "挑発",
+    "name": "単騎の神速行",
     "point": 4,
-    "type": "妨害"
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2443,9 +2443,9 @@ callback(
   "suppression": 1,
   "skills": [],
   "strategy": {
-    "name": "翻意の計",
-    "point": 5,
-    "type": "妨害"
+    "name": "火計",
+    "point": 7,
+    "type": "ダメージ"
   }
 }, {
   "majorVer": "第1弾",
@@ -2460,9 +2460,9 @@ callback(
   "suppression": 3,
   "skills": ["勇猛", "魅力"],
   "strategy": {
-    "name": "十の因果",
-    "point": 3,
-    "type": "妨害"
+    "name": "猛虎蹴撃",
+    "point": 6,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2477,9 +2477,9 @@ callback(
   "suppression": 1,
   "skills": ["魅力"],
   "strategy": {
-    "name": "剛騎戦法",
-    "point": 3,
-    "type": "強化"
+    "name": "大流星の儀式",
+    "point": 7,
+    "type": "特殊"
   }
 }, {
   "majorVer": "第1弾",
@@ -2494,9 +2494,9 @@ callback(
   "suppression": 2,
   "skills": ["魅力"],
   "strategy": {
-    "name": "魏武の強兵",
-    "point": 3,
-    "type": "強化"
+    "name": "守刀防御",
+    "point": 5,
+    "type": "ダメージ"
   }
 }, {
   "majorVer": "第1弾",
@@ -2511,9 +2511,9 @@ callback(
   "suppression": 1,
   "skills": ["伏兵", "復活"],
   "strategy": {
-    "name": "挑発",
+    "name": "呪詛の仙術",
     "point": 4,
-    "type": "妨害"
+    "type": "特殊"
   }
 }, {
   "majorVer": "第1弾",
@@ -2528,9 +2528,9 @@ callback(
   "suppression": 0,
   "skills": [],
   "strategy": {
-    "name": "悲哀の舞い",
-    "point": 6,
-    "type": "舞踊"
+    "name": "自爆",
+    "point": 3,
+    "type": "ダメージ"
   }
 }, {
   "majorVer": "第1弾",
@@ -2545,9 +2545,9 @@ callback(
   "suppression": 0,
   "skills": [],
   "strategy": {
-    "name": "玄妙なる反計",
+    "name": "強化戦法",
     "point": 4,
-    "type": "反計"
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2562,9 +2562,9 @@ callback(
   "suppression": 1,
   "skills": ["復活"],
   "strategy": {
-    "name": "局地の弾劾",
+    "name": "悪逆無道",
     "point": 3,
-    "type": "妨害"
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2579,9 +2579,9 @@ callback(
   "suppression": 2,
   "skills": ["勇猛"],
   "strategy": {
-    "name": "隻眼の一喝",
-    "point": 5,
-    "type": "妨害"
+    "name": "悪鬼の大車輪",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2596,9 +2596,9 @@ callback(
   "suppression": 1,
   "skills": [],
   "strategy": {
-    "name": "隻眼の一喝",
-    "point": 5,
-    "type": "妨害"
+    "name": "反逆の狼煙",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2613,9 +2613,9 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "攻守自在",
-    "point": 6,
-    "type": "全体強化"
+    "name": "弱体化の小計",
+    "point": 4,
+    "type": "妨害"
   }
 }, {
   "majorVer": "第1弾",
@@ -2630,9 +2630,9 @@ callback(
   "suppression": 1,
   "skills": ["復活"],
   "strategy": {
-    "name": "飛天の舞い",
-    "point": 5,
-    "type": "舞踊"
+    "name": "脱兎戦法",
+    "point": 3,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2647,8 +2647,8 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "刹那の怪力",
-    "point": 3,
+    "name": "多勢の攻め",
+    "point": 4,
     "type": "強化"
   }
 }, {
@@ -2664,9 +2664,9 @@ callback(
   "suppression": 2,
   "skills": ["魅力"],
   "strategy": {
-    "name": "反計",
-    "point": 3,
-    "type": "反計"
+    "name": "甘き毒",
+    "point": 4,
+    "type": "妨害"
   }
 }, {
   "majorVer": "第1弾",
@@ -2681,9 +2681,9 @@ callback(
   "suppression": 2,
   "skills": ["復活"],
   "strategy": {
-    "name": "弱体化の計",
-    "point": 5,
-    "type": "妨害"
+    "name": "悪逆無道",
+    "point": 3,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2698,8 +2698,8 @@ callback(
   "suppression": 2,
   "skills": ["魅力"],
   "strategy": {
-    "name": "神速の大号令",
-    "point": 7,
+    "name": "白馬義従",
+    "point": 5,
     "type": "全体強化"
   }
 }, {
@@ -2715,9 +2715,9 @@ callback(
   "suppression": 2,
   "skills": ["伏兵"],
   "strategy": {
-    "name": "翻意の計",
-    "point": 5,
-    "type": "妨害"
+    "name": "変化の仙術",
+    "point": 3,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2732,9 +2732,9 @@ callback(
   "suppression": 1,
   "skills": ["勇猛"],
   "strategy": {
-    "name": "神速の大号令",
-    "point": 7,
-    "type": "全体強化"
+    "name": "火事場の馬鹿力",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2749,9 +2749,9 @@ callback(
   "suppression": 2,
   "skills": ["魅力"],
   "strategy": {
-    "name": "巧遅の乱撃",
-    "point": 4,
-    "type": "強化"
+    "name": "誘惑",
+    "point": 5,
+    "type": "妨害"
   }
 }, {
   "majorVer": "第1弾",
@@ -2766,8 +2766,8 @@ callback(
   "suppression": 1,
   "skills": ["伏兵"],
   "strategy": {
-    "name": "攻守自在",
-    "point": 6,
+    "name": "指揮",
+    "point": 5,
     "type": "全体強化"
   }
 }, {
@@ -2783,9 +2783,9 @@ callback(
   "suppression": 2,
   "skills": ["勇猛"],
   "strategy": {
-    "name": "玄妙なる反計",
+    "name": "火事場の馬鹿力",
     "point": 4,
-    "type": "反計"
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2800,9 +2800,9 @@ callback(
   "suppression": 2,
   "skills": ["魅力"],
   "strategy": {
-    "name": "詩聖の号令",
-    "point": 5,
-    "type": "全体強化"
+    "name": "太平要術",
+    "point": 6,
+    "type": "復活"
   }
 }, {
   "majorVer": "第1弾",
@@ -2817,9 +2817,9 @@ callback(
   "suppression": 0,
   "skills": [],
   "strategy": {
-    "name": "局地の弾劾",
-    "point": 3,
-    "type": "妨害"
+    "name": "大将軍の大号令",
+    "point": 4,
+    "type": "全体強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2834,9 +2834,9 @@ callback(
   "suppression": 2,
   "skills": ["伏兵"],
   "strategy": {
-    "name": "弱体化の計",
-    "point": 5,
-    "type": "妨害"
+    "name": "火事場の援軍",
+    "point": 4,
+    "type": "回復"
   }
 }, {
   "majorVer": "第1弾",
@@ -2851,9 +2851,9 @@ callback(
   "suppression": 3,
   "skills": ["魅力"],
   "strategy": {
-    "name": "錯乱の計",
-    "point": 3,
-    "type": "妨害"
+    "name": "傾国の舞い",
+    "point": 7,
+    "type": "舞踊"
   }
 }, {
   "majorVer": "第1弾",
@@ -2868,9 +2868,9 @@ callback(
   "suppression": 1,
   "skills": [],
   "strategy": {
-    "name": "飛天の舞い",
+    "name": "牛歩の計",
     "point": 5,
-    "type": "舞踊"
+    "type": "妨害"
   }
 }, {
   "majorVer": "第1弾",
@@ -2885,9 +2885,9 @@ callback(
   "suppression": 1,
   "skills": ["復活"],
   "strategy": {
-    "name": "飛天の舞い",
-    "point": 5,
-    "type": "舞踊"
+    "name": "強化戦法",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2902,9 +2902,9 @@ callback(
   "suppression": 0,
   "skills": [],
   "strategy": {
-    "name": "隻眼の一喝",
-    "point": 5,
-    "type": "妨害"
+    "name": "黄巾の群れ",
+    "point": 3,
+    "type": "回復"
   }
 }, {
   "majorVer": "第1弾",
@@ -2919,9 +2919,9 @@ callback(
   "suppression": 1,
   "skills": ["防柵"],
   "strategy": {
-    "name": "強化戦法",
+    "name": "五斗の米",
     "point": 4,
-    "type": "強化"
+    "type": "復活"
   }
 }, {
   "majorVer": "第1弾",
@@ -2936,9 +2936,9 @@ callback(
   "suppression": 2,
   "skills": ["伏兵"],
   "strategy": {
-    "name": "悲哀の舞い",
-    "point": 6,
-    "type": "舞踊"
+    "name": "猛将への献策",
+    "point": 3,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2953,9 +2953,9 @@ callback(
   "suppression": 1,
   "skills": ["復活"],
   "strategy": {
-    "name": "刹那の怪力",
+    "name": "黄巾の群れ",
     "point": 3,
-    "type": "強化"
+    "type": "回復"
   }
 }, {
   "majorVer": "第1弾",
@@ -2970,9 +2970,9 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "離間の計",
-    "point": 6,
-    "type": "妨害"
+    "name": "暴虐なる覇道",
+    "point": 5,
+    "type": "全体強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -2987,8 +2987,8 @@ callback(
   "suppression": 2,
   "skills": [],
   "strategy": {
-    "name": "魏武の強兵",
-    "point": 3,
+    "name": "烏丸流弓技",
+    "point": 5,
     "type": "強化"
   }
 }, {
@@ -3004,9 +3004,9 @@ callback(
   "suppression": 1,
   "skills": [],
   "strategy": {
-    "name": "覇者の求心",
-    "point": 6,
-    "type": "全体強化"
+    "name": "神速戦法",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -3021,9 +3021,9 @@ callback(
   "suppression": 1,
   "skills": ["復活"],
   "strategy": {
-    "name": "弱体化の計",
-    "point": 5,
-    "type": "妨害"
+    "name": "黄巾の群れ",
+    "point": 3,
+    "type": "回復"
   }
 }, {
   "majorVer": "第1弾",
@@ -3038,8 +3038,8 @@ callback(
   "suppression": 1,
   "skills": [],
   "strategy": {
-    "name": "刹那の怪力",
-    "point": 3,
+    "name": "強化戦法",
+    "point": 4,
     "type": "強化"
   }
 }, {
@@ -3055,9 +3055,9 @@ callback(
   "suppression": 2,
   "skills": ["魅力"],
   "strategy": {
-    "name": "魏武の強兵",
-    "point": 3,
-    "type": "強化"
+    "name": "西涼の乱",
+    "point": 4,
+    "type": "復活"
   }
 }, {
   "majorVer": "第1弾",
@@ -3072,9 +3072,9 @@ callback(
   "suppression": 1,
   "skills": ["防柵", "魅力"],
   "strategy": {
-    "name": "援軍",
-    "point": 5,
-    "type": "回復"
+    "name": "猛勇の伝授",
+    "point": 3,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -3089,9 +3089,9 @@ callback(
   "suppression": 0,
   "skills": ["伏兵"],
   "strategy": {
-    "name": "悲哀の舞い",
-    "point": 6,
-    "type": "舞踊"
+    "name": "香車戦法",
+    "point": 2,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -3106,7 +3106,7 @@ callback(
   "suppression": 1,
   "skills": ["復活"],
   "strategy": {
-    "name": "刹那の怪力",
+    "name": "悪逆無道",
     "point": 3,
     "type": "強化"
   }
@@ -3123,8 +3123,8 @@ callback(
   "suppression": 2,
   "skills": ["防柵"],
   "strategy": {
-    "name": "翻意の計",
-    "point": 5,
+    "name": "滅国の毒牙",
+    "point": 4,
     "type": "妨害"
   }
 }, {
@@ -3140,8 +3140,8 @@ callback(
   "suppression": 0,
   "skills": ["防柵"],
   "strategy": {
-    "name": "刹那の怪力",
-    "point": 3,
+    "name": "防護戦法",
+    "point": 4,
     "type": "強化"
   }
 }, {
@@ -3157,8 +3157,8 @@ callback(
   "suppression": 2,
   "skills": ["勇猛"],
   "strategy": {
-    "name": "強化戦法",
-    "point": 4,
+    "name": "天下無双・飛",
+    "point": 7,
     "type": "強化"
   }
 }, {
@@ -3174,7 +3174,7 @@ callback(
   "suppression": 1,
   "skills": ["復活"],
   "strategy": {
-    "name": "魏武の強兵",
+    "name": "剛騎戦法",
     "point": 3,
     "type": "強化"
   }
@@ -3191,9 +3191,9 @@ callback(
   "suppression": 2,
   "skills": ["勇猛", "魅力"],
   "strategy": {
-    "name": "錯乱の計",
-    "point": 3,
-    "type": "妨害"
+    "name": "乱戟無双",
+    "point": 6,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -3208,9 +3208,9 @@ callback(
   "suppression": 1,
   "skills": ["勇猛"],
   "strategy": {
-    "name": "覇者の求心",
-    "point": 6,
-    "type": "全体強化"
+    "name": "陥陣営",
+    "point": 4,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -3225,9 +3225,9 @@ callback(
   "suppression": 2,
   "skills": ["防柵", "魅力"],
   "strategy": {
-    "name": "援軍",
-    "point": 5,
-    "type": "回復"
+    "name": "才媛の旋律",
+    "point": 3,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -3242,9 +3242,9 @@ callback(
   "suppression": 2,
   "skills": ["魅力"],
   "strategy": {
-    "name": "離間の計",
-    "point": 6,
-    "type": "妨害"
+    "name": "錦馬超の叛撃",
+    "point": 5,
+    "type": "強化"
   }
 }, {
   "majorVer": "第1弾",
@@ -3276,8 +3276,8 @@ callback(
   "suppression": 1,
   "skills": [],
   "strategy": {
-    "name": "猪突猛進",
-    "point": 3,
+    "name": "神速戦法",
+    "point": 4,
     "type": "強化"
   }
 }, {
@@ -3293,9 +3293,9 @@ callback(
   "suppression": 1,
   "skills": [],
   "strategy": {
-    "name": "反計",
+    "name": "剛騎戦法",
     "point": 3,
-    "type": "反計"
+    "type": "強化"
   }
 }]
 );
