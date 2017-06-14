@@ -834,6 +834,74 @@ callback3594t(
   }
 }, {
   "majorVer": "第1弾",
+  "releaseVer": "第1弾-4",
+  "states": "魏",
+  "rarity": "R",
+  "name": "郭氏",
+  "cost": 1,
+  "unitType": "騎兵",
+  "power": 1,
+  "intelligence": 6,
+  "suppression": 2,
+  "skills": ["防柵", "魅力"],
+  "strategy": {
+    "name": "弱体化の小計",
+    "point": 4,
+    "type": "妨害"
+  }
+}, {
+  "majorVer": "第1弾",
+  "releaseVer": "第1弾-4",
+  "states": "魏",
+  "rarity": "R",
+  "name": "郭淮",
+  "cost": 2,
+  "unitType": "弓兵",
+  "power": 7,
+  "intelligence": 8,
+  "suppression": 2,
+  "skills": [],
+  "strategy": {
+    "name": "迅速なる司令",
+    "point": 5,
+    "type": "全体強化"
+  }
+}, {
+  "majorVer": "第1弾",
+  "releaseVer": "第1弾-4",
+  "states": "魏",
+  "rarity": "C",
+  "name": "周宣",
+  "cost": 1,
+  "unitType": "歩兵",
+  "power": 3,
+  "intelligence": 4,
+  "suppression": 2,
+  "skills": [],
+  "strategy": {
+    "name": "当たるも八卦！",
+    "point": 4,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第1弾",
+  "releaseVer": "第1弾-4",
+  "states": "魏",
+  "rarity": "R",
+  "name": "李典",
+  "cost": 1.5,
+  "unitType": "騎兵",
+  "power": 4,
+  "intelligence": 6,
+  "suppression": 2,
+  "skills": ["防柵"],
+  "strategy": {
+    "name": "駆除の反計",
+    "point": 3,
+    "type": "反計"
+  }
+}, {
+  "majorVer": "第1弾",
   "releaseVer": "第1弾",
   "states": "蜀",
   "rarity": "UC",
@@ -1667,6 +1735,74 @@ callback3594t(
   }
 }, {
   "majorVer": "第1弾",
+  "releaseVer": "第1弾-4",
+  "states": "蜀",
+  "rarity": "R",
+  "name": "黄月英",
+  "cost": 1.5,
+  "unitType": "攻城兵",
+  "power": 4,
+  "intelligence": 9,
+  "suppression": 0,
+  "skills": ["魅力"],
+  "strategy": {
+    "name": "黄式加速装置",
+    "point": 4,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第1弾",
+  "releaseVer": "第1弾-4",
+  "states": "蜀",
+  "rarity": "SR",
+  "name": "張皇后",
+  "cost": 1,
+  "unitType": "騎兵",
+  "power": 1,
+  "intelligence": 7,
+  "suppression": 1,
+  "skills": ["防柵", "魅力"],
+  "strategy": {
+    "name": "静かなる落雷",
+    "point": 5,
+    "type": "ダメージ"
+  }
+}, {
+  "majorVer": "第1弾",
+  "releaseVer": "第1弾-4",
+  "states": "蜀",
+  "rarity": "R",
+  "name": "馬謖",
+  "cost": 2,
+  "unitType": "騎兵",
+  "power": 6,
+  "intelligence": 8,
+  "suppression": 2,
+  "skills": ["伏兵"],
+  "strategy": {
+    "name": "仇討制度",
+    "point": 5,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第1弾",
+  "releaseVer": "第1弾-4",
+  "states": "蜀",
+  "rarity": "UC",
+  "name": "劉禅",
+  "cost": 1,
+  "unitType": "歩兵",
+  "power": 1,
+  "intelligence": 1,
+  "suppression": 1,
+  "skills": [],
+  "strategy": {
+    "name": "阿斗の丸投げ",
+    "point": 11,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第1弾",
   "releaseVer": "第1弾",
   "states": "呉",
   "rarity": "UC",
@@ -2485,6 +2621,57 @@ callback3594t(
   "majorVer": "第1弾",
   "releaseVer": "第1弾-4",
   "states": "呉",
+  "rarity": "R",
+  "name": "徐盛",
+  "cost": 1.5,
+  "unitType": "弓兵",
+  "power": 5,
+  "intelligence": 5,
+  "suppression": 2,
+  "skills": ["防柵"],
+  "strategy": {
+    "name": "麻痺矢戦法",
+    "point": 4,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第1弾",
+  "releaseVer": "第1弾-4",
+  "states": "呉",
+  "rarity": "R",
+  "name": "徐夫人",
+  "cost": 1,
+  "unitType": "騎兵",
+  "power": 1,
+  "intelligence": 5,
+  "suppression": 1,
+  "skills": ["伏兵", "魅力"],
+  "strategy": {
+    "name": "嫉妬の眼差し",
+    "point": 3,
+    "type": "妨害"
+  }
+}, {
+  "majorVer": "第1弾",
+  "releaseVer": "第1弾-4",
+  "states": "呉",
+  "rarity": "C",
+  "name": "孫瑜",
+  "cost": 1,
+  "unitType": "弓兵",
+  "power": 3,
+  "intelligence": 2,
+  "suppression": 1,
+  "skills": ["復活"],
+  "strategy": {
+    "name": "弱体弓戦法",
+    "point": 3,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第1弾",
+  "releaseVer": "第1弾-5",
+  "states": "呉",
   "rarity": "SR",
   "name": "孫権",
   "cost": 2,
@@ -3296,6 +3483,57 @@ callback3594t(
     "name": "剛騎戦法",
     "point": 3,
     "type": "強化"
+  }
+}, {
+  "majorVer": "第1弾",
+  "releaseVer": "第1弾-4",
+  "states": "群雄",
+  "rarity": "UC",
+  "name": "侯成",
+  "cost": 1,
+  "unitType": "騎兵",
+  "power": 4,
+  "intelligence": 1,
+  "suppression": 0,
+  "skills": [],
+  "strategy": {
+    "name": "悪逆無道",
+    "point": 3,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第1弾",
+  "releaseVer": "第1弾-4",
+  "states": "群雄",
+  "rarity": "SR",
+  "name": "董卓",
+  "cost": 2.5,
+  "unitType": "槍兵",
+  "power": 8,
+  "intelligence": 6,
+  "suppression": 3,
+  "skills": ["勇猛"],
+  "strategy": {
+    "name": "滅葬の魔王",
+    "point": 5,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第1弾",
+  "releaseVer": "第1弾-4",
+  "states": "群雄",
+  "rarity": "R",
+  "name": "董旻",
+  "cost": 1.5,
+  "unitType": "弓兵",
+  "power": 5,
+  "intelligence": 4,
+  "suppression": 2,
+  "skills": ["防柵"],
+  "strategy": {
+    "name": "悪逆の弱計",
+    "point": 4,
+    "type": "妨害"
   }
 }]
 );
