@@ -20,8 +20,8 @@
     "mainEffectId2": "",
     "mainEffectId3": "",
     "strategyId": "0",
-    "illustratorId": "0",
-    "voiceActorId": "0"
+    "illustratorIndex": 0,
+    "characterVoiceIndex": 0
   }, {
     "code": "af3e2b9a874b2ab0b7f548997bd7d28b",
     "codePocket": "",
@@ -43,8 +43,8 @@
     "mainEffectId2": "",
     "mainEffectId3": "",
     "strategyId": "0",
-    "illustratorId": "1",
-    "voiceActorId": "1"
+    "illustratorIndex": 1,
+    "characterVoiceIndex": 1
   }, {
     "code": "c1c29ece0d85b102584ef752b25d14ca",
     "codePocket": "",
@@ -66,8 +66,8 @@
     "mainEffectId2": "",
     "mainEffectId3": "",
     "strategyId": "1",
-    "illustratorId": "2",
-    "voiceActorId": "1"
+    "illustratorIndex": 2,
+    "characterVoiceIndex": 1
   }, {
     "code": "6af10fc4fae558f54a935b9d502ab52f",
     "codePocket": "9cbdcc4fae4c4e5270c86c9702d87080",
@@ -89,8 +89,8 @@
     "mainEffectId2": "4",
     "mainEffectId3": "5",
     "strategyId": "2",
-    "illustratorId": "3",
-    "voiceActorId": "2"
+    "illustratorIndex": 3,
+    "characterVoiceIndex": 2
   }, {
     "code": "9d85968c9ae13f44c4a7128084d82634",
     "codePocket": "2dc894f875bf40f5bf2f4ce39eaa5c47",
@@ -112,8 +112,8 @@
     "mainEffectId2": "1",
     "mainEffectId3": "6",
     "strategyId": "3",
-    "illustratorId": "4",
-    "voiceActorId": "3"
+    "illustratorIndex": 4,
+    "characterVoiceIndex": 3
   }, {
     "code": "b3fb216b939980444c6b141b40093a14",
     "codePocket": "943de42b450a00bd1466101e705f1cda",
@@ -135,8 +135,8 @@
     "mainEffectId2": "5",
     "mainEffectId3": "7",
     "strategyId": "4",
-    "illustratorId": "5",
-    "voiceActorId": "4"
+    "illustratorIndex": 5,
+    "characterVoiceIndex": 4
   }, {
     "code": "adbe550aaf9c8d73dcaa9145177b49dd",
     "codePocket": "48d58185817db757a36a7e680aca5084",
@@ -158,8 +158,8 @@
     "mainEffectId2": "1",
     "mainEffectId3": "8",
     "strategyId": "5",
-    "illustratorId": "6",
-    "voiceActorId": "0"
+    "illustratorIndex": 6,
+    "characterVoiceIndex": 0
   }, {
     "code": "d0b173add7001135bd1eb95004e94138",
     "codePocket": "4ab42757b82620a65cbcf86824925806",
@@ -181,8 +181,8 @@
     "mainEffectId2": "3",
     "mainEffectId3": "5",
     "strategyId": "2",
-    "illustratorId": "7",
-    "voiceActorId": "1"
+    "illustratorIndex": 7,
+    "characterVoiceIndex": 1
   }, {
     "code": "6e10142d374446c71ebd3dd43229a194",
     "codePocket": "c42ff531000f425619705abce1310503",
@@ -204,8 +204,8 @@
     "mainEffectId2": "0",
     "mainEffectId3": "8",
     "strategyId": "6",
-    "illustratorId": "0",
-    "voiceActorId": "0"
+    "illustratorIndex": 0,
+    "characterVoiceIndex": 0
   }, {
     "code": "b3bf88e47b9790b3617ce4fc903566d9",
     "codePocket": "97c0bf301fec8366690107a6c53a100e",
@@ -227,8 +227,8 @@
     "mainEffectId2": "2",
     "mainEffectId3": "6",
     "strategyId": "7",
-    "illustratorId": "8",
-    "voiceActorId": "5"
+    "illustratorIndex": 8,
+    "characterVoiceIndex": 5
   }, {
     "code": "03203427a7767b15e6891b48c6de3fb4",
     "codePocket": "",
@@ -250,8 +250,8 @@
     "mainEffectId2": "0",
     "mainEffectId3": "5",
     "strategyId": "8",
-    "illustratorId": "4",
-    "voiceActorId": "6"
+    "illustratorIndex": 4,
+    "characterVoiceIndex": 6
   }, {
     "code": "707dcc3d106a15bf41c09e60595ace73",
     "codePocket": "b129cc269f596e9f5bf89ddc29ccf293",
@@ -273,8 +273,8 @@
     "mainEffectId2": "10",
     "mainEffectId3": "5",
     "strategyId": "9",
-    "illustratorId": "9",
-    "voiceActorId": "7"
+    "illustratorIndex": 9,
+    "characterVoiceIndex": 7
   }, {
     "code": "60b757c6493c8c9a7b76c1b4a332597b",
     "codePocket": "74ca0ce7cade6d2aacccd92e383d01c5",
@@ -296,8 +296,8 @@
     "mainEffectId2": "11",
     "mainEffectId3": "12",
     "strategyId": "10",
-    "illustratorId": "10",
-    "voiceActorId": "8"
+    "illustratorIndex": 10,
+    "characterVoiceIndex": 8
   }, {
     "code": "2f2546014f74579050d23b11ada53152",
     "codePocket": "",
@@ -319,8 +319,8 @@
     "mainEffectId2": "2",
     "mainEffectId3": "5",
     "strategyId": "11",
-    "illustratorId": "11",
-    "voiceActorId": "9"
+    "illustratorIndex": 11,
+    "characterVoiceIndex": 9
   }, {
     "code": "fa14e74626980981e6d8492a243824b3",
     "codePocket": "",
@@ -342,8 +342,8 @@
     "mainEffectId2": "2",
     "mainEffectId3": "5",
     "strategyId": "12",
-    "illustratorId": "12",
-    "voiceActorId": "10"
+    "illustratorIndex": 12,
+    "characterVoiceIndex": 10
   }, {
     "code": "a8930037b58726f2f46340d52ab546cf",
     "codePocket": "3442b2b74df9db90b2203f303c5b111d",
@@ -365,8 +365,8 @@
     "mainEffectId2": "13",
     "mainEffectId3": "5",
     "strategyId": "13",
-    "illustratorId": "13",
-    "voiceActorId": "11"
+    "illustratorIndex": 13,
+    "characterVoiceIndex": 11
   }, {
     "code": "999d4a423c99a3fc17aeb27d1d773430",
     "codePocket": "3d3b3c7024467b2d50d008ab791a62da",
@@ -388,8 +388,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "7",
     "strategyId": "14",
-    "illustratorId": "14",
-    "voiceActorId": "12"
+    "illustratorIndex": 14,
+    "characterVoiceIndex": 12
   }, {
     "code": "270b5f6057713437bc868304c54ef5c4",
     "codePocket": "8a7fc5c609ad158d4ed4d171c291c36f",
@@ -411,8 +411,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "5",
     "strategyId": "15",
-    "illustratorId": "1",
-    "voiceActorId": "2"
+    "illustratorIndex": 1,
+    "characterVoiceIndex": 2
   }, {
     "code": "1efda6e3bbb9d503a4af463cccc4a149",
     "codePocket": "4298774d6e56063c3adda7112a11c9a7",
@@ -434,8 +434,8 @@
     "mainEffectId2": "14",
     "mainEffectId3": "5",
     "strategyId": "16",
-    "illustratorId": "1",
-    "voiceActorId": "1"
+    "illustratorIndex": 1,
+    "characterVoiceIndex": 1
   }, {
     "code": "2cb8ee86b372d35d9d9eaed31ea0548e",
     "codePocket": "04f0fe8ab3263c7b7fefe14c926b79fc",
@@ -457,8 +457,8 @@
     "mainEffectId2": "4",
     "mainEffectId3": "15",
     "strategyId": "17",
-    "illustratorId": "15",
-    "voiceActorId": "13"
+    "illustratorIndex": 15,
+    "characterVoiceIndex": 13
   }, {
     "code": "ba501e3e32845ae515015b425b5574fb",
     "codePocket": "f58ea93ea23ecfe795e080ceec28627d",
@@ -480,8 +480,8 @@
     "mainEffectId2": "10",
     "mainEffectId3": "12",
     "strategyId": "18",
-    "illustratorId": "16",
-    "voiceActorId": "14"
+    "illustratorIndex": 16,
+    "characterVoiceIndex": 14
   }, {
     "code": "ce2792bc7c34b530dec7e207764c72f8",
     "codePocket": "0c88298d158c67263877eaee2428ce99",
@@ -503,8 +503,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "5",
     "strategyId": "19",
-    "illustratorId": "17",
-    "voiceActorId": "15"
+    "illustratorIndex": 17,
+    "characterVoiceIndex": 15
   }, {
     "code": "97d20f5da8622760926a1ab2cf070840",
     "codePocket": "a8e96a507657374e444ee792e817cd0e",
@@ -526,8 +526,8 @@
     "mainEffectId2": "10",
     "mainEffectId3": "14",
     "strategyId": "20",
-    "illustratorId": "18",
-    "voiceActorId": "5"
+    "illustratorIndex": 18,
+    "characterVoiceIndex": 5
   }, {
     "code": "cae2aac18c8632aff531de5ec95649da",
     "codePocket": "5a0dce7a25e884c0e23f9a79229e0828",
@@ -549,8 +549,8 @@
     "mainEffectId2": "11",
     "mainEffectId3": "7",
     "strategyId": "21",
-    "illustratorId": "19",
-    "voiceActorId": "16"
+    "illustratorIndex": 19,
+    "characterVoiceIndex": 16
   }, {
     "code": "f20a944c62591a14b6ee0f5efedf3d6c",
     "codePocket": "de8810768bbe7d74184b818b1204f65b",
@@ -572,8 +572,8 @@
     "mainEffectId2": "1",
     "mainEffectId3": "6",
     "strategyId": "22",
-    "illustratorId": "17",
-    "voiceActorId": "2"
+    "illustratorIndex": 17,
+    "characterVoiceIndex": 2
   }, {
     "code": "9bce5452acfa70ffe0a7c4b7b260a9ad",
     "codePocket": "a624785f972747034ef7782f64fd0d68",
@@ -595,8 +595,8 @@
     "mainEffectId2": "2",
     "mainEffectId3": "10",
     "strategyId": "1",
-    "illustratorId": "2",
-    "voiceActorId": "1"
+    "illustratorIndex": 2,
+    "characterVoiceIndex": 1
   }, {
     "code": "c9dde33d04ecebb1f5773f2cfd9dc355",
     "codePocket": "",
@@ -618,8 +618,8 @@
     "mainEffectId2": "16",
     "mainEffectId3": "8",
     "strategyId": "23",
-    "illustratorId": "20",
-    "voiceActorId": "6"
+    "illustratorIndex": 20,
+    "characterVoiceIndex": 6
   }, {
     "code": "d4c9bebd5c158d3efb8909630e3d22e8",
     "codePocket": "d9803ea0de68199fc470a5edd868f971",
@@ -641,8 +641,8 @@
     "mainEffectId2": "13",
     "mainEffectId3": "14",
     "strategyId": "24",
-    "illustratorId": "21",
-    "voiceActorId": "4"
+    "illustratorIndex": 21,
+    "characterVoiceIndex": 4
   }, {
     "code": "04e55edc2d45f4a72afebd61538f6089",
     "codePocket": "0e2cbf0d66b7457faa4566de2125dd13",
@@ -664,8 +664,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "17",
     "strategyId": "25",
-    "illustratorId": "22",
-    "voiceActorId": "11"
+    "illustratorIndex": 22,
+    "characterVoiceIndex": 11
   }, {
     "code": "339074f6ca14a4dd01e6ccbfc7b36c2b",
     "codePocket": "0176a5b1361dc861d13bb05f59538c77",
@@ -687,8 +687,8 @@
     "mainEffectId2": "1",
     "mainEffectId3": "5",
     "strategyId": "26",
-    "illustratorId": "23",
-    "voiceActorId": "17"
+    "illustratorIndex": 23,
+    "characterVoiceIndex": 17
   }, {
     "code": "f0b61ce0a5426bdf5d126f13815fd501",
     "codePocket": "3abbb33e1047bc5cf355ba983ba290ce",
@@ -710,8 +710,8 @@
     "mainEffectId2": "16",
     "mainEffectId3": "7",
     "strategyId": "27",
-    "illustratorId": "14",
-    "voiceActorId": "18"
+    "illustratorIndex": 14,
+    "characterVoiceIndex": 18
   }, {
     "code": "a428cae8fac49622b66fbcaf5751f9c7",
     "codePocket": "ce7f1ffcf25b9b9a1de82baf23d82585",
@@ -733,8 +733,8 @@
     "mainEffectId2": "6",
     "mainEffectId3": "7",
     "strategyId": "0",
-    "illustratorId": "24",
-    "voiceActorId": "7"
+    "illustratorIndex": 24,
+    "characterVoiceIndex": 7
   }, {
     "code": "ef8b50646c8734f1070884a31551fefb",
     "codePocket": "3c90590cd613b42dd2d186ae1318c94c",
@@ -756,8 +756,8 @@
     "mainEffectId2": "10",
     "mainEffectId3": "16",
     "strategyId": "28",
-    "illustratorId": "25",
-    "voiceActorId": "19"
+    "illustratorIndex": 25,
+    "characterVoiceIndex": 19
   }, {
     "code": "ecd3e39790e20dda43408bceca257445",
     "codePocket": "8da73d7766a51b7f61c4e0fba094f9e0",
@@ -779,8 +779,8 @@
     "mainEffectId2": "16",
     "mainEffectId3": "7",
     "strategyId": "29",
-    "illustratorId": "9",
-    "voiceActorId": "11"
+    "illustratorIndex": 9,
+    "characterVoiceIndex": 11
   }, {
     "code": "7101892b1f7f0a18850b0adaac622fd1",
     "codePocket": "5180fef0668ff7dcf2a2005ddae1a9e5",
@@ -802,8 +802,8 @@
     "mainEffectId2": "16",
     "mainEffectId3": "8",
     "strategyId": "30",
-    "illustratorId": "12",
-    "voiceActorId": "6"
+    "illustratorIndex": 12,
+    "characterVoiceIndex": 6
   }, {
     "code": "9d1fd1196eb7c8aa445636ab6960456d",
     "codePocket": "",
@@ -825,8 +825,8 @@
     "mainEffectId2": "2",
     "mainEffectId3": "18",
     "strategyId": "31",
-    "illustratorId": "8",
-    "voiceActorId": "1"
+    "illustratorIndex": 8,
+    "characterVoiceIndex": 1
   }, {
     "code": "e4e7820f4c65eaed6cf243964b6e0b17",
     "codePocket": "",
@@ -848,8 +848,8 @@
     "mainEffectId2": "1",
     "mainEffectId3": "7",
     "strategyId": "32",
-    "illustratorId": "26",
-    "voiceActorId": "11"
+    "illustratorIndex": 26,
+    "characterVoiceIndex": 11
   }, {
     "code": "748a3c53b312ca84935d4bf312f2a50c",
     "codePocket": "81e082a52c2083b2328c28e1b2cd33a4",
@@ -871,8 +871,8 @@
     "mainEffectId2": "2",
     "mainEffectId3": "12",
     "strategyId": "16",
-    "illustratorId": "27",
-    "voiceActorId": "15"
+    "illustratorIndex": 27,
+    "characterVoiceIndex": 15
   }, {
     "code": "50e690ea952a3723a87d3f30cb0b3a79",
     "codePocket": "c492273978899cdee1e1da983ff34f1a",
@@ -894,8 +894,8 @@
     "mainEffectId2": "5",
     "mainEffectId3": "7",
     "strategyId": "26",
-    "illustratorId": "28",
-    "voiceActorId": "10"
+    "illustratorIndex": 28,
+    "characterVoiceIndex": 10
   }, {
     "code": "34d5586d1302c2510ec1f0c7c1d594fb",
     "codePocket": "36fbbdcef764f2656becc153c582aca3",
@@ -917,8 +917,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "5",
     "strategyId": "33",
-    "illustratorId": "29",
-    "voiceActorId": "1"
+    "illustratorIndex": 29,
+    "characterVoiceIndex": 1
   }, {
     "code": "1b42d571eb0300168a3120ee4abc3972",
     "codePocket": "d228e04eccd1eae91340aea89904e173",
@@ -940,8 +940,8 @@
     "mainEffectId2": "15",
     "mainEffectId3": "5",
     "strategyId": "34",
-    "illustratorId": "30",
-    "voiceActorId": "19"
+    "illustratorIndex": 30,
+    "characterVoiceIndex": 19
   }, {
     "code": "c00de5916c0cee7d8b5810b8bafaf425",
     "codePocket": "52895505d4defc9e5bfc6f7d59c0a438",
@@ -963,8 +963,8 @@
     "mainEffectId2": "2",
     "mainEffectId3": "5",
     "strategyId": "35",
-    "illustratorId": "31",
-    "voiceActorId": "20"
+    "illustratorIndex": 31,
+    "characterVoiceIndex": 20
   }, {
     "code": "771d90ffbbf1b11ff3f2d3d2022a898a",
     "codePocket": "",
@@ -986,8 +986,8 @@
     "mainEffectId2": "2",
     "mainEffectId3": "10",
     "strategyId": "16",
-    "illustratorId": "32",
-    "voiceActorId": "7"
+    "illustratorIndex": 32,
+    "characterVoiceIndex": 7
   }, {
     "code": "535a23aeb841c02eb72d7b902ec2f594",
     "codePocket": "e701177cbcc7933e3a1dac91c63d2384",
@@ -1009,8 +1009,8 @@
     "mainEffectId2": "10",
     "mainEffectId3": "7",
     "strategyId": "36",
-    "illustratorId": "33",
-    "voiceActorId": "12"
+    "illustratorIndex": 33,
+    "characterVoiceIndex": 12
   }, {
     "code": "47127ab83e458fc7176cf2865d506891",
     "codePocket": "",
@@ -1032,8 +1032,8 @@
     "mainEffectId2": "13",
     "mainEffectId3": "8",
     "strategyId": "37",
-    "illustratorId": "34",
-    "voiceActorId": "21"
+    "illustratorIndex": 34,
+    "characterVoiceIndex": 21
   }, {
     "code": "3cecb47f3743c06d5d9209c0cb31b09d",
     "codePocket": "56c567773f7dee7e8521565b241a550c",
@@ -1055,8 +1055,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "17",
     "strategyId": "38",
-    "illustratorId": "35",
-    "voiceActorId": "14"
+    "illustratorIndex": 35,
+    "characterVoiceIndex": 14
   }, {
     "code": "484774121715bbbb5a030124c54f800e",
     "codePocket": "",
@@ -1078,8 +1078,8 @@
     "mainEffectId2": "18",
     "mainEffectId3": "7",
     "strategyId": "39",
-    "illustratorId": "36",
-    "voiceActorId": "22"
+    "illustratorIndex": 36,
+    "characterVoiceIndex": 22
   }, {
     "code": "4078b414e758c1fcfa550839d152263d",
     "codePocket": "",
@@ -1101,8 +1101,8 @@
     "mainEffectId2": "2",
     "mainEffectId3": "5",
     "strategyId": "40",
-    "illustratorId": "19",
-    "voiceActorId": "5"
+    "illustratorIndex": 19,
+    "characterVoiceIndex": 5
   }, {
     "code": "2e74d9bf4a1ef055ee2fe1c5633a557c",
     "codePocket": "",
@@ -1124,8 +1124,8 @@
     "mainEffectId2": "0",
     "mainEffectId3": "10",
     "strategyId": "41",
-    "illustratorId": "19",
-    "voiceActorId": "23"
+    "illustratorIndex": 19,
+    "characterVoiceIndex": 23
   }, {
     "code": "dd035f549c35cb50c47927868901a41b",
     "codePocket": "",
@@ -1147,8 +1147,8 @@
     "mainEffectId2": "2",
     "mainEffectId3": "16",
     "strategyId": "42",
-    "illustratorId": "37",
-    "voiceActorId": "24"
+    "illustratorIndex": 37,
+    "characterVoiceIndex": 24
   }, {
     "code": "4b3159229bb536e2a4bcc4c290b7158d",
     "codePocket": "",
@@ -1170,8 +1170,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "7",
     "strategyId": "43",
-    "illustratorId": "38",
-    "voiceActorId": "25"
+    "illustratorIndex": 38,
+    "characterVoiceIndex": 25
   }, {
     "code": "308bac20566728e580278ad1b914d632",
     "codePocket": "",
@@ -1193,8 +1193,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "18",
     "strategyId": "44",
-    "illustratorId": "39",
-    "voiceActorId": "11"
+    "illustratorIndex": 39,
+    "characterVoiceIndex": 11
   }, {
     "code": "7b56bf3fb79ea5dd5625dfcfa415cb5e",
     "codePocket": "",
@@ -1216,8 +1216,8 @@
     "mainEffectId2": "11",
     "mainEffectId3": "12",
     "strategyId": "45",
-    "illustratorId": "40",
-    "voiceActorId": "1"
+    "illustratorIndex": 40,
+    "characterVoiceIndex": 1
   }, {
     "code": "aba353959b7467e14dcadbe58e8c8a0a",
     "codePocket": "",
@@ -1239,8 +1239,8 @@
     "mainEffectId2": "16",
     "mainEffectId3": "5",
     "strategyId": "38",
-    "illustratorId": "29",
-    "voiceActorId": "9"
+    "illustratorIndex": 29,
+    "characterVoiceIndex": 9
   }, {
     "code": "e2aabde7e50f6bf91f85c3cf0b8ba06a",
     "codePocket": "",
@@ -1262,8 +1262,8 @@
     "mainEffectId2": "16",
     "mainEffectId3": "17",
     "strategyId": "46",
-    "illustratorId": "41",
-    "voiceActorId": "13"
+    "illustratorIndex": 41,
+    "characterVoiceIndex": 13
   }, {
     "code": "97c30fe8df1e03a66c9619cde315db1d",
     "codePocket": "",
@@ -1285,8 +1285,8 @@
     "mainEffectId2": "11",
     "mainEffectId3": "5",
     "strategyId": "47",
-    "illustratorId": "42",
-    "voiceActorId": "26"
+    "illustratorIndex": 42,
+    "characterVoiceIndex": 26
   }, {
     "code": "528213f79706fcf30994e0610612283b",
     "codePocket": "",
@@ -1308,8 +1308,8 @@
     "mainEffectId2": "",
     "mainEffectId3": "",
     "strategyId": "48",
-    "illustratorId": "43",
-    "voiceActorId": "27"
+    "illustratorIndex": 43,
+    "characterVoiceIndex": 27
   }, {
     "code": "76abec44a0d7e4e43570bc35f676e02b",
     "codePocket": "",
@@ -1331,8 +1331,8 @@
     "mainEffectId2": "",
     "mainEffectId3": "",
     "strategyId": "0",
-    "illustratorId": "23",
-    "voiceActorId": "10"
+    "illustratorIndex": 23,
+    "characterVoiceIndex": 10
   }, {
     "code": "6948953bbe052b0257749546a46b74a0",
     "codePocket": "",
@@ -1354,8 +1354,8 @@
     "mainEffectId2": "",
     "mainEffectId3": "",
     "strategyId": "0",
-    "illustratorId": "44",
-    "voiceActorId": "25"
+    "illustratorIndex": 44,
+    "characterVoiceIndex": 25
   }, {
     "code": "2d84aeefab8078123e86e922fdf9bf42",
     "codePocket": "",
@@ -1377,8 +1377,8 @@
     "mainEffectId2": "",
     "mainEffectId3": "",
     "strategyId": "49",
-    "illustratorId": "45",
-    "voiceActorId": "15"
+    "illustratorIndex": 45,
+    "characterVoiceIndex": 15
   }, {
     "code": "0e717eb0ea5b4bc54dfd5444ccd65a0d",
     "codePocket": "b67e65f0f49e87a40cda39ca0608df4c",
@@ -1400,8 +1400,8 @@
     "mainEffectId2": "7",
     "mainEffectId3": "17",
     "strategyId": "13",
-    "illustratorId": "46",
-    "voiceActorId": "20"
+    "illustratorIndex": 46,
+    "characterVoiceIndex": 20
   }, {
     "code": "1d06c8069bf8b694d96fb394b387f0a9",
     "codePocket": "509634ecf1d02517c7813db5cd131504",
@@ -1423,8 +1423,8 @@
     "mainEffectId2": "16",
     "mainEffectId3": "7",
     "strategyId": "29",
-    "illustratorId": "47",
-    "voiceActorId": "19"
+    "illustratorIndex": 47,
+    "characterVoiceIndex": 19
   }, {
     "code": "b03e2834fedb2e296f9df62715202322",
     "codePocket": "30a50f3747f6b53d1602fbfc022c8a39",
@@ -1446,8 +1446,8 @@
     "mainEffectId2": "11",
     "mainEffectId3": "12",
     "strategyId": "10",
-    "illustratorId": "43",
-    "voiceActorId": "13"
+    "illustratorIndex": 43,
+    "characterVoiceIndex": 13
   }, {
     "code": "6fbee1f322549bd1dca64965d6322da3",
     "codePocket": "0914b726729a61f7f1ac1516a0492124",
@@ -1469,8 +1469,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "5",
     "strategyId": "50",
-    "illustratorId": "31",
-    "voiceActorId": "11"
+    "illustratorIndex": 31,
+    "characterVoiceIndex": 11
   }, {
     "code": "c1fb337e5885346a883a757a0c2f00fc",
     "codePocket": "0405fcf25d1eec38ba6c8ef381692c5a",
@@ -1492,8 +1492,8 @@
     "mainEffectId2": "1",
     "mainEffectId3": "13",
     "strategyId": "0",
-    "illustratorId": "48",
-    "voiceActorId": "11"
+    "illustratorIndex": 48,
+    "characterVoiceIndex": 11
   }, {
     "code": "850fb076bd8bf5a6261ec9c31626a913",
     "codePocket": "bc987807c7bfbad9ee922bbe5ed043b9",
@@ -1515,8 +1515,8 @@
     "mainEffectId2": "1",
     "mainEffectId3": "12",
     "strategyId": "51",
-    "illustratorId": "30",
-    "voiceActorId": "6"
+    "illustratorIndex": 30,
+    "characterVoiceIndex": 6
   }, {
     "code": "f6b60ad48ec6a0c6148964515cc48e51",
     "codePocket": "cb964321e402a802924c4ea9c241c2fb",
@@ -1538,8 +1538,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "8",
     "strategyId": "52",
-    "illustratorId": "24",
-    "voiceActorId": "0"
+    "illustratorIndex": 24,
+    "characterVoiceIndex": 0
   }, {
     "code": "2a9f04dbd412b4928157473b3de1e25a",
     "codePocket": "2f38aefc8f40d1429bcfcabd7708a292",
@@ -1561,8 +1561,8 @@
     "mainEffectId2": "1",
     "mainEffectId3": "12",
     "strategyId": "53",
-    "illustratorId": "49",
-    "voiceActorId": "7"
+    "illustratorIndex": 49,
+    "characterVoiceIndex": 7
   }, {
     "code": "71277ce6a2e2654b4a6978124d265759",
     "codePocket": "d49631cd92e6aa91c39d34c5aeedf964",
@@ -1584,8 +1584,8 @@
     "mainEffectId2": "3",
     "mainEffectId3": "1",
     "strategyId": "54",
-    "illustratorId": "50",
-    "voiceActorId": "13"
+    "illustratorIndex": 50,
+    "characterVoiceIndex": 13
   }, {
     "code": "2846a1c65b6ce9709df5589fc983b4bc",
     "codePocket": "",
@@ -1607,8 +1607,8 @@
     "mainEffectId2": "16",
     "mainEffectId3": "8",
     "strategyId": "40",
-    "illustratorId": "6",
-    "voiceActorId": "12"
+    "illustratorIndex": 6,
+    "characterVoiceIndex": 12
   }, {
     "code": "5ee85b0ad6fc4b7f7dfb51683f29e927",
     "codePocket": "09f91b527bbf11e28b5c270cfb6ccefa",
@@ -1630,8 +1630,8 @@
     "mainEffectId2": "10",
     "mainEffectId3": "16",
     "strategyId": "55",
-    "illustratorId": "25",
-    "voiceActorId": "9"
+    "illustratorIndex": 25,
+    "characterVoiceIndex": 9
   }, {
     "code": "afdad6a0842f27917e27e091ccf145d9",
     "codePocket": "a984f6e7cbc4e8782e4cd3ba81fd4361",
@@ -1653,8 +1653,8 @@
     "mainEffectId2": "18",
     "mainEffectId3": "8",
     "strategyId": "56",
-    "illustratorId": "16",
-    "voiceActorId": "16"
+    "illustratorIndex": 16,
+    "characterVoiceIndex": 16
   }, {
     "code": "17ea409f2fec0868cdc9af504bba32c1",
     "codePocket": "017bfe81802ac1f3c8043a3f99c0d25c",
@@ -1676,8 +1676,8 @@
     "mainEffectId2": "14",
     "mainEffectId3": "18",
     "strategyId": "57",
-    "illustratorId": "1",
-    "voiceActorId": "8"
+    "illustratorIndex": 1,
+    "characterVoiceIndex": 8
   }, {
     "code": "812226d54bc9260472b3eb43a9e5d4b6",
     "codePocket": "",
@@ -1699,8 +1699,8 @@
     "mainEffectId2": "2",
     "mainEffectId3": "6",
     "strategyId": "58",
-    "illustratorId": "7",
-    "voiceActorId": "1"
+    "illustratorIndex": 7,
+    "characterVoiceIndex": 1
   }, {
     "code": "32b4ce6263c207c55c8eab4726e228a2",
     "codePocket": "a0c6c33fbcf960f3cf0c7c0d9c45da9b",
@@ -1722,8 +1722,8 @@
     "mainEffectId2": "3",
     "mainEffectId3": "8",
     "strategyId": "59",
-    "illustratorId": "23",
-    "voiceActorId": "10"
+    "illustratorIndex": 23,
+    "characterVoiceIndex": 10
   }, {
     "code": "8238ec1656b4a1edd8b46394c54352bc",
     "codePocket": "461cb78a9d171dd83f0b9a2d1d03b450",
@@ -1745,8 +1745,8 @@
     "mainEffectId2": "1",
     "mainEffectId3": "14",
     "strategyId": "50",
-    "illustratorId": "22",
-    "voiceActorId": "16"
+    "illustratorIndex": 22,
+    "characterVoiceIndex": 16
   }, {
     "code": "0e80515dc98319f13c9ff8fea6d3d742",
     "codePocket": "323ca2e6f77e41d2911c670eae59c21b",
@@ -1768,8 +1768,8 @@
     "mainEffectId2": "0",
     "mainEffectId3": "10",
     "strategyId": "59",
-    "illustratorId": "7",
-    "voiceActorId": "4"
+    "illustratorIndex": 7,
+    "characterVoiceIndex": 4
   }, {
     "code": "287d7e83e7515e87566264a544658807",
     "codePocket": "625d501dd84bd3980283a40f867db003",
@@ -1791,8 +1791,8 @@
     "mainEffectId2": "10",
     "mainEffectId3": "5",
     "strategyId": "56",
-    "illustratorId": "9",
-    "voiceActorId": "15"
+    "illustratorIndex": 9,
+    "characterVoiceIndex": 15
   }, {
     "code": "5ba4132bede92bd9b91599baf67b8708",
     "codePocket": "",
@@ -1814,8 +1814,8 @@
     "mainEffectId2": "16",
     "mainEffectId3": "8",
     "strategyId": "60",
-    "illustratorId": "12",
-    "voiceActorId": "12"
+    "illustratorIndex": 12,
+    "characterVoiceIndex": 12
   }, {
     "code": "5580ecb2a21b5023202ffd908d4d9352",
     "codePocket": "",
@@ -1837,8 +1837,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "8",
     "strategyId": "51",
-    "illustratorId": "12",
-    "voiceActorId": "4"
+    "illustratorIndex": 12,
+    "characterVoiceIndex": 4
   }, {
     "code": "d8e026671d470074791dfdcab4ca63dc",
     "codePocket": "61f835678931e8480d9096de62fdfeb4",
@@ -1860,8 +1860,8 @@
     "mainEffectId2": "2",
     "mainEffectId3": "12",
     "strategyId": "16",
-    "illustratorId": "8",
-    "voiceActorId": "16"
+    "illustratorIndex": 8,
+    "characterVoiceIndex": 16
   }, {
     "code": "3d0138c3f5dffd833bb3f993a4159350",
     "codePocket": "ca74b4efc9e5ec867f1d5cd1d00ad689",
@@ -1883,8 +1883,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "17",
     "strategyId": "61",
-    "illustratorId": "32",
-    "voiceActorId": "8"
+    "illustratorIndex": 32,
+    "characterVoiceIndex": 8
   }, {
     "code": "c3b657b9c1f7db8448cdc3cf9441073d",
     "codePocket": "1582f5c97ddc47020b61d4962667ec21",
@@ -1906,8 +1906,8 @@
     "mainEffectId2": "1",
     "mainEffectId3": "18",
     "strategyId": "62",
-    "illustratorId": "24",
-    "voiceActorId": "1"
+    "illustratorIndex": 24,
+    "characterVoiceIndex": 1
   }, {
     "code": "716ba8339010fb7c8bbca4597359b4b9",
     "codePocket": "32aef1a2e518017cd2df31953fe5e7c0",
@@ -1929,8 +1929,8 @@
     "mainEffectId2": "18",
     "mainEffectId3": "6",
     "strategyId": "63",
-    "illustratorId": "51",
-    "voiceActorId": "12"
+    "illustratorIndex": 51,
+    "characterVoiceIndex": 12
   }, {
     "code": "291e32c9a57a7b620c2d7cd726ac66e0",
     "codePocket": "acb73bc9526a44c35b6ee544346051fa",
@@ -1952,8 +1952,8 @@
     "mainEffectId2": "16",
     "mainEffectId3": "7",
     "strategyId": "64",
-    "illustratorId": "4",
-    "voiceActorId": "15"
+    "illustratorIndex": 4,
+    "characterVoiceIndex": 15
   }, {
     "code": "57e1b679ad9a62b203d406d532444c87",
     "codePocket": "8f40852efa61062e1bf1d570b0d7370e",
@@ -1975,8 +1975,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "5",
     "strategyId": "50",
-    "illustratorId": "52",
-    "voiceActorId": "11"
+    "illustratorIndex": 52,
+    "characterVoiceIndex": 11
   }, {
     "code": "705174a3c354807ecd99b5887b34b56f",
     "codePocket": "",
@@ -1998,8 +1998,8 @@
     "mainEffectId2": "14",
     "mainEffectId3": "12",
     "strategyId": "65",
-    "illustratorId": "44",
-    "voiceActorId": "25"
+    "illustratorIndex": 44,
+    "characterVoiceIndex": 25
   }, {
     "code": "f0af0cbb77ef243dd05618e1e1ded3e6",
     "codePocket": "e580a254785645fac8312838c25868d0",
@@ -2021,8 +2021,8 @@
     "mainEffectId2": "10",
     "mainEffectId3": "17",
     "strategyId": "66",
-    "illustratorId": "22",
-    "voiceActorId": "26"
+    "illustratorIndex": 22,
+    "characterVoiceIndex": 26
   }, {
     "code": "000a5769ec4d02b7e36a6858210afe4b",
     "codePocket": "2eee1ba5fb87b593a23e2f596f086ef6",
@@ -2044,8 +2044,8 @@
     "mainEffectId2": "10",
     "mainEffectId3": "11",
     "strategyId": "67",
-    "illustratorId": "20",
-    "voiceActorId": "18"
+    "illustratorIndex": 20,
+    "characterVoiceIndex": 18
   }, {
     "code": "84d52eca1d5d67edbfab065006bb3820",
     "codePocket": "",
@@ -2067,8 +2067,8 @@
     "mainEffectId2": "1",
     "mainEffectId3": "11",
     "strategyId": "0",
-    "illustratorId": "53",
-    "voiceActorId": "26"
+    "illustratorIndex": 53,
+    "characterVoiceIndex": 26
   }, {
     "code": "cd518885eb6a606f59425718bd9d92d2",
     "codePocket": "2558e23b54e28ace3482fd5bbc3aeffd",
@@ -2090,8 +2090,8 @@
     "mainEffectId2": "4",
     "mainEffectId3": "16",
     "strategyId": "68",
-    "illustratorId": "34",
-    "voiceActorId": "24"
+    "illustratorIndex": 34,
+    "characterVoiceIndex": 24
   }, {
     "code": "25c45121e52c12620f4822af23666c1f",
     "codePocket": "",
@@ -2113,8 +2113,8 @@
     "mainEffectId2": "1",
     "mainEffectId3": "5",
     "strategyId": "69",
-    "illustratorId": "1",
-    "voiceActorId": "7"
+    "illustratorIndex": 1,
+    "characterVoiceIndex": 7
   }, {
     "code": "b26b189f98f13a8b473f6539b31c016b",
     "codePocket": "",
@@ -2136,8 +2136,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "5",
     "strategyId": "70",
-    "illustratorId": "7",
-    "voiceActorId": "10"
+    "illustratorIndex": 7,
+    "characterVoiceIndex": 10
   }, {
     "code": "28ac2f763e842b726d1ac7392a17b2c4",
     "codePocket": "1d3429e8360a2a50e3f07c4401f5b8c5",
@@ -2159,8 +2159,8 @@
     "mainEffectId2": "4",
     "mainEffectId3": "17",
     "strategyId": "58",
-    "illustratorId": "53",
-    "voiceActorId": "28"
+    "illustratorIndex": 53,
+    "characterVoiceIndex": 28
   }, {
     "code": "006d672040daa9e026b52095fd393e8b",
     "codePocket": "94a92e76227a881e7d59fd8474b11601",
@@ -2182,8 +2182,8 @@
     "mainEffectId2": "1",
     "mainEffectId3": "14",
     "strategyId": "51",
-    "illustratorId": "22",
-    "voiceActorId": "25"
+    "illustratorIndex": 22,
+    "characterVoiceIndex": 25
   }, {
     "code": "7e718dd413906810acf6cea49b382c27",
     "codePocket": "5b5390c5e680d3387be38e0424df32d2",
@@ -2205,8 +2205,8 @@
     "mainEffectId2": "1",
     "mainEffectId3": "8",
     "strategyId": "49",
-    "illustratorId": "45",
-    "voiceActorId": "15"
+    "illustratorIndex": 45,
+    "characterVoiceIndex": 15
   }, {
     "code": "7f021c17f968c82978fd74486b563355",
     "codePocket": "a96a38f6886918f8a1e6fb432c372359",
@@ -2228,8 +2228,8 @@
     "mainEffectId2": "2",
     "mainEffectId3": "5",
     "strategyId": "0",
-    "illustratorId": "4",
-    "voiceActorId": "14"
+    "illustratorIndex": 4,
+    "characterVoiceIndex": 14
   }, {
     "code": "ac812314fd23568e588fa7168296a7fd",
     "codePocket": "b0516db91080ec96be5e08c50c35e977",
@@ -2251,8 +2251,8 @@
     "mainEffectId2": "10",
     "mainEffectId3": "5",
     "strategyId": "0",
-    "illustratorId": "31",
-    "voiceActorId": "17"
+    "illustratorIndex": 31,
+    "characterVoiceIndex": 17
   }, {
     "code": "bcdd2e8ee98ccab801de4792f981b931",
     "codePocket": "7de3f2771c3afbef9ca2ac1505a89ff7",
@@ -2274,8 +2274,8 @@
     "mainEffectId2": "3",
     "mainEffectId3": "1",
     "strategyId": "52",
-    "illustratorId": "49",
-    "voiceActorId": "26"
+    "illustratorIndex": 49,
+    "characterVoiceIndex": 26
   }, {
     "code": "c035f649fa2a76b1630ec83c6ec523be",
     "codePocket": "",
@@ -2297,8 +2297,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "5",
     "strategyId": "71",
-    "illustratorId": "54",
-    "voiceActorId": "27"
+    "illustratorIndex": 54,
+    "characterVoiceIndex": 27
   }, {
     "code": "de6b363c9f11202ec97b4c42b45a12eb",
     "codePocket": "",
@@ -2320,8 +2320,8 @@
     "mainEffectId2": "18",
     "mainEffectId3": "5",
     "strategyId": "72",
-    "illustratorId": "3",
-    "voiceActorId": "23"
+    "illustratorIndex": 3,
+    "characterVoiceIndex": 23
   }, {
     "code": "01c2ae227a36ad49c19ba1cf2182a704",
     "codePocket": "",
@@ -2343,8 +2343,8 @@
     "mainEffectId2": "14",
     "mainEffectId3": "6",
     "strategyId": "73",
-    "illustratorId": "1",
-    "voiceActorId": "5"
+    "illustratorIndex": 1,
+    "characterVoiceIndex": 5
   }, {
     "code": "b99cf510e8622d422e9fd973cc70f4c9",
     "codePocket": "",
@@ -2366,8 +2366,8 @@
     "mainEffectId2": "0",
     "mainEffectId3": "16",
     "strategyId": "74",
-    "illustratorId": "25",
-    "voiceActorId": "3"
+    "illustratorIndex": 25,
+    "characterVoiceIndex": 3
   }, {
     "code": "fe004d8940dbb35ca4a7c4ff10000e11",
     "codePocket": "",
@@ -2389,8 +2389,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "18",
     "strategyId": "75",
-    "illustratorId": "1",
-    "voiceActorId": "10"
+    "illustratorIndex": 1,
+    "characterVoiceIndex": 10
   }, {
     "code": "80ee26d22d4444b40f6db69443e730d2",
     "codePocket": "7c39822037fc521ef9fd12533cb51b36",
@@ -2412,8 +2412,8 @@
     "mainEffectId2": "13",
     "mainEffectId3": "14",
     "strategyId": "76",
-    "illustratorId": "45",
-    "voiceActorId": "11"
+    "illustratorIndex": 45,
+    "characterVoiceIndex": 11
   }, {
     "code": "15365a9ecd12cff55f666c3519871c2b",
     "codePocket": "",
@@ -2435,8 +2435,8 @@
     "mainEffectId2": "11",
     "mainEffectId3": "5",
     "strategyId": "77",
-    "illustratorId": "8",
-    "voiceActorId": "17"
+    "illustratorIndex": 8,
+    "characterVoiceIndex": 17
   }, {
     "code": "36e7e16343b1e7229d89db6c50b7266f",
     "codePocket": "",
@@ -2458,8 +2458,8 @@
     "mainEffectId2": "14",
     "mainEffectId3": "8",
     "strategyId": "78",
-    "illustratorId": "3",
-    "voiceActorId": "6"
+    "illustratorIndex": 3,
+    "characterVoiceIndex": 6
   }, {
     "code": "bde8f1950a0b98cc65169da144de4a3a",
     "codePocket": "",
@@ -2481,8 +2481,8 @@
     "mainEffectId2": "16",
     "mainEffectId3": "5",
     "strategyId": "79",
-    "illustratorId": "55",
-    "voiceActorId": "6"
+    "illustratorIndex": 55,
+    "characterVoiceIndex": 6
   }, {
     "code": "9db3bc20b280fda5ca1d3087e6cd62bd",
     "codePocket": "",
@@ -2504,8 +2504,8 @@
     "mainEffectId2": "13",
     "mainEffectId3": "12",
     "strategyId": "80",
-    "illustratorId": "56",
-    "voiceActorId": "25"
+    "illustratorIndex": 56,
+    "characterVoiceIndex": 25
   }, {
     "code": "452cd176a990f6d347988a109500625b",
     "codePocket": "",
@@ -2527,8 +2527,8 @@
     "mainEffectId2": "15",
     "mainEffectId3": "10",
     "strategyId": "81",
-    "illustratorId": "57",
-    "voiceActorId": "6"
+    "illustratorIndex": 57,
+    "characterVoiceIndex": 6
   }, {
     "code": "41ef020f9f1ed543597c2905403720d2",
     "codePocket": "",
@@ -2550,8 +2550,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "18",
     "strategyId": "82",
-    "illustratorId": "58",
-    "voiceActorId": "29"
+    "illustratorIndex": 58,
+    "characterVoiceIndex": 29
   }, {
     "code": "27defb3577d0647981eb2278d64a4867",
     "codePocket": "",
@@ -2573,8 +2573,8 @@
     "mainEffectId2": "2",
     "mainEffectId3": "16",
     "strategyId": "83",
-    "illustratorId": "14",
-    "voiceActorId": "9"
+    "illustratorIndex": 14,
+    "characterVoiceIndex": 9
   }, {
     "code": "3b5c0d8169a0a1f5948077d2fef13576",
     "codePocket": "",
@@ -2596,8 +2596,8 @@
     "mainEffectId2": "0",
     "mainEffectId3": "7",
     "strategyId": "0",
-    "illustratorId": "59",
-    "voiceActorId": "26"
+    "illustratorIndex": 59,
+    "characterVoiceIndex": 26
   }, {
     "code": "f68b2927e25e39c5d040e69b595a4511",
     "codePocket": "",
@@ -2619,8 +2619,8 @@
     "mainEffectId2": "",
     "mainEffectId3": "",
     "strategyId": "84",
-    "illustratorId": "34",
-    "voiceActorId": "1"
+    "illustratorIndex": 34,
+    "characterVoiceIndex": 1
   }, {
     "code": "7f3422111d5fc98518112ac34c43c978",
     "codePocket": "",
@@ -2642,8 +2642,8 @@
     "mainEffectId2": "",
     "mainEffectId3": "",
     "strategyId": "0",
-    "illustratorId": "44",
-    "voiceActorId": "4"
+    "illustratorIndex": 44,
+    "characterVoiceIndex": 4
   }, {
     "code": "d6f075702c94977f724c1fdf6de045c6",
     "codePocket": "",
@@ -2665,8 +2665,8 @@
     "mainEffectId2": "",
     "mainEffectId3": "",
     "strategyId": "85",
-    "illustratorId": "60",
-    "voiceActorId": "7"
+    "illustratorIndex": 60,
+    "characterVoiceIndex": 7
   }, {
     "code": "cca45737c45901500ed429de5488bc15",
     "codePocket": "",
@@ -2688,8 +2688,8 @@
     "mainEffectId2": "",
     "mainEffectId3": "",
     "strategyId": "0",
-    "illustratorId": "31",
-    "voiceActorId": "1"
+    "illustratorIndex": 31,
+    "characterVoiceIndex": 1
   }, {
     "code": "a466fe23f1a9af0759f4cac8bd036714",
     "codePocket": "3f4b2b1689c0b0c060d13064e792facd",
@@ -2711,8 +2711,8 @@
     "mainEffectId2": "16",
     "mainEffectId3": "7",
     "strategyId": "86",
-    "illustratorId": "30",
-    "voiceActorId": "24"
+    "illustratorIndex": 30,
+    "characterVoiceIndex": 24
   }, {
     "code": "3496146ac97d3f89d488c2367d28e847",
     "codePocket": "d6fadd83d649adc65db9c56208823bd1",
@@ -2734,8 +2734,8 @@
     "mainEffectId2": "1",
     "mainEffectId3": "10",
     "strategyId": "87",
-    "illustratorId": "61",
-    "voiceActorId": "17"
+    "illustratorIndex": 61,
+    "characterVoiceIndex": 17
   }, {
     "code": "17c353abd6c214da151bd8f05eeff2f5",
     "codePocket": "5364c2385e8faa86c79a48f2263ade39",
@@ -2757,8 +2757,8 @@
     "mainEffectId2": "13",
     "mainEffectId3": "8",
     "strategyId": "0",
-    "illustratorId": "53",
-    "voiceActorId": "7"
+    "illustratorIndex": 53,
+    "characterVoiceIndex": 7
   }, {
     "code": "1231647a5f6e657dd5bf00177abd8b4d",
     "codePocket": "35863e27720cd4c7696bd92dd22336d8",
@@ -2780,8 +2780,8 @@
     "mainEffectId2": "6",
     "mainEffectId3": "8",
     "strategyId": "88",
-    "illustratorId": "44",
-    "voiceActorId": "4"
+    "illustratorIndex": 44,
+    "characterVoiceIndex": 4
   }, {
     "code": "245c76f42edbf5e337902f99340a4d57",
     "codePocket": "cb41480b10b2fbeae7b9a586f657a834",
@@ -2803,8 +2803,8 @@
     "mainEffectId2": "5",
     "mainEffectId3": "7",
     "strategyId": "89",
-    "illustratorId": "18",
-    "voiceActorId": "6"
+    "illustratorIndex": 18,
+    "characterVoiceIndex": 6
   }, {
     "code": "ec2110c129bc07c75392761162797e05",
     "codePocket": "9e4e091338fb4164547f330feff0b455",
@@ -2826,8 +2826,8 @@
     "mainEffectId2": "14",
     "mainEffectId3": "5",
     "strategyId": "0",
-    "illustratorId": "10",
-    "voiceActorId": "17"
+    "illustratorIndex": 10,
+    "characterVoiceIndex": 17
   }, {
     "code": "f690193a447e3292095b3064d21a588c",
     "codePocket": "eec33f5bde0a5576a3ba6339bda768ad",
@@ -2849,8 +2849,8 @@
     "mainEffectId2": "3",
     "mainEffectId3": "0",
     "strategyId": "90",
-    "illustratorId": "51",
-    "voiceActorId": "20"
+    "illustratorIndex": 51,
+    "characterVoiceIndex": 20
   }, {
     "code": "0c1d0ac142e9ef65f5a6fd30ce39b520",
     "codePocket": "7aba255fe853e0052c3f3ee174419a29",
@@ -2872,8 +2872,8 @@
     "mainEffectId2": "5",
     "mainEffectId3": "7",
     "strategyId": "91",
-    "illustratorId": "12",
-    "voiceActorId": "18"
+    "illustratorIndex": 12,
+    "characterVoiceIndex": 18
   }, {
     "code": "89f7da5a2d62931251c0da1d703ed09f",
     "codePocket": "",
@@ -2895,8 +2895,8 @@
     "mainEffectId2": "16",
     "mainEffectId3": "7",
     "strategyId": "92",
-    "illustratorId": "62",
-    "voiceActorId": "30"
+    "illustratorIndex": 62,
+    "characterVoiceIndex": 30
   }, {
     "code": "d502deb4ead7ac71a42082b9e1d6c4fb",
     "codePocket": "9c12e80f36b2e6a08db4e78c100240a7",
@@ -2918,8 +2918,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "18",
     "strategyId": "93",
-    "illustratorId": "32",
-    "voiceActorId": "1"
+    "illustratorIndex": 32,
+    "characterVoiceIndex": 1
   }, {
     "code": "84ffb8b4d57eecc765773b7f605be7ae",
     "codePocket": "5d0f3262937460dd82c51a71ad71a53a",
@@ -2941,8 +2941,8 @@
     "mainEffectId2": "16",
     "mainEffectId3": "12",
     "strategyId": "94",
-    "illustratorId": "6",
-    "voiceActorId": "25"
+    "illustratorIndex": 6,
+    "characterVoiceIndex": 25
   }, {
     "code": "5e0f25e7fa500d0568054e2d128acb7e",
     "codePocket": "1058e8d29eb8e36c9f8699fc938f392a",
@@ -2964,8 +2964,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "5",
     "strategyId": "95",
-    "illustratorId": "63",
-    "voiceActorId": "7"
+    "illustratorIndex": 63,
+    "characterVoiceIndex": 7
   }, {
     "code": "49ef30c54ed6d753e8327e95d6fa4483",
     "codePocket": "cc0082c638cca0a57a09a745ca3372b8",
@@ -2987,8 +2987,8 @@
     "mainEffectId2": "0",
     "mainEffectId3": "7",
     "strategyId": "96",
-    "illustratorId": "57",
-    "voiceActorId": "14"
+    "illustratorIndex": 57,
+    "characterVoiceIndex": 14
   }, {
     "code": "949a70c23bedbef5ea79c1a3c55d87a8",
     "codePocket": "9c0ddbaaeaa9823ba6baaa61188ffa2b",
@@ -3010,8 +3010,8 @@
     "mainEffectId2": "0",
     "mainEffectId3": "12",
     "strategyId": "97",
-    "illustratorId": "15",
-    "voiceActorId": "27"
+    "illustratorIndex": 15,
+    "characterVoiceIndex": 27
   }, {
     "code": "47e4f6931a300d6cdab377997c22a403",
     "codePocket": "462f3e51848afde805d3109746ff34a4",
@@ -3033,8 +3033,8 @@
     "mainEffectId2": "16",
     "mainEffectId3": "12",
     "strategyId": "98",
-    "illustratorId": "14",
-    "voiceActorId": "9"
+    "illustratorIndex": 14,
+    "characterVoiceIndex": 9
   }, {
     "code": "98d18e02d52a62b5159dc2278b0ecc7a",
     "codePocket": "fdcaea4127ae9371fc4b5446fe64f713",
@@ -3056,8 +3056,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "5",
     "strategyId": "99",
-    "illustratorId": "64",
-    "voiceActorId": "15"
+    "illustratorIndex": 64,
+    "characterVoiceIndex": 15
   }, {
     "code": "cffb269c2c8b1c0b954ef2e3674f23ef",
     "codePocket": "5c0e06f682043061fdc7a4175716fb05",
@@ -3079,8 +3079,8 @@
     "mainEffectId2": "11",
     "mainEffectId3": "16",
     "strategyId": "100",
-    "illustratorId": "54",
-    "voiceActorId": "27"
+    "illustratorIndex": 54,
+    "characterVoiceIndex": 27
   }, {
     "code": "684fa89eb68c332de8d05f1d49573374",
     "codePocket": "06ce0173b967d275ab67c31f27db0765",
@@ -3102,8 +3102,8 @@
     "mainEffectId2": "10",
     "mainEffectId3": "12",
     "strategyId": "101",
-    "illustratorId": "22",
-    "voiceActorId": "20"
+    "illustratorIndex": 22,
+    "characterVoiceIndex": 20
   }, {
     "code": "7a06f9f6ace25a3e95dabd5de7020fc7",
     "codePocket": "a3796511ba17ac1b24aadb175222828c",
@@ -3125,8 +3125,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "8",
     "strategyId": "96",
-    "illustratorId": "52",
-    "voiceActorId": "16"
+    "illustratorIndex": 52,
+    "characterVoiceIndex": 16
   }, {
     "code": "050a86a0aa8e8da7b92d3870f0f595a6",
     "codePocket": "",
@@ -3148,8 +3148,8 @@
     "mainEffectId2": "0",
     "mainEffectId3": "7",
     "strategyId": "102",
-    "illustratorId": "4",
-    "voiceActorId": "16"
+    "illustratorIndex": 4,
+    "characterVoiceIndex": 16
   }, {
     "code": "f495184d81c8d7173f01acc25cebc514",
     "codePocket": "dc0279a59cfa11b0fdf22cdb2dd28e16",
@@ -3171,8 +3171,8 @@
     "mainEffectId2": "10",
     "mainEffectId3": "14",
     "strategyId": "85",
-    "illustratorId": "60",
-    "voiceActorId": "7"
+    "illustratorIndex": 60,
+    "characterVoiceIndex": 7
   }, {
     "code": "f0aa2766d44b26dae47fdd02281e801a",
     "codePocket": "af57cb5255732dad03f5f2a17d9259a7",
@@ -3194,8 +3194,8 @@
     "mainEffectId2": "5",
     "mainEffectId3": "6",
     "strategyId": "103",
-    "illustratorId": "6",
-    "voiceActorId": "2"
+    "illustratorIndex": 6,
+    "characterVoiceIndex": 2
   }, {
     "code": "2c4e882cd00323e2fa50a1ce404f8c1a",
     "codePocket": "a3624e3011edeec99d5903725e1aed23",
@@ -3217,8 +3217,8 @@
     "mainEffectId2": "13",
     "mainEffectId3": "12",
     "strategyId": "104",
-    "illustratorId": "65",
-    "voiceActorId": "9"
+    "illustratorIndex": 65,
+    "characterVoiceIndex": 9
   }, {
     "code": "6310473f39435313bb2e30408a6113d1",
     "codePocket": "872a75315a733617a487dad9a4211ce3",
@@ -3240,8 +3240,8 @@
     "mainEffectId2": "4",
     "mainEffectId3": "1",
     "strategyId": "95",
-    "illustratorId": "32",
-    "voiceActorId": "11"
+    "illustratorIndex": 32,
+    "characterVoiceIndex": 11
   }, {
     "code": "c3d1d1a87dd0f67ca4f6035433857974",
     "codePocket": "b2eb2ba59ce19b395dd512ed7bcef968",
@@ -3263,8 +3263,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "5",
     "strategyId": "105",
-    "illustratorId": "38",
-    "voiceActorId": "6"
+    "illustratorIndex": 38,
+    "characterVoiceIndex": 6
   }, {
     "code": "7adfe47ee7e0b48df3fb34b257a499bf",
     "codePocket": "2a05e26478cd42df754fdfe257591a1c",
@@ -3286,8 +3286,8 @@
     "mainEffectId2": "4",
     "mainEffectId3": "14",
     "strategyId": "106",
-    "illustratorId": "66",
-    "voiceActorId": "23"
+    "illustratorIndex": 66,
+    "characterVoiceIndex": 23
   }, {
     "code": "5df90c43a6fc67b9ded13fbd1bd7cfd5",
     "codePocket": "f6d4723f9ed4eaf4f178215ab390f9b5",
@@ -3309,8 +3309,8 @@
     "mainEffectId2": "5",
     "mainEffectId3": "7",
     "strategyId": "107",
-    "illustratorId": "67",
-    "voiceActorId": "26"
+    "illustratorIndex": 67,
+    "characterVoiceIndex": 26
   }, {
     "code": "e3ca08d773ec5d7572c77e6bc28dcb63",
     "codePocket": "b0839e4cb23c23177e561a3a2ef82270",
@@ -3332,8 +3332,8 @@
     "mainEffectId2": "5",
     "mainEffectId3": "7",
     "strategyId": "108",
-    "illustratorId": "67",
-    "voiceActorId": "8"
+    "illustratorIndex": 67,
+    "characterVoiceIndex": 8
   }, {
     "code": "4734edd8ed0ef8694a8d5b51c23c05a0",
     "codePocket": "5c29d35d443b2d59233177079beea3e7",
@@ -3355,8 +3355,8 @@
     "mainEffectId2": "13",
     "mainEffectId3": "14",
     "strategyId": "93",
-    "illustratorId": "68",
-    "voiceActorId": "23"
+    "illustratorIndex": 68,
+    "characterVoiceIndex": 23
   }, {
     "code": "e3291178f503f057eafd2eb73476ebe0",
     "codePocket": "5aefc53e52a5fa6c6791c00c4c834ef9",
@@ -3378,8 +3378,8 @@
     "mainEffectId2": "11",
     "mainEffectId3": "12",
     "strategyId": "109",
-    "illustratorId": "23",
-    "voiceActorId": "10"
+    "illustratorIndex": 23,
+    "characterVoiceIndex": 10
   }, {
     "code": "2ea71c9bdfc6c5a512138557a010f17b",
     "codePocket": "",
@@ -3401,8 +3401,8 @@
     "mainEffectId2": "11",
     "mainEffectId3": "5",
     "strategyId": "110",
-    "illustratorId": "31",
-    "voiceActorId": "1"
+    "illustratorIndex": 31,
+    "characterVoiceIndex": 1
   }, {
     "code": "a650f3cecffbf3fe0710988540259b67",
     "codePocket": "6ab5748999b9c509444d58506bc73137",
@@ -3424,8 +3424,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "8",
     "strategyId": "31",
-    "illustratorId": "49",
-    "voiceActorId": "7"
+    "illustratorIndex": 49,
+    "characterVoiceIndex": 7
   }, {
     "code": "3a63484171f509e942fcf1cd22bb5bec",
     "codePocket": "",
@@ -3447,8 +3447,8 @@
     "mainEffectId2": "1",
     "mainEffectId3": "10",
     "strategyId": "56",
-    "illustratorId": "51",
-    "voiceActorId": "20"
+    "illustratorIndex": 51,
+    "characterVoiceIndex": 20
   }, {
     "code": "8c7ab8ef7c17b7f0e1446dbc8a1c300a",
     "codePocket": "1cda8611964d48a8f1427657b80adf90",
@@ -3470,8 +3470,8 @@
     "mainEffectId2": "1",
     "mainEffectId3": "12",
     "strategyId": "111",
-    "illustratorId": "19",
-    "voiceActorId": "23"
+    "illustratorIndex": 19,
+    "characterVoiceIndex": 23
   }, {
     "code": "1fb7b3c26515b0503627df7ec6f3f5d1",
     "codePocket": "f9a6e26e491d4bef1672bbf352ed3320",
@@ -3493,8 +3493,8 @@
     "mainEffectId2": "7",
     "mainEffectId3": "8",
     "strategyId": "0",
-    "illustratorId": "69",
-    "voiceActorId": "20"
+    "illustratorIndex": 69,
+    "characterVoiceIndex": 20
   }, {
     "code": "b8da58aeb930744818d517840517722f",
     "codePocket": "",
@@ -3516,8 +3516,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "7",
     "strategyId": "0",
-    "illustratorId": "69",
-    "voiceActorId": "25"
+    "illustratorIndex": 69,
+    "characterVoiceIndex": 25
   }, {
     "code": "5c8b83e0de94e360b3d7576d2120f059",
     "codePocket": "f0fbf286c260c455109db8d77042e13e",
@@ -3539,8 +3539,8 @@
     "mainEffectId2": "14",
     "mainEffectId3": "8",
     "strategyId": "112",
-    "illustratorId": "21",
-    "voiceActorId": "7"
+    "illustratorIndex": 21,
+    "characterVoiceIndex": 7
   }, {
     "code": "a0a6b975fdca75cb7f61e77336710d05",
     "codePocket": "",
@@ -3562,8 +3562,8 @@
     "mainEffectId2": "2",
     "mainEffectId3": "16",
     "strategyId": "113",
-    "illustratorId": "6",
-    "voiceActorId": "13"
+    "illustratorIndex": 6,
+    "characterVoiceIndex": 13
   }, {
     "code": "b7b87caf9f4ee4ef429d04d95a192fdf",
     "codePocket": "",
@@ -3585,8 +3585,8 @@
     "mainEffectId2": "5",
     "mainEffectId3": "17",
     "strategyId": "29",
-    "illustratorId": "28",
-    "voiceActorId": "2"
+    "illustratorIndex": 28,
+    "characterVoiceIndex": 2
   }, {
     "code": "32e6f761e41bff11e0a815f5d12f4f6c",
     "codePocket": "",
@@ -3608,8 +3608,8 @@
     "mainEffectId2": "6",
     "mainEffectId3": "7",
     "strategyId": "114",
-    "illustratorId": "57",
-    "voiceActorId": "28"
+    "illustratorIndex": 57,
+    "characterVoiceIndex": 28
   }, {
     "code": "584b89a1e7b4df1e7868d561fcaa2b5e",
     "codePocket": "3b1ceef2f84f7bfa1aa01be4f5d42aaa",
@@ -3631,8 +3631,8 @@
     "mainEffectId2": "10",
     "mainEffectId3": "18",
     "strategyId": "0",
-    "illustratorId": "70",
-    "voiceActorId": "0"
+    "illustratorIndex": 70,
+    "characterVoiceIndex": 0
   }, {
     "code": "fb3e0e4aaad74b0a52d32843482c66fd",
     "codePocket": "",
@@ -3654,8 +3654,8 @@
     "mainEffectId2": "5",
     "mainEffectId3": "6",
     "strategyId": "115",
-    "illustratorId": "1",
-    "voiceActorId": "10"
+    "illustratorIndex": 1,
+    "characterVoiceIndex": 10
   }, {
     "code": "38554ef831423f9459219238e1d147c9",
     "codePocket": "7838374605999f521d375054d5e62da7",
@@ -3677,8 +3677,8 @@
     "mainEffectId2": "5",
     "mainEffectId3": "7",
     "strategyId": "96",
-    "illustratorId": "71",
-    "voiceActorId": "23"
+    "illustratorIndex": 71,
+    "characterVoiceIndex": 23
   }, {
     "code": "0a49bd61400f9e6c0bd41ad07ee468c1",
     "codePocket": "",
@@ -3700,8 +3700,8 @@
     "mainEffectId2": "3",
     "mainEffectId3": "6",
     "strategyId": "116",
-    "illustratorId": "72",
-    "voiceActorId": "5"
+    "illustratorIndex": 72,
+    "characterVoiceIndex": 5
   }, {
     "code": "e68368a87fa18082a33db3fe1e47118f",
     "codePocket": "",
@@ -3723,8 +3723,8 @@
     "mainEffectId2": "16",
     "mainEffectId3": "5",
     "strategyId": "117",
-    "illustratorId": "25",
-    "voiceActorId": "19"
+    "illustratorIndex": 25,
+    "characterVoiceIndex": 19
   }, {
     "code": "ed19071c0811d20995e9d475d27b4eb9",
     "codePocket": "",
@@ -3746,8 +3746,8 @@
     "mainEffectId2": "11",
     "mainEffectId3": "7",
     "strategyId": "118",
-    "illustratorId": "5",
-    "voiceActorId": "5"
+    "illustratorIndex": 5,
+    "characterVoiceIndex": 5
   }, {
     "code": "950d505726da7632b70ba587698a6ed8",
     "codePocket": "",
@@ -3769,8 +3769,8 @@
     "mainEffectId2": "10",
     "mainEffectId3": "5",
     "strategyId": "119",
-    "illustratorId": "47",
-    "voiceActorId": "30"
+    "illustratorIndex": 47,
+    "characterVoiceIndex": 30
   }, {
     "code": "13ee9dace6896baa4379805cbf44546c",
     "codePocket": "",
@@ -3792,8 +3792,8 @@
     "mainEffectId2": "18",
     "mainEffectId3": "8",
     "strategyId": "120",
-    "illustratorId": "73",
-    "voiceActorId": "28"
+    "illustratorIndex": 73,
+    "characterVoiceIndex": 28
   }, {
     "code": "018a670e8785e49c724ee1530030a337",
     "codePocket": "",
@@ -3815,8 +3815,8 @@
     "mainEffectId2": "5",
     "mainEffectId3": "17",
     "strategyId": "121",
-    "illustratorId": "61",
-    "voiceActorId": "20"
+    "illustratorIndex": 61,
+    "characterVoiceIndex": 20
   }, {
     "code": "218845dc45cdc6b9aab875501296094c",
     "codePocket": "",
@@ -3838,8 +3838,8 @@
     "mainEffectId2": "11",
     "mainEffectId3": "7",
     "strategyId": "122",
-    "illustratorId": "46",
-    "voiceActorId": "20"
+    "illustratorIndex": 46,
+    "characterVoiceIndex": 20
   }, {
     "code": "1c20c77652fe863e98c1fdf0cc2525af",
     "codePocket": "",
@@ -3861,8 +3861,8 @@
     "mainEffectId2": "13",
     "mainEffectId3": "5",
     "strategyId": "36",
-    "illustratorId": "74",
-    "voiceActorId": "1"
+    "illustratorIndex": 74,
+    "characterVoiceIndex": 1
   }, {
     "code": "9a8fedc1617efa29d567dc6704d8b54b",
     "codePocket": "",
@@ -3884,8 +3884,8 @@
     "mainEffectId2": "",
     "mainEffectId3": "",
     "strategyId": "123",
-    "illustratorId": "72",
-    "voiceActorId": "2"
+    "illustratorIndex": 72,
+    "characterVoiceIndex": 2
   }, {
     "code": "e2154cadb82a36b4e38c3c3a8329fbdb",
     "codePocket": "",
@@ -3907,8 +3907,8 @@
     "mainEffectId2": "",
     "mainEffectId3": "",
     "strategyId": "124",
-    "illustratorId": "18",
-    "voiceActorId": "18"
+    "illustratorIndex": 18,
+    "characterVoiceIndex": 18
   }, {
     "code": "b0c7c72e07b617e632b614fd5e9ace05",
     "codePocket": "d171b0e39adf0904c8c6ed2da2d0b312",
@@ -3930,8 +3930,8 @@
     "mainEffectId2": "10",
     "mainEffectId3": "12",
     "strategyId": "125",
-    "illustratorId": "26",
-    "voiceActorId": "10"
+    "illustratorIndex": 26,
+    "characterVoiceIndex": 10
   }, {
     "code": "dfc80b2ee781ca50ee2552e2b78949ce",
     "codePocket": "094a109860d528017eddf6f22a3905d6",
@@ -3953,8 +3953,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "17",
     "strategyId": "126",
-    "illustratorId": "9",
-    "voiceActorId": "17"
+    "illustratorIndex": 9,
+    "characterVoiceIndex": 17
   }, {
     "code": "eb0e5bbbba1f981a41c9fd2bb247b279",
     "codePocket": "46f69968b6ee95d7c84b6aba07ed2d4c",
@@ -3976,8 +3976,8 @@
     "mainEffectId2": "14",
     "mainEffectId3": "12",
     "strategyId": "0",
-    "illustratorId": "75",
-    "voiceActorId": "14"
+    "illustratorIndex": 75,
+    "characterVoiceIndex": 14
   }, {
     "code": "4f8f7afbab86bb1312981e627913357f",
     "codePocket": "4546b33517d38c40de02125fc9b93f87",
@@ -3999,8 +3999,8 @@
     "mainEffectId2": "15",
     "mainEffectId3": "10",
     "strategyId": "127",
-    "illustratorId": "26",
-    "voiceActorId": "26"
+    "illustratorIndex": 26,
+    "characterVoiceIndex": 26
   }, {
     "code": "0f590b225439354d4df593f0e831816f",
     "codePocket": "23c473f68fd7fa489200433db91cc57a",
@@ -4022,8 +4022,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "6",
     "strategyId": "128",
-    "illustratorId": "76",
-    "voiceActorId": "7"
+    "illustratorIndex": 76,
+    "characterVoiceIndex": 7
   }, {
     "code": "85b7a63b074725c193ba4c251608c478",
     "codePocket": "051b07cbf22ec82e8eec3909e02acc67",
@@ -4045,8 +4045,8 @@
     "mainEffectId2": "2",
     "mainEffectId3": "12",
     "strategyId": "58",
-    "illustratorId": "28",
-    "voiceActorId": "7"
+    "illustratorIndex": 28,
+    "characterVoiceIndex": 7
   }, {
     "code": "683cca45b03b913d3421b06558548b7b",
     "codePocket": "d6fd3a046ee15fa609ef967f89f020cb",
@@ -4068,8 +4068,8 @@
     "mainEffectId2": "3",
     "mainEffectId3": "4",
     "strategyId": "42",
-    "illustratorId": "77",
-    "voiceActorId": "12"
+    "illustratorIndex": 77,
+    "characterVoiceIndex": 12
   }, {
     "code": "5edabf4186e7d951c3967dfa26f49734",
     "codePocket": "819ac8233d51d3b6cc958cb2dff4ae63",
@@ -4091,8 +4091,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "5",
     "strategyId": "129",
-    "illustratorId": "78",
-    "voiceActorId": "11"
+    "illustratorIndex": 78,
+    "characterVoiceIndex": 11
   }, {
     "code": "a31724944b2349269b745144076c56f8",
     "codePocket": "3cc8d5c1872a1d708b7ea583557571f3",
@@ -4114,8 +4114,8 @@
     "mainEffectId2": "5",
     "mainEffectId3": "8",
     "strategyId": "130",
-    "illustratorId": "79",
-    "voiceActorId": "20"
+    "illustratorIndex": 79,
+    "characterVoiceIndex": 20
   }, {
     "code": "1a1c93eae5ce103d3ea039327d0b9aa0",
     "codePocket": "",
@@ -4137,8 +4137,8 @@
     "mainEffectId2": "16",
     "mainEffectId3": "12",
     "strategyId": "131",
-    "illustratorId": "80",
-    "voiceActorId": "24"
+    "illustratorIndex": 80,
+    "characterVoiceIndex": 24
   }, {
     "code": "be717c53f6c4a90d54b5136e2d080eb7",
     "codePocket": "",
@@ -4160,8 +4160,8 @@
     "mainEffectId2": "6",
     "mainEffectId3": "17",
     "strategyId": "127",
-    "illustratorId": "81",
-    "voiceActorId": "28"
+    "illustratorIndex": 81,
+    "characterVoiceIndex": 28
   }, {
     "code": "64e4bc9cbdcd15e778b0d50ddd8fceea",
     "codePocket": "436a436ff8adc18d43a828e35fb80e63",
@@ -4183,8 +4183,8 @@
     "mainEffectId2": "16",
     "mainEffectId3": "12",
     "strategyId": "132",
-    "illustratorId": "44",
-    "voiceActorId": "25"
+    "illustratorIndex": 44,
+    "characterVoiceIndex": 25
   }, {
     "code": "0b2a5fbdc4273be09919eb30dcc7f86d",
     "codePocket": "b178ee84a4c8bfd98387eda0f0ffdc68",
@@ -4206,8 +4206,8 @@
     "mainEffectId2": "10",
     "mainEffectId3": "12",
     "strategyId": "133",
-    "illustratorId": "68",
-    "voiceActorId": "23"
+    "illustratorIndex": 68,
+    "characterVoiceIndex": 23
   }, {
     "code": "dbfb1f4ab9567bff1e2e614e607a98db",
     "codePocket": "148ea971826e63cd7d62d870c0bd17a1",
@@ -4229,8 +4229,8 @@
     "mainEffectId2": "2",
     "mainEffectId3": "12",
     "strategyId": "134",
-    "illustratorId": "31",
-    "voiceActorId": "25"
+    "illustratorIndex": 31,
+    "characterVoiceIndex": 25
   }, {
     "code": "0f1c684879d707f3153fa4dc2afd1436",
     "codePocket": "",
@@ -4252,8 +4252,8 @@
     "mainEffectId2": "16",
     "mainEffectId3": "12",
     "strategyId": "135",
-    "illustratorId": "3",
-    "voiceActorId": "6"
+    "illustratorIndex": 3,
+    "characterVoiceIndex": 6
   }, {
     "code": "1ad8073156fa761964bddadb45d4a381",
     "codePocket": "7fc454403346d91f8498990a2a0eed8e",
@@ -4275,8 +4275,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "5",
     "strategyId": "40",
-    "illustratorId": "37",
-    "voiceActorId": "12"
+    "illustratorIndex": 37,
+    "characterVoiceIndex": 12
   }, {
     "code": "28af5c889b9b72cdf844a01bc606ddef",
     "codePocket": "07c2b66796a4068207274feb31f84e05",
@@ -4298,8 +4298,8 @@
     "mainEffectId2": "1",
     "mainEffectId3": "6",
     "strategyId": "134",
-    "illustratorId": "17",
-    "voiceActorId": "14"
+    "illustratorIndex": 17,
+    "characterVoiceIndex": 14
   }, {
     "code": "d41f1db3cf5d1c881a02e82af0862fa9",
     "codePocket": "",
@@ -4321,8 +4321,8 @@
     "mainEffectId2": "16",
     "mainEffectId3": "8",
     "strategyId": "136",
-    "illustratorId": "32",
-    "voiceActorId": "21"
+    "illustratorIndex": 32,
+    "characterVoiceIndex": 21
   }, {
     "code": "8e88056ce4f9380efe590c9993290f56",
     "codePocket": "",
@@ -4344,8 +4344,8 @@
     "mainEffectId2": "3",
     "mainEffectId3": "14",
     "strategyId": "137",
-    "illustratorId": "42",
-    "voiceActorId": "26"
+    "illustratorIndex": 42,
+    "characterVoiceIndex": 26
   }, {
     "code": "3d398cf262753a19da6c7c8afaa01e8f",
     "codePocket": "d4ff83716a81dd279020b5f8b77bb732",
@@ -4367,8 +4367,8 @@
     "mainEffectId2": "5",
     "mainEffectId3": "7",
     "strategyId": "138",
-    "illustratorId": "82",
-    "voiceActorId": "28"
+    "illustratorIndex": 82,
+    "characterVoiceIndex": 28
   }, {
     "code": "f63b4002e4a66726e37095cc97324cb3",
     "codePocket": "6b2e6e4fb3f8028b1245609c8c8b9c74",
@@ -4390,8 +4390,8 @@
     "mainEffectId2": "4",
     "mainEffectId3": "16",
     "strategyId": "139",
-    "illustratorId": "83",
-    "voiceActorId": "29"
+    "illustratorIndex": 83,
+    "characterVoiceIndex": 29
   }, {
     "code": "655a96ebcf8a958210ac0462c85542ab",
     "codePocket": "ba5a2f56e8b1bf112667cb71e6380954",
@@ -4413,8 +4413,8 @@
     "mainEffectId2": "0",
     "mainEffectId3": "12",
     "strategyId": "32",
-    "illustratorId": "21",
-    "voiceActorId": "11"
+    "illustratorIndex": 21,
+    "characterVoiceIndex": 11
   }, {
     "code": "cb36551cf9c2bec5d5c2c057bd36a80e",
     "codePocket": "5520656432d8feb0153c3c0d595405af",
@@ -4436,8 +4436,8 @@
     "mainEffectId2": "13",
     "mainEffectId3": "5",
     "strategyId": "0",
-    "illustratorId": "82",
-    "voiceActorId": "11"
+    "illustratorIndex": 82,
+    "characterVoiceIndex": 11
   }, {
     "code": "ddcde375b5c90102f0241e5bf991f46c",
     "codePocket": "2e52d323bd4b169cee1899e6d6441a2f",
@@ -4459,8 +4459,8 @@
     "mainEffectId2": "18",
     "mainEffectId3": "8",
     "strategyId": "140",
-    "illustratorId": "23",
-    "voiceActorId": "7"
+    "illustratorIndex": 23,
+    "characterVoiceIndex": 7
   }, {
     "code": "71efbe196750bcc64cf6623d48cdc3e2",
     "codePocket": "cad60c14782e0a3c43dfe6b0132d343e",
@@ -4482,8 +4482,8 @@
     "mainEffectId2": "0",
     "mainEffectId3": "5",
     "strategyId": "141",
-    "illustratorId": "64",
-    "voiceActorId": "0"
+    "illustratorIndex": 64,
+    "characterVoiceIndex": 0
   }, {
     "code": "befbd046fbd8864facd8525cf1a4556a",
     "codePocket": "",
@@ -4505,8 +4505,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "7",
     "strategyId": "142",
-    "illustratorId": "73",
-    "voiceActorId": "17"
+    "illustratorIndex": 73,
+    "characterVoiceIndex": 17
   }, {
     "code": "9f4756e67db187abfb8c4de2f0e47978",
     "codePocket": "1e3faedaaf81a033e6b15b67e89d7469",
@@ -4528,8 +4528,8 @@
     "mainEffectId2": "1",
     "mainEffectId3": "6",
     "strategyId": "140",
-    "illustratorId": "50",
-    "voiceActorId": "20"
+    "illustratorIndex": 50,
+    "characterVoiceIndex": 20
   }, {
     "code": "6180126771037b924573bb336b2606d5",
     "codePocket": "fb3863e92fa46d3781e7534da6e08809",
@@ -4551,8 +4551,8 @@
     "mainEffectId2": "3",
     "mainEffectId3": "12",
     "strategyId": "143",
-    "illustratorId": "21",
-    "voiceActorId": "4"
+    "illustratorIndex": 21,
+    "characterVoiceIndex": 4
   }, {
     "code": "1b7bd41bf44e93f6a6a3d6cbe8d57ac4",
     "codePocket": "",
@@ -4574,8 +4574,8 @@
     "mainEffectId2": "7",
     "mainEffectId3": "17",
     "strategyId": "144",
-    "illustratorId": "70",
-    "voiceActorId": "2"
+    "illustratorIndex": 70,
+    "characterVoiceIndex": 2
   }, {
     "code": "0636557a7146f52580d042f93186bb4b",
     "codePocket": "deea6f6b14b3f0fa72ac9405a6c85442",
@@ -4597,8 +4597,8 @@
     "mainEffectId2": "2",
     "mainEffectId3": "12",
     "strategyId": "16",
-    "illustratorId": "1",
-    "voiceActorId": "1"
+    "illustratorIndex": 1,
+    "characterVoiceIndex": 1
   }, {
     "code": "39b479f31f71146c28602a8e5dd5d0cd",
     "codePocket": "16a0b85aebaf13bcb646ae85fe74406d",
@@ -4620,8 +4620,8 @@
     "mainEffectId2": "10",
     "mainEffectId3": "7",
     "strategyId": "140",
-    "illustratorId": "42",
-    "voiceActorId": "28"
+    "illustratorIndex": 42,
+    "characterVoiceIndex": 28
   }, {
     "code": "7424106106b39c3b19bdb53befa83274",
     "codePocket": "448d0600fb3b1b143f3a66a8730ae2cd",
@@ -4643,8 +4643,8 @@
     "mainEffectId2": "3",
     "mainEffectId3": "15",
     "strategyId": "0",
-    "illustratorId": "39",
-    "voiceActorId": "20"
+    "illustratorIndex": 39,
+    "characterVoiceIndex": 20
   }, {
     "code": "05d1f214e859484d440035b949f44f57",
     "codePocket": "",
@@ -4666,8 +4666,8 @@
     "mainEffectId2": "10",
     "mainEffectId3": "12",
     "strategyId": "145",
-    "illustratorId": "28",
-    "voiceActorId": "2"
+    "illustratorIndex": 28,
+    "characterVoiceIndex": 2
   }, {
     "code": "2feff18e327b5f3f8ef29d25357cd9a3",
     "codePocket": "19469dee855a34138899826d0828aeb4",
@@ -4689,8 +4689,8 @@
     "mainEffectId2": "2",
     "mainEffectId3": "16",
     "strategyId": "146",
-    "illustratorId": "33",
-    "voiceActorId": "30"
+    "illustratorIndex": 33,
+    "characterVoiceIndex": 30
   }, {
     "code": "a865e1188f68a9d7fd1f746ca9dcb0e6",
     "codePocket": "50697c0e1425353963b330e05110945a",
@@ -4712,8 +4712,8 @@
     "mainEffectId2": "4",
     "mainEffectId3": "10",
     "strategyId": "147",
-    "illustratorId": "73",
-    "voiceActorId": "17"
+    "illustratorIndex": 73,
+    "characterVoiceIndex": 17
   }, {
     "code": "77ca473ebab92f7c74eba3c4c890fdb7",
     "codePocket": "f32857aa1ad3027bd9b41d287a09b93b",
@@ -4735,8 +4735,8 @@
     "mainEffectId2": "0",
     "mainEffectId3": "8",
     "strategyId": "127",
-    "illustratorId": "26",
-    "voiceActorId": "20"
+    "illustratorIndex": 26,
+    "characterVoiceIndex": 20
   }, {
     "code": "6b66d077b9d057234c9e8c1a834618a7",
     "codePocket": "290350c1f2060818dfcca51a6db2c28c",
@@ -4758,8 +4758,8 @@
     "mainEffectId2": "1",
     "mainEffectId3": "7",
     "strategyId": "148",
-    "illustratorId": "1",
-    "voiceActorId": "23"
+    "illustratorIndex": 1,
+    "characterVoiceIndex": 23
   }, {
     "code": "6c6932b4f2170d2703e4ed1ad07cc958",
     "codePocket": "",
@@ -4781,8 +4781,8 @@
     "mainEffectId2": "11",
     "mainEffectId3": "17",
     "strategyId": "149",
-    "illustratorId": "13",
-    "voiceActorId": "20"
+    "illustratorIndex": 13,
+    "characterVoiceIndex": 20
   }, {
     "code": "6eb004c6b4eea373c783f80d7be903e9",
     "codePocket": "90077611ea7f82a974b6ec98172fff7d",
@@ -4804,8 +4804,8 @@
     "mainEffectId2": "3",
     "mainEffectId3": "2",
     "strategyId": "150",
-    "illustratorId": "44",
-    "voiceActorId": "0"
+    "illustratorIndex": 44,
+    "characterVoiceIndex": 0
   }, {
     "code": "a1f5a97fd9682a700d96c6683c941c6e",
     "codePocket": "b96ad06052aeb4d510df4fc70e9ae550",
@@ -4827,8 +4827,8 @@
     "mainEffectId2": "10",
     "mainEffectId3": "5",
     "strategyId": "19",
-    "illustratorId": "84",
-    "voiceActorId": "2"
+    "illustratorIndex": 84,
+    "characterVoiceIndex": 2
   }, {
     "code": "f05e2783a7948b24a4a989bd99f1fe1a",
     "codePocket": "",
@@ -4850,8 +4850,8 @@
     "mainEffectId2": "3",
     "mainEffectId3": "6",
     "strategyId": "151",
-    "illustratorId": "30",
-    "voiceActorId": "29"
+    "illustratorIndex": 30,
+    "characterVoiceIndex": 29
   }, {
     "code": "92798895883b9efec995508e5666b5a2",
     "codePocket": "",
@@ -4873,8 +4873,8 @@
     "mainEffectId2": "13",
     "mainEffectId3": "14",
     "strategyId": "152",
-    "illustratorId": "53",
-    "voiceActorId": "1"
+    "illustratorIndex": 53,
+    "characterVoiceIndex": 1
   }, {
     "code": "a8f6b195f5ec0ea6ed4ed7da8787186d",
     "codePocket": "69a334180a32d9163cf246139a7851b5",
@@ -4896,8 +4896,8 @@
     "mainEffectId2": "11",
     "mainEffectId3": "16",
     "strategyId": "153",
-    "illustratorId": "85",
-    "voiceActorId": "30"
+    "illustratorIndex": 85,
+    "characterVoiceIndex": 30
   }, {
     "code": "cf4ef2c931e1119b8aaec7ec2253df48",
     "codePocket": "",
@@ -4919,8 +4919,8 @@
     "mainEffectId2": "16",
     "mainEffectId3": "12",
     "strategyId": "154",
-    "illustratorId": "4",
-    "voiceActorId": "4"
+    "illustratorIndex": 4,
+    "characterVoiceIndex": 4
   }, {
     "code": "3a679b78b56d17185a18ce8a5523bc89",
     "codePocket": "",
@@ -4942,8 +4942,8 @@
     "mainEffectId2": "5",
     "mainEffectId3": "6",
     "strategyId": "0",
-    "illustratorId": "23",
-    "voiceActorId": "0"
+    "illustratorIndex": 23,
+    "characterVoiceIndex": 0
   }, {
     "code": "d79df134dd0896a8bccd3a451889a6f6",
     "codePocket": "d09d964021f2f3674038c7467d837e6f",
@@ -4965,8 +4965,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "18",
     "strategyId": "16",
-    "illustratorId": "16",
-    "voiceActorId": "9"
+    "illustratorIndex": 16,
+    "characterVoiceIndex": 9
   }, {
     "code": "c0a957b07393f6f1ce5f789c25fabc81",
     "codePocket": "3a2eb29c00712e74203eb1756c0faa7b",
@@ -4988,8 +4988,8 @@
     "mainEffectId2": "12",
     "mainEffectId3": "18",
     "strategyId": "19",
-    "illustratorId": "16",
-    "voiceActorId": "24"
+    "illustratorIndex": 16,
+    "characterVoiceIndex": 24
   }, {
     "code": "641bd06ecf5466a87459cdd3d9cd2c02",
     "codePocket": "",
@@ -5011,8 +5011,8 @@
     "mainEffectId2": "2",
     "mainEffectId3": "5",
     "strategyId": "127",
-    "illustratorId": "86",
-    "voiceActorId": "28"
+    "illustratorIndex": 86,
+    "characterVoiceIndex": 28
   }, {
     "code": "ea538d2a2c2373bc55b02dfb5e4f3e39",
     "codePocket": "",
@@ -5034,8 +5034,8 @@
     "mainEffectId2": "1",
     "mainEffectId3": "8",
     "strategyId": "155",
-    "illustratorId": "34",
-    "voiceActorId": "7"
+    "illustratorIndex": 34,
+    "characterVoiceIndex": 7
   }, {
     "code": "6175313e5c21533a60c14504559671e6",
     "codePocket": "",
@@ -5057,8 +5057,8 @@
     "mainEffectId2": "16",
     "mainEffectId3": "8",
     "strategyId": "156",
-    "illustratorId": "51",
-    "voiceActorId": "0"
+    "illustratorIndex": 51,
+    "characterVoiceIndex": 0
   }, {
     "code": "81787a205d55df11035076cd49ac0875",
     "codePocket": "",
@@ -5080,8 +5080,8 @@
     "mainEffectId2": "10",
     "mainEffectId3": "17",
     "strategyId": "157",
-    "illustratorId": "87",
-    "voiceActorId": "27"
+    "illustratorIndex": 87,
+    "characterVoiceIndex": 27
   }, {
     "code": "9c9f1d32d9bb52b4c010a97c06956a62",
     "codePocket": "",
@@ -5103,8 +5103,8 @@
     "mainEffectId2": "3",
     "mainEffectId3": "11",
     "strategyId": "0",
-    "illustratorId": "26",
-    "voiceActorId": "17"
+    "illustratorIndex": 26,
+    "characterVoiceIndex": 17
   }, {
     "code": "e1e55723b2be834e4e1454b39c3c4f38",
     "codePocket": "",
@@ -5126,8 +5126,8 @@
     "mainEffectId2": "10",
     "mainEffectId3": "17",
     "strategyId": "158",
-    "illustratorId": "18",
-    "voiceActorId": "14"
+    "illustratorIndex": 18,
+    "characterVoiceIndex": 14
   }, {
     "code": "6a2ad1b9559115714296cdff7dadbfe2",
     "codePocket": "",
@@ -5149,8 +5149,8 @@
     "mainEffectId2": "",
     "mainEffectId3": "",
     "strategyId": "159",
-    "illustratorId": "30",
-    "voiceActorId": "9"
+    "illustratorIndex": 30,
+    "characterVoiceIndex": 9
   }, {
     "code": "2e1b380250f0527df87b94b77bcd2761",
     "codePocket": "",
@@ -5172,8 +5172,8 @@
     "mainEffectId2": "",
     "mainEffectId3": "",
     "strategyId": "160",
-    "illustratorId": "4",
-    "voiceActorId": "5"
+    "illustratorIndex": 4,
+    "characterVoiceIndex": 5
   }],
   "generalNames": [{
     "name": "夏侯淵",
