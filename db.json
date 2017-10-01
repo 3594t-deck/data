@@ -1,6 +1,6 @@
 {
   "DATA": [{
-    "code": "3f739efe231c3f0aa8f47a9fbce28a4c"
+    "code": "3f739efe231c3f0a0588288d6e809ebd"
   }],
   "PATH": [{
     "state_sort": "state_datalist_sort",
@@ -268,7 +268,7 @@
     "voice_actor": "5"
   }, {
     "code": "03203427a7767b15e6891b48c6de3fb4",
-    "pocket_code": "",
+    "pocket_code": "bca615e2dcd5cdad4b5a65cf99a01624",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -337,7 +337,7 @@
     "voice_actor": "8"
   }, {
     "code": "2f2546014f74579050d23b11ada53152",
-    "pocket_code": "",
+    "pocket_code": "a9507f857491b1eef7fb6e818d28b48f",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -360,7 +360,7 @@
     "voice_actor": "9"
   }, {
     "code": "fa14e74626980981e6d8492a243824b3",
-    "pocket_code": "",
+    "pocket_code": "36335601c49b4227bdf903e2806c1098",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -636,7 +636,7 @@
     "voice_actor": "1"
   }, {
     "code": "c9dde33d04ecebb1f5773f2cfd9dc355",
-    "pocket_code": "",
+    "pocket_code": "dce7a97bf2c9b77aa1584c80144f6790",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -866,7 +866,7 @@
     "voice_actor": "1"
   }, {
     "code": "e4e7820f4c65eaed6cf243964b6e0b17",
-    "pocket_code": "",
+    "pocket_code": "5a1530ae19b06029b81fb97c14c76272",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -1004,7 +1004,7 @@
     "voice_actor": "20"
   }, {
     "code": "771d90ffbbf1b11ff3f2d3d2022a898a",
-    "pocket_code": "",
+    "pocket_code": "8d024c3c42d6d113b7ed907fec43ab6f",
     "major_version": "1",
     "add_version": "1",
     "ver_type": "1",
@@ -1119,7 +1119,7 @@
     "voice_actor": "22"
   }, {
     "code": "4078b414e758c1fcfa550839d152263d",
-    "pocket_code": "",
+    "pocket_code": "413db3e7011bc6dfa29ea87c730f966d",
     "major_version": "1",
     "add_version": "3",
     "ver_type": "1",
@@ -1625,7 +1625,7 @@
     "voice_actor": "13"
   }, {
     "code": "2846a1c65b6ce9709df5589fc983b4bc",
-    "pocket_code": "",
+    "pocket_code": "477da661ec6979ee8da8be921b94ff10",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -1717,7 +1717,7 @@
     "voice_actor": "8"
   }, {
     "code": "812226d54bc9260472b3eb43a9e5d4b6",
-    "pocket_code": "",
+    "pocket_code": "68e577a4bec23362d55bc4ec77ff128d",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -1832,7 +1832,7 @@
     "voice_actor": "15"
   }, {
     "code": "5ba4132bede92bd9b91599baf67b8708",
-    "pocket_code": "",
+    "pocket_code": "76a209642e4aa26a03db03a30750f3f2",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -1855,7 +1855,7 @@
     "voice_actor": "12"
   }, {
     "code": "5580ecb2a21b5023202ffd908d4d9352",
-    "pocket_code": "",
+    "pocket_code": "3fa7c788be2697b521be78004fd8dbf3",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -2016,7 +2016,7 @@
     "voice_actor": "11"
   }, {
     "code": "705174a3c354807ecd99b5887b34b56f",
-    "pocket_code": "",
+    "pocket_code": "d01186f3f6b895d3a4829fc5b4803221",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -2085,7 +2085,7 @@
     "voice_actor": "18"
   }, {
     "code": "84d52eca1d5d67edbfab065006bb3820",
-    "pocket_code": "",
+    "pocket_code": "7a7e87951d8be238a7d9684dd4f92d78",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -2131,7 +2131,7 @@
     "voice_actor": "24"
   }, {
     "code": "25c45121e52c12620f4822af23666c1f",
-    "pocket_code": "",
+    "pocket_code": "827bb27adfe2d915529df21fa29b7f53",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -2154,7 +2154,7 @@
     "voice_actor": "7"
   }, {
     "code": "b26b189f98f13a8b473f6539b31c016b",
-    "pocket_code": "",
+    "pocket_code": "a5e04701069f3f9fbf1eec27e37cb0d6",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -2338,7 +2338,7 @@
     "voice_actor": "27"
   }, {
     "code": "de6b363c9f11202ec97b4c42b45a12eb",
-    "pocket_code": "",
+    "pocket_code": "706cd1648220f48204ed225195100266",
     "major_version": "1",
     "add_version": "1",
     "ver_type": "1",
@@ -2913,7 +2913,7 @@
     "voice_actor": "18"
   }, {
     "code": "89f7da5a2d62931251c0da1d703ed09f",
-    "pocket_code": "",
+    "pocket_code": "b224372ba401a16052777f218cc3acf1",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -3166,7 +3166,7 @@
     "voice_actor": "16"
   }, {
     "code": "050a86a0aa8e8da7b92d3870f0f595a6",
-    "pocket_code": "",
+    "pocket_code": "7c068b84e93c3bbc409de2be9ed0542c",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -3419,7 +3419,7 @@
     "voice_actor": "10"
   }, {
     "code": "2ea71c9bdfc6c5a512138557a010f17b",
-    "pocket_code": "",
+    "pocket_code": "afe1f6b49def07964b9f4e2230066d9a",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -3465,7 +3465,7 @@
     "voice_actor": "7"
   }, {
     "code": "3a63484171f509e942fcf1cd22bb5bec",
-    "pocket_code": "",
+    "pocket_code": "beca3db149e791f66ec23745d351ffd0",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -3534,7 +3534,7 @@
     "voice_actor": "20"
   }, {
     "code": "b8da58aeb930744818d517840517722f",
-    "pocket_code": "",
+    "pocket_code": "0364f1c498a55d775a3c9dde38b38fde",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -3603,7 +3603,7 @@
     "voice_actor": "13"
   }, {
     "code": "b7b87caf9f4ee4ef429d04d95a192fdf",
-    "pocket_code": "",
+    "pocket_code": "5db33fb52d40cd0499a74d0d49ab7201",
     "major_version": "1",
     "add_version": "1",
     "ver_type": "1",
@@ -3626,7 +3626,7 @@
     "voice_actor": "2"
   }, {
     "code": "32e6f761e41bff11e0a815f5d12f4f6c",
-    "pocket_code": "",
+    "pocket_code": "f856695c9e16083bb2a0e57bbbcfd6e3",
     "major_version": "1",
     "add_version": "2",
     "ver_type": "1",
@@ -3672,7 +3672,7 @@
     "voice_actor": "0"
   }, {
     "code": "fb3e0e4aaad74b0a52d32843482c66fd",
-    "pocket_code": "",
+    "pocket_code": "6e78db2220bd54d28a54ad4642d87c56",
     "major_version": "1",
     "add_version": "2",
     "ver_type": "1",
@@ -4155,7 +4155,7 @@
     "voice_actor": "20"
   }, {
     "code": "1a1c93eae5ce103d3ea039327d0b9aa0",
-    "pocket_code": "",
+    "pocket_code": "b9d0970c6160b7515efb40e2fb6c27d3",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -4178,7 +4178,7 @@
     "voice_actor": "24"
   }, {
     "code": "be717c53f6c4a90d54b5136e2d080eb7",
-    "pocket_code": "",
+    "pocket_code": "efca0bab5788c27b494608e00bf3226d",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -4270,7 +4270,7 @@
     "voice_actor": "25"
   }, {
     "code": "0f1c684879d707f3153fa4dc2afd1436",
-    "pocket_code": "",
+    "pocket_code": "6f179245bb7afd6c57b9e6785a0bf22b",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -4339,7 +4339,7 @@
     "voice_actor": "14"
   }, {
     "code": "d41f1db3cf5d1c881a02e82af0862fa9",
-    "pocket_code": "",
+    "pocket_code": "b7a12338095da5f3192031607381047c",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -4362,7 +4362,7 @@
     "voice_actor": "21"
   }, {
     "code": "8e88056ce4f9380efe590c9993290f56",
-    "pocket_code": "",
+    "pocket_code": "ea3c52e18fb37ea1e60850cf0319f3f9",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -4523,7 +4523,7 @@
     "voice_actor": "0"
   }, {
     "code": "befbd046fbd8864facd8525cf1a4556a",
-    "pocket_code": "",
+    "pocket_code": "f18c18c3b4688c0f7aa0d8fd11b2e1ee",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -4592,7 +4592,7 @@
     "voice_actor": "4"
   }, {
     "code": "1b7bd41bf44e93f6a6a3d6cbe8d57ac4",
-    "pocket_code": "",
+    "pocket_code": "b1912b069a310721ee94f982c70e470c",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -4684,7 +4684,7 @@
     "voice_actor": "20"
   }, {
     "code": "05d1f214e859484d440035b949f44f57",
-    "pocket_code": "",
+    "pocket_code": "1732657818cd3f342dff7f11dc0f2c5b",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -4799,7 +4799,7 @@
     "voice_actor": "23"
   }, {
     "code": "6c6932b4f2170d2703e4ed1ad07cc958",
-    "pocket_code": "",
+    "pocket_code": "37b9347fb765d186901c62cdbcfe8f4c",
     "major_version": "1",
     "add_version": "0",
     "ver_type": "1",
@@ -7576,7 +7576,7 @@
     "name_ruby": "ﾊｸﾋﾉｷﾖｳｼﾕ",
     "morale": "3",
     "explanation": "最も武力の高い蜀の味方の知力が上がり、兵力が徐々に回復する",
-    "strat_category": "2",
+    "strat_category": "1",
     "strat_range": "0",
     "strat_time": "0"
   }, {
