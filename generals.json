@@ -968,6 +968,193 @@
     "type": "妨害"
   }
 }, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "魏",
+  "rarity": "UC",
+  "name": "王双",
+  "cost": 2,
+  "unitType": "槍兵",
+  "power": 8,
+  "intelligence": 3,
+  "suppression": 1,
+  "skills": ["攻城"],
+  "strategy": {
+    "name": "魏武の敢撃",
+    "point": 4,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "魏",
+  "rarity": "C",
+  "name": "賈逵",
+  "cost": 1.5,
+  "unitType": "弓兵",
+  "power": 4,
+  "intelligence": 8,
+  "suppression": 2,
+  "skills": ["防柵"],
+  "strategy": {
+    "name": "賈侯渠",
+    "point": 5,
+    "type": "妨害"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "魏",
+  "rarity": "SR",
+  "name": "郭嘉",
+  "cost": 2,
+  "unitType": "槍兵",
+  "power": 6,
+  "intelligence": 9,
+  "suppression": 2,
+  "skills": ["伏兵"],
+  "strategy": {
+    "name": "魏国の礎",
+    "point": 6,
+    "type": "全体強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "魏",
+  "rarity": "SR",
+  "name": "郝昭",
+  "cost": 2.5,
+  "unitType": "騎兵",
+  "power": 8,
+  "intelligence": 4,
+  "suppression": 3,
+  "skills": ["勇猛"],
+  "strategy": {
+    "name": "修羅の拍動",
+    "point": 5,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "魏",
+  "rarity": "R",
+  "name": "曹純",
+  "cost": 2,
+  "unitType": "騎兵",
+  "power": 7,
+  "intelligence": 7,
+  "suppression": 2,
+  "skills": [],
+  "strategy": {
+    "name": "刹那の神速号令",
+    "point": 4,
+    "type": "全体強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "魏",
+  "rarity": "UC",
+  "name": "曹真",
+  "cost": 1.5,
+  "unitType": "弓兵",
+  "power": 6,
+  "intelligence": 5,
+  "suppression": 1,
+  "skills": [],
+  "strategy": {
+    "name": "虎豹騎の遊撃",
+    "point": 4,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "魏",
+  "rarity": "LE",
+  "name": "曹操",
+  "cost": 2.5,
+  "unitType": "騎兵",
+  "power": 8,
+  "intelligence": 10,
+  "suppression": 2,
+  "skills": ["魅力"],
+  "strategy": {
+    "name": "覇者の求心",
+    "point": 6,
+    "type": "全体強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "魏",
+  "rarity": "C",
+  "name": "曹沖",
+  "cost": 1,
+  "unitType": "象兵",
+  "power": 2,
+  "intelligence": 8,
+  "suppression": 2,
+  "skills": [],
+  "strategy": {
+    "name": "神童の難問",
+    "point": 4,
+    "type": "妨害"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "魏",
+  "rarity": "R",
+  "name": "趙娥",
+  "cost": 2,
+  "unitType": "騎兵",
+  "power": 7,
+  "intelligence": 4,
+  "suppression": 2,
+  "skills": ["勇猛", "魅力"],
+  "strategy": {
+    "name": "仇討ちの覚悟",
+    "point": 5,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "魏",
+  "rarity": "C",
+  "name": "楊修",
+  "cost": 1,
+  "unitType": "弓兵",
+  "power": 2,
+  "intelligence": 6,
+  "suppression": 1,
+  "skills": ["伏兵"],
+  "strategy": {
+    "name": "鶏肋",
+    "point": 3,
+    "type": "特殊"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾-1",
+  "states": "魏",
+  "rarity": "LE",
+  "name": "曹操",
+  "cost": 3,
+  "unitType": "騎兵",
+  "power": 9,
+  "intelligence": 10,
+  "suppression": 1,
+  "skills": ["伏兵", "魅力"],
+  "strategy": {
+    "name": "勇略采配",
+    "point": 9,
+    "type": "全体強化"
+  }
+}, {
   "majorVer": "第1弾",
   "releaseVer": "第1弾",
   "states": "蜀",
@@ -1937,6 +2124,193 @@
     "type": "全体強化"
   }
 }, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "蜀",
+  "rarity": "C",
+  "name": "王甫",
+  "cost": 1,
+  "unitType": "槍兵",
+  "power": 2,
+  "intelligence": 4,
+  "suppression": 2,
+  "skills": ["復活"],
+  "strategy": {
+    "name": "剛槍の伝授",
+    "point": 4,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "蜀",
+  "rarity": "SR",
+  "name": "花鬘",
+  "cost": 1.5,
+  "unitType": "象兵",
+  "power": 5,
+  "intelligence": 5,
+  "suppression": 2,
+  "skills": ["魅力", "攻城"],
+  "strategy": {
+    "name": "蛮花の雷震",
+    "point": 5,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "蜀",
+  "rarity": "C",
+  "name": "呉懿",
+  "cost": 1.5,
+  "unitType": "槍兵",
+  "power": 6,
+  "intelligence": 3,
+  "suppression": 1,
+  "skills": ["攻城"],
+  "strategy": {
+    "name": "堅実な援軍",
+    "point": 4,
+    "type": "回復"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "蜀",
+  "rarity": "R",
+  "name": "諸葛果",
+  "cost": 2,
+  "unitType": "槍兵",
+  "power": 6,
+  "intelligence": 9,
+  "suppression": 2,
+  "skills": ["伏兵", "魅力"],
+  "strategy": {
+    "name": "天女の錯雷",
+    "point": 7,
+    "type": "ダメージ"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "蜀",
+  "rarity": "C",
+  "name": "諸葛均",
+  "cost": 1,
+  "unitType": "弓兵",
+  "power": 1,
+  "intelligence": 7,
+  "suppression": 2,
+  "skills": ["伏兵"],
+  "strategy": {
+    "name": "征戦の助け",
+    "point": 4,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "蜀",
+  "rarity": "LE",
+  "name": "諸葛亮",
+  "cost": 1.5,
+  "unitType": "槍兵",
+  "power": 2,
+  "intelligence": 10,
+  "suppression": 3,
+  "skills": ["伏兵", "魅力"],
+  "strategy": {
+    "name": "八卦の軍略",
+    "point": 6,
+    "type": "全体強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "蜀",
+  "rarity": "UC",
+  "name": "孫乾",
+  "cost": 1,
+  "unitType": "歩兵",
+  "power": 2,
+  "intelligence": 8,
+  "suppression": 1,
+  "skills": [],
+  "strategy": {
+    "name": "時限式大爆発",
+    "point": 5,
+    "type": "ダメージ"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "蜀",
+  "rarity": "UC",
+  "name": "張嶷",
+  "cost": 2.5,
+  "unitType": "槍兵",
+  "power": 8,
+  "intelligence": 5,
+  "suppression": 3,
+  "skills": ["攻城"],
+  "strategy": {
+    "name": "多勢奮激大車輪",
+    "point": 5,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "蜀",
+  "rarity": "SR",
+  "name": "趙氏",
+  "cost": 1.5,
+  "unitType": "騎兵",
+  "power": 5,
+  "intelligence": 3,
+  "suppression": 2,
+  "skills": ["魅力"],
+  "strategy": {
+    "name": "子龍の如く",
+    "point": 5,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "蜀",
+  "rarity": "UC",
+  "name": "張翼",
+  "cost": 2,
+  "unitType": "騎兵",
+  "power": 8,
+  "intelligence": 3,
+  "suppression": 2,
+  "skills": [],
+  "strategy": {
+    "name": "縮地戦法",
+    "point": 4,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "蜀",
+  "rarity": "C",
+  "name": "鄧芝",
+  "cost": 1.5,
+  "unitType": "槍兵",
+  "power": 5,
+  "intelligence": 7,
+  "suppression": 1,
+  "skills": ["防柵", "魅力"],
+  "strategy": {
+    "name": "蜀呉の連合号令",
+    "point": 5,
+    "type": "全体強化"
+  }
+}, {
   "majorVer": "第1弾",
   "releaseVer": "第1弾",
   "states": "呉",
@@ -2889,6 +3263,839 @@
     "type": "回復"
   }
 }, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "呉",
+  "rarity": "C",
+  "name": "顧雍",
+  "cost": 1,
+  "unitType": "槍兵",
+  "power": 1,
+  "intelligence": 8,
+  "suppression": 3,
+  "skills": [],
+  "strategy": {
+    "name": "双弓の伝授",
+    "point": 3,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "呉",
+  "rarity": "LE",
+  "name": "周瑜",
+  "cost": 2,
+  "unitType": "弓兵",
+  "power": 6,
+  "intelligence": 9,
+  "suppression": 2,
+  "skills": ["伏兵", "魅力"],
+  "strategy": {
+    "name": "赤壁の大火",
+    "point": 7,
+    "type": "ダメージ"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "呉",
+  "rarity": "SR",
+  "name": "小喬",
+  "cost": 1,
+  "unitType": "槍兵",
+  "power": 2,
+  "intelligence": 4,
+  "suppression": 2,
+  "skills": ["魅力"],
+  "strategy": {
+    "name": "小華の旋律",
+    "point": 3,
+    "type": "回復"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "呉",
+  "rarity": "UC",
+  "name": "諸葛恪",
+  "cost": 1.5,
+  "unitType": "騎兵",
+  "power": 3,
+  "intelligence": 8,
+  "suppression": 2,
+  "skills": ["伏兵", "防柵"],
+  "strategy": {
+    "name": "傲岸不遜",
+    "point": 5,
+    "type": "妨害"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "呉",
+  "rarity": "R",
+  "name": "徐氏",
+  "cost": 1.5,
+  "unitType": "弓兵",
+  "power": 4,
+  "intelligence": 7,
+  "suppression": 2,
+  "skills": ["魅力", "攻城"],
+  "strategy": {
+    "name": "復仇の号令",
+    "point": 5,
+    "type": "全体強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "呉",
+  "rarity": "UC",
+  "name": "孫韶",
+  "cost": 1.5,
+  "unitType": "弓兵",
+  "power": 5,
+  "intelligence": 3,
+  "suppression": 3,
+  "skills": [],
+  "strategy": {
+    "name": "走射戦法",
+    "point": 4,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "呉",
+  "rarity": "SR",
+  "name": "大喬",
+  "cost": 1,
+  "unitType": "弓兵",
+  "power": 1,
+  "intelligence": 5,
+  "suppression": 2,
+  "skills": ["魅力"],
+  "strategy": {
+    "name": "護国の流星",
+    "point": 5,
+    "type": "ダメージ"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "呉",
+  "rarity": "R",
+  "name": "陸鬱生",
+  "cost": 1,
+  "unitType": "弓兵",
+  "power": 1,
+  "intelligence": 5,
+  "suppression": 1,
+  "skills": ["防柵", "魅力"],
+  "strategy": {
+    "name": "遠弓の舞い",
+    "point": 5,
+    "type": "舞踊"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "呉",
+  "rarity": "R",
+  "name": "陸抗",
+  "cost": 2,
+  "unitType": "弓兵",
+  "power": 7,
+  "intelligence": 7,
+  "suppression": 1,
+  "skills": ["伏兵"],
+  "strategy": {
+    "name": "駿弓の共振",
+    "point": 7,
+    "type": "全体強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "呉",
+  "rarity": "SR",
+  "name": "陸遜",
+  "cost": 2.5,
+  "unitType": "槍兵",
+  "power": 8,
+  "intelligence": 8,
+  "suppression": 3,
+  "skills": [],
+  "strategy": {
+    "name": "夷陵の炎",
+    "point": 7,
+    "type": "ダメージ"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "呉",
+  "rarity": "C",
+  "name": "留賛",
+  "cost": 2,
+  "unitType": "騎兵",
+  "power": 7,
+  "intelligence": 4,
+  "suppression": 1,
+  "skills": ["勇猛", "復活"],
+  "strategy": {
+    "name": "戦歌の神速行",
+    "point": 5,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "SR",
+  "name": "袁紹",
+  "cost": 2,
+  "unitType": "槍兵",
+  "power": 7,
+  "intelligence": 6,
+  "suppression": 2,
+  "skills": ["魅力"],
+  "strategy": {
+    "name": "栄光の大号令",
+    "point": 7,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "C",
+  "name": "王允",
+  "cost": 1,
+  "unitType": "槍兵",
+  "power": 1,
+  "intelligence": 8,
+  "suppression": 2,
+  "skills": ["伏兵", "漢鳴"],
+  "strategy": {
+    "name": "漢鳴の離間",
+    "point": 5,
+    "type": "妨害"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "R",
+  "name": "王美人",
+  "cost": 1.5,
+  "unitType": "騎兵",
+  "power": 4,
+  "intelligence": 8,
+  "suppression": 2,
+  "skills": ["魅力", "漢鳴"],
+  "strategy": {
+    "name": "漢鳴の雷撃",
+    "point": 5,
+    "type": "ダメージ"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "SR",
+  "name": "何皇后",
+  "cost": 1,
+  "unitType": "槍兵",
+  "power": 2,
+  "intelligence": 5,
+  "suppression": 2,
+  "skills": ["魅力", "漢鳴"],
+  "strategy": {
+    "name": "美女の毒牙",
+    "point": 4,
+    "type": "妨害"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "C",
+  "name": "何進",
+  "cost": 1,
+  "unitType": "歩兵",
+  "power": 3,
+  "intelligence": 1,
+  "suppression": 1,
+  "skills": [],
+  "strategy": {
+    "name": "何進の大号令",
+    "point": 4,
+    "type": "全体強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "R",
+  "name": "顔良",
+  "cost": 2,
+  "unitType": "騎兵",
+  "power": 8,
+  "intelligence": 3,
+  "suppression": 1,
+  "skills": ["勇猛"],
+  "strategy": {
+    "name": "先陣の誉れ",
+    "point": 5,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "SR",
+  "name": "献帝",
+  "cost": 1.5,
+  "unitType": "弓兵",
+  "power": 4,
+  "intelligence": 6,
+  "suppression": 3,
+  "skills": ["魅力", "漢鳴"],
+  "strategy": {
+    "name": "漢王朝の希望",
+    "point": 4,
+    "type": "復活"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "C",
+  "name": "黄祖",
+  "cost": 1.5,
+  "unitType": "弓兵",
+  "power": 5,
+  "intelligence": 4,
+  "suppression": 2,
+  "skills": ["防柵", "漢鳴"],
+  "strategy": {
+    "name": "漢鳴の遠弓",
+    "point": 4,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "SR",
+  "name": "皇甫嵩",
+  "cost": 2,
+  "unitType": "槍兵",
+  "power": 7,
+  "intelligence": 7,
+  "suppression": 1,
+  "skills": ["勇猛", "魅力", "漢鳴"],
+  "strategy": {
+    "name": "漢鳴の大号令",
+    "point": 6,
+    "type": "全体強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "C",
+  "name": "孔融",
+  "cost": 1,
+  "unitType": "槍兵",
+  "power": 2,
+  "intelligence": 6,
+  "suppression": 2,
+  "skills": ["漢鳴"],
+  "strategy": {
+    "name": "漢鳴の弱計",
+    "point": 4,
+    "type": "妨害"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "UC",
+  "name": "蔡瑁",
+  "cost": 1.5,
+  "unitType": "弓兵",
+  "power": 6,
+  "intelligence": 6,
+  "suppression": 1,
+  "skills": ["漢鳴"],
+  "strategy": {
+    "name": "漢鳴の麻痺矢",
+    "point": 4,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "C",
+  "name": "蔡邕",
+  "cost": 1,
+  "unitType": "騎兵",
+  "power": 2,
+  "intelligence": 6,
+  "suppression": 1,
+  "skills": ["漢鳴"],
+  "strategy": {
+    "name": "漢鳴の局封",
+    "point": 4,
+    "type": "妨害"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "UC",
+  "name": "司馬徽",
+  "cost": 1,
+  "unitType": "弓兵",
+  "power": 2,
+  "intelligence": 8,
+  "suppression": 1,
+  "skills": ["伏兵", "漢鳴"],
+  "strategy": {
+    "name": "水鏡の教え",
+    "point": 4,
+    "type": "全体強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "C",
+  "name": "十常侍",
+  "cost": 1,
+  "unitType": "弓兵",
+  "power": 1,
+  "intelligence": 9,
+  "suppression": 0,
+  "skills": ["伏兵", "防柵"],
+  "strategy": {
+    "name": "十常侍秘奥義",
+    "point": 4,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "SR",
+  "name": "朱儁",
+  "cost": 2.5,
+  "unitType": "騎兵",
+  "power": 9,
+  "intelligence": 5,
+  "suppression": 2,
+  "skills": ["攻城"],
+  "strategy": {
+    "name": "蒼天之嵐",
+    "point": 5,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "C",
+  "name": "少帝",
+  "cost": 1,
+  "unitType": "弓兵",
+  "power": 2,
+  "intelligence": 4,
+  "suppression": 2,
+  "skills": ["防柵", "漢鳴"],
+  "strategy": {
+    "name": "漢王朝の悲鳴",
+    "point": 4,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "C",
+  "name": "審配",
+  "cost": 1.5,
+  "unitType": "弓兵",
+  "power": 3,
+  "intelligence": 8,
+  "suppression": 2,
+  "skills": ["防柵", "漢鳴"],
+  "strategy": {
+    "name": "流汗の計",
+    "point": 6,
+    "type": "ダメージ"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "R",
+  "name": "曹操",
+  "cost": 1.5,
+  "unitType": "騎兵",
+  "power": 5,
+  "intelligence": 7,
+  "suppression": 1,
+  "skills": ["魅力", "漢鳴"],
+  "strategy": {
+    "name": "天の鼓動",
+    "point": 4,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "UC",
+  "name": "沮授",
+  "cost": 1,
+  "unitType": "弓兵",
+  "power": 1,
+  "intelligence": 9,
+  "suppression": 2,
+  "skills": ["防柵"],
+  "strategy": {
+    "name": "称誉の弱計",
+    "point": 5,
+    "type": "妨害"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "R",
+  "name": "孫堅",
+  "cost": 1.5,
+  "unitType": "騎兵",
+  "power": 6,
+  "intelligence": 4,
+  "suppression": 1,
+  "skills": ["勇猛", "漢鳴"],
+  "strategy": {
+    "name": "漢鳴の神速行",
+    "point": 4,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "R",
+  "name": "張奐",
+  "cost": 2,
+  "unitType": "槍兵",
+  "power": 7,
+  "intelligence": 4,
+  "suppression": 2,
+  "skills": ["防柵", "漢鳴"],
+  "strategy": {
+    "name": "漢鳴の剛槍",
+    "point": 4,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "R",
+  "name": "張任",
+  "cost": 2,
+  "unitType": "弓兵",
+  "power": 8,
+  "intelligence": 5,
+  "suppression": 1,
+  "skills": ["漢鳴"],
+  "strategy": {
+    "name": "漢鳴の剛弓",
+    "point": 4,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "SR",
+  "name": "貂蝉",
+  "cost": 1.5,
+  "unitType": "歩兵",
+  "power": 3,
+  "intelligence": 5,
+  "suppression": 3,
+  "skills": ["魅力", "漢鳴"],
+  "strategy": {
+    "name": "傾国の鳴舞",
+    "point": 6,
+    "type": "舞踊"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "UC",
+  "name": "張邈",
+  "cost": 1.5,
+  "unitType": "槍兵",
+  "power": 5,
+  "intelligence": 5,
+  "suppression": 2,
+  "skills": ["防柵"],
+  "strategy": {
+    "name": "一番槍",
+    "point": 3,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "R",
+  "name": "陳琳",
+  "cost": 1.5,
+  "unitType": "槍兵",
+  "power": 4,
+  "intelligence": 8,
+  "suppression": 2,
+  "skills": ["伏兵"],
+  "strategy": {
+    "name": "開戦の檄文",
+    "point": 4,
+    "type": "妨害"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "R",
+  "name": "田豊",
+  "cost": 1.5,
+  "unitType": "歩兵",
+  "power": 4,
+  "intelligence": 9,
+  "suppression": 1,
+  "skills": ["伏兵"],
+  "strategy": {
+    "name": "隙無き攻勢",
+    "point": 5,
+    "type": "全体強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "SR",
+  "name": "唐姫",
+  "cost": 1,
+  "unitType": "弓兵",
+  "power": 1,
+  "intelligence": 7,
+  "suppression": 2,
+  "skills": ["防柵", "魅力", "漢鳴"],
+  "strategy": {
+    "name": "漢鳴の討伐令",
+    "point": 4,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "C",
+  "name": "陶謙",
+  "cost": 1.5,
+  "unitType": "槍兵",
+  "power": 5,
+  "intelligence": 7,
+  "suppression": 1,
+  "skills": ["復活", "漢鳴"],
+  "strategy": {
+    "name": "漢鳴の援軍",
+    "point": 4,
+    "type": "回復"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "C",
+  "name": "董承",
+  "cost": 1,
+  "unitType": "槍兵",
+  "power": 3,
+  "intelligence": 6,
+  "suppression": 1,
+  "skills": ["漢鳴"],
+  "strategy": {
+    "name": "漢鳴戦法",
+    "point": 4,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "R",
+  "name": "文醜",
+  "cost": 2,
+  "unitType": "槍兵",
+  "power": 8,
+  "intelligence": 2,
+  "suppression": 2,
+  "skills": ["勇猛"],
+  "strategy": {
+    "name": "称誉の強襲",
+    "point": 5,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "UC",
+  "name": "鮑信",
+  "cost": 1.5,
+  "unitType": "騎兵",
+  "power": 6,
+  "intelligence": 5,
+  "suppression": 1,
+  "skills": [],
+  "strategy": {
+    "name": "一番槍",
+    "point": 3,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "UC",
+  "name": "劉焉",
+  "cost": 2,
+  "unitType": "弓兵",
+  "power": 7,
+  "intelligence": 8,
+  "suppression": 2,
+  "skills": ["魅力"],
+  "strategy": {
+    "name": "野望の謀略",
+    "point": 5,
+    "type": "妨害"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "R",
+  "name": "劉備",
+  "cost": 1.5,
+  "unitType": "槍兵",
+  "power": 5,
+  "intelligence": 6,
+  "suppression": 2,
+  "skills": ["魅力", "漢鳴"],
+  "strategy": {
+    "name": "漢鳴の大車輪",
+    "point": 4,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "漢",
+  "rarity": "R",
+  "name": "盧植",
+  "cost": 2,
+  "unitType": "騎兵",
+  "power": 6,
+  "intelligence": 9,
+  "suppression": 2,
+  "skills": ["魅力"],
+  "strategy": {
+    "name": "先達の号令",
+    "point": 5,
+    "type": "全体強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾-1",
+  "states": "漢",
+  "rarity": "C",
+  "name": "袁煕",
+  "cost": 1,
+  "unitType": "弓兵",
+  "power": 3,
+  "intelligence": 3,
+  "suppression": 2,
+  "skills": [],
+  "strategy": {
+    "name": "袁家の乱・煕",
+    "point": 3,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾-1",
+  "states": "漢",
+  "rarity": "C",
+  "name": "袁尚",
+  "cost": 1,
+  "unitType": "騎兵",
+  "power": 3,
+  "intelligence": 3,
+  "suppression": 1,
+  "skills": [],
+  "strategy": {
+    "name": "袁家の乱・尚",
+    "point": 3,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾-1",
+  "states": "漢",
+  "rarity": "C",
+  "name": "袁譚",
+  "cost": 1,
+  "unitType": "槍兵",
+  "power": 3,
+  "intelligence": 3,
+  "suppression": 2,
+  "skills": [],
+  "strategy": {
+    "name": "袁家の乱・譚",
+    "point": 3,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾-1",
+  "states": "漢",
+  "rarity": "R",
+  "name": "伏寿",
+  "cost": 1,
+  "unitType": "槍兵",
+  "power": 2,
+  "intelligence": 4,
+  "suppression": 1,
+  "skills": ["伏兵", "魅力", "漢鳴"],
+  "strategy": {
+    "name": "漢鳴の再起",
+    "point": 5,
+    "type": "復活"
+  }
+}, {
   "majorVer": "第1弾",
   "releaseVer": "第1弾",
   "states": "群雄",
@@ -3822,5 +5029,209 @@
     "name": "狂騎の神速行",
     "point": 5,
     "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "群雄",
+  "rarity": "C",
+  "name": "何儀",
+  "cost": 1.5,
+  "unitType": "攻城兵",
+  "power": 6,
+  "intelligence": 1,
+  "suppression": 1,
+  "skills": [],
+  "strategy": {
+    "name": "黄巾の群れ",
+    "point": 3,
+    "type": "回復"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "群雄",
+  "rarity": "R",
+  "name": "賈詡",
+  "cost": 1,
+  "unitType": "槍兵",
+  "power": 1,
+  "intelligence": 9,
+  "suppression": 1,
+  "skills": ["伏兵"],
+  "strategy": {
+    "name": "虚盟の離間",
+    "point": 5,
+    "type": "妨害"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "群雄",
+  "rarity": "C",
+  "name": "管亥",
+  "cost": 2,
+  "unitType": "槍兵",
+  "power": 8,
+  "intelligence": 1,
+  "suppression": 1,
+  "skills": ["復活"],
+  "strategy": {
+    "name": "強化戦法",
+    "point": 4,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "群雄",
+  "rarity": "UC",
+  "name": "管輅",
+  "cost": 1,
+  "unitType": "歩兵",
+  "power": 2,
+  "intelligence": 7,
+  "suppression": 2,
+  "skills": ["伏兵"],
+  "strategy": {
+    "name": "封印の計",
+    "point": 3,
+    "type": "妨害"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "群雄",
+  "rarity": "SR",
+  "name": "祝融",
+  "cost": 2,
+  "unitType": "象兵",
+  "power": 7,
+  "intelligence": 4,
+  "suppression": 2,
+  "skills": ["勇猛", "魅力"],
+  "strategy": {
+    "name": "火神の震撃",
+    "point": 5,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "群雄",
+  "rarity": "R",
+  "name": "朶思大王",
+  "cost": 1.5,
+  "unitType": "象兵",
+  "power": 4,
+  "intelligence": 8,
+  "suppression": 2,
+  "skills": ["防柵"],
+  "strategy": {
+    "name": "蛇蝎の秘術",
+    "point": 5,
+    "type": "妨害"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "群雄",
+  "rarity": "UC",
+  "name": "張燕",
+  "cost": 2,
+  "unitType": "歩兵",
+  "power": 8,
+  "intelligence": 4,
+  "suppression": 2,
+  "skills": ["勇猛", "攻城"],
+  "strategy": {
+    "name": "黒山賊の襲撃",
+    "point": 5,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "群雄",
+  "rarity": "UC",
+  "name": "張姜子",
+  "cost": 1,
+  "unitType": "歩兵",
+  "power": 3,
+  "intelligence": 4,
+  "suppression": 2,
+  "skills": ["魅力"],
+  "strategy": {
+    "name": "暴風の道術",
+    "point": 6,
+    "type": "特殊"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "群雄",
+  "rarity": "SR",
+  "name": "趙氏貞",
+  "cost": 1.5,
+  "unitType": "象兵",
+  "power": 5,
+  "intelligence": 6,
+  "suppression": 1,
+  "skills": ["魅力"],
+  "strategy": {
+    "name": "戦処女の大号令",
+    "point": 6,
+    "type": "全体強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "群雄",
+  "rarity": "SR",
+  "name": "孟獲",
+  "cost": 2.5,
+  "unitType": "象兵",
+  "power": 8,
+  "intelligence": 3,
+  "suppression": 1,
+  "skills": ["復活"],
+  "strategy": {
+    "name": "南蛮王の大号令",
+    "point": 7,
+    "type": "全体強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "群雄",
+  "rarity": "R",
+  "name": "孟優",
+  "cost": 1.5,
+  "unitType": "象兵",
+  "power": 6,
+  "intelligence": 4,
+  "suppression": 2,
+  "skills": [],
+  "strategy": {
+    "name": "はじき戦法",
+    "point": 3,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾",
+  "states": "群雄",
+  "rarity": "R",
+  "name": "盧氏",
+  "cost": 1,
+  "unitType": "歩兵",
+  "power": 2,
+  "intelligence": 2,
+  "suppression": 2,
+  "skills": ["防柵", "魅力"],
+  "strategy": {
+    "name": "妖狐の導き",
+    "point": 6,
+    "type": "復活"
   }
 }]
