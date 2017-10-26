@@ -1,6 +1,6 @@
 {
   "DATA": [{
-    "code": "3f739efe231c3f0a3238ab4f059baf56"
+    "code": "3f739efe231c3f0a541fcd599e075f62"
   }],
   "PATH": [{
     "state_sort": "state_datalist_sort",
@@ -1328,7 +1328,7 @@
     "code": "528213f79706fcf30994e0610612283b",
     "pocket_code": "",
     "major_version": "1",
-    "add_version": "9",
+    "add_version": "-1",
     "ver_type": "2",
     "state": "0",
     "rarity": "R",
@@ -1578,10 +1578,56 @@
     "illustrator": "48",
     "voice_actor": "34"
   }, {
+    "code": "e1e7ec661fe191f682e2f3d10c678a16",
+    "pocket_code": "",
+    "major_version": "2",
+    "add_version": "-1",
+    "ver_type": "2",
+    "state": "0",
+    "rarity": "R",
+    "personal": "61",
+    "cost": "15",
+    "unit_type": "1",
+    "buryoku": "5",
+    "chiryoku": "8",
+    "seiatsu": "1",
+    "skill0": "0",
+    "skill1": "",
+    "skill2": "",
+    "gen_main0": "16",
+    "gen_main1": "",
+    "gen_main2": "",
+    "strat": "58",
+    "illustrator": "49",
+    "voice_actor": "35"
+  }, {
+    "code": "80b4682a6b3ced45a244ba6597f8faff",
+    "pocket_code": "",
+    "major_version": "2",
+    "add_version": "-1",
+    "ver_type": "2",
+    "state": "0",
+    "rarity": "R",
+    "personal": "20",
+    "cost": "25",
+    "unit_type": "1",
+    "buryoku": "9",
+    "chiryoku": "5",
+    "seiatsu": "1",
+    "skill0": "3",
+    "skill1": "",
+    "skill2": "",
+    "gen_main0": "9",
+    "gen_main1": "",
+    "gen_main2": "",
+    "strat": "59",
+    "illustrator": "50",
+    "voice_actor": "29"
+  }, {
     "code": "93a4ba7f3e8d43bee1b9c6f1ea6ba3f4",
     "pocket_code": "",
     "major_version": "2",
-    "add_version": "1",
+    "add_version": "-1",
     "ver_type": "2",
     "state": "0",
     "rarity": "LE",
@@ -1597,9 +1643,9 @@
     "gen_main0": "3",
     "gen_main1": "",
     "gen_main2": "",
-    "strat": "58",
-    "illustrator": "49",
-    "voice_actor": "35"
+    "strat": "60",
+    "illustrator": "51",
+    "voice_actor": "36"
   }, {
     "code": "76abec44a0d7e4e43570bc35f676e02b",
     "pocket_code": "",
@@ -1608,7 +1654,7 @@
     "ver_type": "0",
     "state": "1",
     "rarity": "UC",
-    "personal": "61",
+    "personal": "62",
     "cost": "25",
     "unit_type": "0",
     "buryoku": "8",
@@ -1631,7 +1677,7 @@
     "ver_type": "0",
     "state": "1",
     "rarity": "UC",
-    "personal": "62",
+    "personal": "63",
     "cost": "30",
     "unit_type": "2",
     "buryoku": "9",
@@ -1644,7 +1690,7 @@
     "gen_main1": "",
     "gen_main2": "",
     "strat": "0",
-    "illustrator": "50",
+    "illustrator": "52",
     "voice_actor": "25"
   }, {
     "code": "2d84aeefab8078123e86e922fdf9bf42",
@@ -1654,7 +1700,7 @@
     "ver_type": "0",
     "state": "1",
     "rarity": "UC",
-    "personal": "63",
+    "personal": "64",
     "cost": "20",
     "unit_type": "1",
     "buryoku": "6",
@@ -1666,8 +1712,8 @@
     "gen_main0": "1",
     "gen_main1": "",
     "gen_main2": "",
-    "strat": "59",
-    "illustrator": "51",
+    "strat": "61",
+    "illustrator": "53",
     "voice_actor": "15"
   }, {
     "code": "0e717eb0ea5b4bc54dfd5444ccd65a0d",
@@ -1677,7 +1723,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "C",
-    "personal": "64",
+    "personal": "65",
     "cost": "10",
     "unit_type": "0",
     "buryoku": "2",
@@ -1690,7 +1736,7 @@
     "gen_main1": "7",
     "gen_main2": "17",
     "strat": "13",
-    "illustrator": "52",
+    "illustrator": "54",
     "voice_actor": "20"
   }, {
     "code": "1d06c8069bf8b694d96fb394b387f0a9",
@@ -1700,7 +1746,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "UC",
-    "personal": "65",
+    "personal": "66",
     "cost": "15",
     "unit_type": "0",
     "buryoku": "4",
@@ -1713,7 +1759,7 @@
     "gen_main1": "16",
     "gen_main2": "7",
     "strat": "29",
-    "illustrator": "53",
+    "illustrator": "55",
     "voice_actor": "19"
   }, {
     "code": "b03e2834fedb2e296f9df62715202322",
@@ -1723,7 +1769,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "R",
-    "personal": "66",
+    "personal": "67",
     "cost": "15",
     "unit_type": "1",
     "buryoku": "5",
@@ -1746,7 +1792,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "C",
-    "personal": "67",
+    "personal": "68",
     "cost": "15",
     "unit_type": "2",
     "buryoku": "5",
@@ -1758,7 +1804,7 @@
     "gen_main0": "10",
     "gen_main1": "12",
     "gen_main2": "5",
-    "strat": "60",
+    "strat": "62",
     "illustrator": "31",
     "voice_actor": "11"
   }, {
@@ -1769,7 +1815,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "C",
-    "personal": "68",
+    "personal": "69",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "3",
@@ -1782,7 +1828,7 @@
     "gen_main1": "1",
     "gen_main2": "13",
     "strat": "0",
-    "illustrator": "54",
+    "illustrator": "56",
     "voice_actor": "11"
   }, {
     "code": "850fb076bd8bf5a6261ec9c31626a913",
@@ -1792,7 +1838,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "R",
-    "personal": "69",
+    "personal": "70",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "2",
@@ -1804,7 +1850,7 @@
     "gen_main0": "3",
     "gen_main1": "1",
     "gen_main2": "12",
-    "strat": "61",
+    "strat": "63",
     "illustrator": "30",
     "voice_actor": "6"
   }, {
@@ -1815,7 +1861,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "R",
-    "personal": "70",
+    "personal": "71",
     "cost": "20",
     "unit_type": "1",
     "buryoku": "8",
@@ -1827,7 +1873,7 @@
     "gen_main0": "14",
     "gen_main1": "12",
     "gen_main2": "8",
-    "strat": "62",
+    "strat": "64",
     "illustrator": "24",
     "voice_actor": "0"
   }, {
@@ -1850,8 +1896,8 @@
     "gen_main0": "3",
     "gen_main1": "1",
     "gen_main2": "12",
-    "strat": "63",
-    "illustrator": "55",
+    "strat": "65",
+    "illustrator": "57",
     "voice_actor": "7"
   }, {
     "code": "71277ce6a2e2654b4a6978124d265759",
@@ -1861,7 +1907,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "SR",
-    "personal": "71",
+    "personal": "72",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "3",
@@ -1873,8 +1919,8 @@
     "gen_main0": "9",
     "gen_main1": "3",
     "gen_main2": "1",
-    "strat": "64",
-    "illustrator": "56",
+    "strat": "66",
+    "illustrator": "58",
     "voice_actor": "13"
   }, {
     "code": "2846a1c65b6ce9709df5589fc983b4bc",
@@ -1884,7 +1930,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "R",
-    "personal": "72",
+    "personal": "73",
     "cost": "15",
     "unit_type": "1",
     "buryoku": "5",
@@ -1907,7 +1953,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "R",
-    "personal": "73",
+    "personal": "74",
     "cost": "10",
     "unit_type": "3",
     "buryoku": "1",
@@ -1919,7 +1965,7 @@
     "gen_main0": "3",
     "gen_main1": "10",
     "gen_main2": "16",
-    "strat": "65",
+    "strat": "67",
     "illustrator": "25",
     "voice_actor": "9"
   }, {
@@ -1930,7 +1976,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "UC",
-    "personal": "74",
+    "personal": "75",
     "cost": "15",
     "unit_type": "1",
     "buryoku": "6",
@@ -1942,7 +1988,7 @@
     "gen_main0": "1",
     "gen_main1": "18",
     "gen_main2": "8",
-    "strat": "66",
+    "strat": "68",
     "illustrator": "16",
     "voice_actor": "16"
   }, {
@@ -1953,7 +1999,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "C",
-    "personal": "75",
+    "personal": "76",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "2",
@@ -1965,7 +2011,7 @@
     "gen_main0": "1",
     "gen_main1": "14",
     "gen_main2": "18",
-    "strat": "67",
+    "strat": "69",
     "illustrator": "1",
     "voice_actor": "8"
   }, {
@@ -1976,7 +2022,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "R",
-    "personal": "76",
+    "personal": "77",
     "cost": "15",
     "unit_type": "2",
     "buryoku": "6",
@@ -1988,7 +2034,7 @@
     "gen_main0": "3",
     "gen_main1": "2",
     "gen_main2": "6",
-    "strat": "68",
+    "strat": "70",
     "illustrator": "7",
     "voice_actor": "1"
   }, {
@@ -1999,7 +2045,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "R",
-    "personal": "61",
+    "personal": "62",
     "cost": "20",
     "unit_type": "0",
     "buryoku": "7",
@@ -2011,7 +2057,7 @@
     "gen_main0": "9",
     "gen_main1": "3",
     "gen_main2": "8",
-    "strat": "69",
+    "strat": "71",
     "illustrator": "23",
     "voice_actor": "10"
   }, {
@@ -2022,7 +2068,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "UC",
-    "personal": "77",
+    "personal": "78",
     "cost": "15",
     "unit_type": "1",
     "buryoku": "5",
@@ -2034,7 +2080,7 @@
     "gen_main0": "9",
     "gen_main1": "1",
     "gen_main2": "14",
-    "strat": "60",
+    "strat": "62",
     "illustrator": "22",
     "voice_actor": "16"
   }, {
@@ -2045,7 +2091,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "UC",
-    "personal": "78",
+    "personal": "79",
     "cost": "15",
     "unit_type": "0",
     "buryoku": "6",
@@ -2057,7 +2103,7 @@
     "gen_main0": "9",
     "gen_main1": "0",
     "gen_main2": "10",
-    "strat": "69",
+    "strat": "71",
     "illustrator": "7",
     "voice_actor": "4"
   }, {
@@ -2068,7 +2114,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "UC",
-    "personal": "79",
+    "personal": "80",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "4",
@@ -2080,7 +2126,7 @@
     "gen_main0": "3",
     "gen_main1": "10",
     "gen_main2": "5",
-    "strat": "66",
+    "strat": "68",
     "illustrator": "9",
     "voice_actor": "15"
   }, {
@@ -2091,7 +2137,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "SR",
-    "personal": "80",
+    "personal": "81",
     "cost": "15",
     "unit_type": "1",
     "buryoku": "2",
@@ -2103,7 +2149,7 @@
     "gen_main0": "3",
     "gen_main1": "16",
     "gen_main2": "8",
-    "strat": "70",
+    "strat": "72",
     "illustrator": "12",
     "voice_actor": "12"
   }, {
@@ -2114,7 +2160,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "R",
-    "personal": "81",
+    "personal": "82",
     "cost": "15",
     "unit_type": "2",
     "buryoku": "4",
@@ -2126,7 +2172,7 @@
     "gen_main0": "16",
     "gen_main1": "12",
     "gen_main2": "8",
-    "strat": "61",
+    "strat": "63",
     "illustrator": "12",
     "voice_actor": "4"
   }, {
@@ -2137,7 +2183,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "SR",
-    "personal": "82",
+    "personal": "83",
     "cost": "20",
     "unit_type": "2",
     "buryoku": "7",
@@ -2160,7 +2206,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "C",
-    "personal": "83",
+    "personal": "84",
     "cost": "10",
     "unit_type": "2",
     "buryoku": "1",
@@ -2172,7 +2218,7 @@
     "gen_main0": "13",
     "gen_main1": "12",
     "gen_main2": "17",
-    "strat": "71",
+    "strat": "73",
     "illustrator": "32",
     "voice_actor": "8"
   }, {
@@ -2183,7 +2229,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "R",
-    "personal": "84",
+    "personal": "85",
     "cost": "25",
     "unit_type": "1",
     "buryoku": "9",
@@ -2195,7 +2241,7 @@
     "gen_main0": "9",
     "gen_main1": "1",
     "gen_main2": "18",
-    "strat": "72",
+    "strat": "74",
     "illustrator": "24",
     "voice_actor": "1"
   }, {
@@ -2206,7 +2252,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "UC",
-    "personal": "85",
+    "personal": "86",
     "cost": "25",
     "unit_type": "2",
     "buryoku": "8",
@@ -2218,8 +2264,8 @@
     "gen_main0": "3",
     "gen_main1": "18",
     "gen_main2": "6",
-    "strat": "73",
-    "illustrator": "57",
+    "strat": "75",
+    "illustrator": "59",
     "voice_actor": "12"
   }, {
     "code": "291e32c9a57a7b620c2d7cd726ac66e0",
@@ -2229,7 +2275,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "R",
-    "personal": "86",
+    "personal": "87",
     "cost": "15",
     "unit_type": "0",
     "buryoku": "4",
@@ -2241,7 +2287,7 @@
     "gen_main0": "0",
     "gen_main1": "16",
     "gen_main2": "7",
-    "strat": "74",
+    "strat": "76",
     "illustrator": "4",
     "voice_actor": "15"
   }, {
@@ -2252,7 +2298,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "UC",
-    "personal": "87",
+    "personal": "88",
     "cost": "10",
     "unit_type": "2",
     "buryoku": "3",
@@ -2264,8 +2310,8 @@
     "gen_main0": "3",
     "gen_main1": "12",
     "gen_main2": "5",
-    "strat": "60",
-    "illustrator": "58",
+    "strat": "62",
+    "illustrator": "49",
     "voice_actor": "11"
   }, {
     "code": "705174a3c354807ecd99b5887b34b56f",
@@ -2275,7 +2321,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "SR",
-    "personal": "62",
+    "personal": "63",
     "cost": "25",
     "unit_type": "2",
     "buryoku": "9",
@@ -2287,8 +2333,8 @@
     "gen_main0": "3",
     "gen_main1": "14",
     "gen_main2": "12",
-    "strat": "75",
-    "illustrator": "50",
+    "strat": "77",
+    "illustrator": "52",
     "voice_actor": "25"
   }, {
     "code": "f0af0cbb77ef243dd05618e1e1ded3e6",
@@ -2298,7 +2344,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "C",
-    "personal": "88",
+    "personal": "89",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "2",
@@ -2310,7 +2356,7 @@
     "gen_main0": "1",
     "gen_main1": "10",
     "gen_main2": "17",
-    "strat": "76",
+    "strat": "78",
     "illustrator": "22",
     "voice_actor": "26"
   }, {
@@ -2321,7 +2367,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "R",
-    "personal": "89",
+    "personal": "90",
     "cost": "10",
     "unit_type": "0",
     "buryoku": "1",
@@ -2333,7 +2379,7 @@
     "gen_main0": "4",
     "gen_main1": "10",
     "gen_main2": "11",
-    "strat": "77",
+    "strat": "79",
     "illustrator": "20",
     "voice_actor": "18"
   }, {
@@ -2344,7 +2390,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "C",
-    "personal": "90",
+    "personal": "91",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "2",
@@ -2357,7 +2403,7 @@
     "gen_main1": "1",
     "gen_main2": "11",
     "strat": "0",
-    "illustrator": "59",
+    "illustrator": "60",
     "voice_actor": "26"
   }, {
     "code": "cd518885eb6a606f59425718bd9d92d2",
@@ -2367,7 +2413,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "SR",
-    "personal": "91",
+    "personal": "92",
     "cost": "15",
     "unit_type": "2",
     "buryoku": "4",
@@ -2379,7 +2425,7 @@
     "gen_main0": "3",
     "gen_main1": "4",
     "gen_main2": "16",
-    "strat": "78",
+    "strat": "80",
     "illustrator": "34",
     "voice_actor": "24"
   }, {
@@ -2390,7 +2436,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "R",
-    "personal": "92",
+    "personal": "93",
     "cost": "15",
     "unit_type": "1",
     "buryoku": "4",
@@ -2402,7 +2448,7 @@
     "gen_main0": "3",
     "gen_main1": "1",
     "gen_main2": "5",
-    "strat": "79",
+    "strat": "81",
     "illustrator": "1",
     "voice_actor": "7"
   }, {
@@ -2413,7 +2459,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "R",
-    "personal": "93",
+    "personal": "94",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "1",
@@ -2425,7 +2471,7 @@
     "gen_main0": "1",
     "gen_main1": "12",
     "gen_main2": "5",
-    "strat": "80",
+    "strat": "82",
     "illustrator": "7",
     "voice_actor": "10"
   }, {
@@ -2436,7 +2482,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "UC",
-    "personal": "94",
+    "personal": "95",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "3",
@@ -2448,8 +2494,8 @@
     "gen_main0": "9",
     "gen_main1": "4",
     "gen_main2": "17",
-    "strat": "68",
-    "illustrator": "59",
+    "strat": "70",
+    "illustrator": "60",
     "voice_actor": "34"
   }, {
     "code": "006d672040daa9e026b52095fd393e8b",
@@ -2459,7 +2505,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "UC",
-    "personal": "95",
+    "personal": "96",
     "cost": "15",
     "unit_type": "1",
     "buryoku": "6",
@@ -2471,7 +2517,7 @@
     "gen_main0": "4",
     "gen_main1": "1",
     "gen_main2": "14",
-    "strat": "61",
+    "strat": "63",
     "illustrator": "22",
     "voice_actor": "25"
   }, {
@@ -2482,7 +2528,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "SR",
-    "personal": "63",
+    "personal": "64",
     "cost": "20",
     "unit_type": "1",
     "buryoku": "6",
@@ -2494,8 +2540,8 @@
     "gen_main0": "9",
     "gen_main1": "1",
     "gen_main2": "8",
-    "strat": "59",
-    "illustrator": "51",
+    "strat": "61",
+    "illustrator": "53",
     "voice_actor": "15"
   }, {
     "code": "7f021c17f968c82978fd74486b563355",
@@ -2505,7 +2551,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "UC",
-    "personal": "96",
+    "personal": "97",
     "cost": "15",
     "unit_type": "2",
     "buryoku": "6",
@@ -2528,7 +2574,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "C",
-    "personal": "97",
+    "personal": "98",
     "cost": "10",
     "unit_type": "2",
     "buryoku": "2",
@@ -2551,7 +2597,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "UC",
-    "personal": "98",
+    "personal": "99",
     "cost": "15",
     "unit_type": "1",
     "buryoku": "5",
@@ -2563,8 +2609,8 @@
     "gen_main0": "9",
     "gen_main1": "3",
     "gen_main2": "1",
-    "strat": "62",
-    "illustrator": "55",
+    "strat": "64",
+    "illustrator": "57",
     "voice_actor": "26"
   }, {
     "code": "c035f649fa2a76b1630ec83c6ec523be",
@@ -2574,7 +2620,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "R",
-    "personal": "99",
+    "personal": "100",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "2",
@@ -2586,8 +2632,8 @@
     "gen_main0": "3",
     "gen_main1": "12",
     "gen_main2": "5",
-    "strat": "81",
-    "illustrator": "60",
+    "strat": "83",
+    "illustrator": "61",
     "voice_actor": "27"
   }, {
     "code": "de6b363c9f11202ec97b4c42b45a12eb",
@@ -2597,7 +2643,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "UC",
-    "personal": "100",
+    "personal": "101",
     "cost": "20",
     "unit_type": "1",
     "buryoku": "7",
@@ -2609,7 +2655,7 @@
     "gen_main0": "1",
     "gen_main1": "18",
     "gen_main2": "5",
-    "strat": "82",
+    "strat": "84",
     "illustrator": "3",
     "voice_actor": "23"
   }, {
@@ -2620,7 +2666,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "R",
-    "personal": "101",
+    "personal": "102",
     "cost": "20",
     "unit_type": "2",
     "buryoku": "8",
@@ -2632,7 +2678,7 @@
     "gen_main0": "2",
     "gen_main1": "14",
     "gen_main2": "6",
-    "strat": "83",
+    "strat": "85",
     "illustrator": "1",
     "voice_actor": "5"
   }, {
@@ -2643,7 +2689,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "SR",
-    "personal": "102",
+    "personal": "103",
     "cost": "15",
     "unit_type": "0",
     "buryoku": "5",
@@ -2655,7 +2701,7 @@
     "gen_main0": "9",
     "gen_main1": "0",
     "gen_main2": "16",
-    "strat": "84",
+    "strat": "86",
     "illustrator": "25",
     "voice_actor": "3"
   }, {
@@ -2666,7 +2712,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "R",
-    "personal": "103",
+    "personal": "104",
     "cost": "20",
     "unit_type": "1",
     "buryoku": "8",
@@ -2678,7 +2724,7 @@
     "gen_main0": "1",
     "gen_main1": "12",
     "gen_main2": "18",
-    "strat": "85",
+    "strat": "87",
     "illustrator": "1",
     "voice_actor": "10"
   }, {
@@ -2689,7 +2735,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "C",
-    "personal": "104",
+    "personal": "105",
     "cost": "10",
     "unit_type": "2",
     "buryoku": "2",
@@ -2701,8 +2747,8 @@
     "gen_main0": "4",
     "gen_main1": "13",
     "gen_main2": "14",
-    "strat": "86",
-    "illustrator": "51",
+    "strat": "88",
+    "illustrator": "53",
     "voice_actor": "11"
   }, {
     "code": "15365a9ecd12cff55f666c3519871c2b",
@@ -2712,7 +2758,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "UC",
-    "personal": "105",
+    "personal": "106",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "1",
@@ -2724,7 +2770,7 @@
     "gen_main0": "4",
     "gen_main1": "11",
     "gen_main2": "5",
-    "strat": "87",
+    "strat": "89",
     "illustrator": "8",
     "voice_actor": "17"
   }, {
@@ -2735,7 +2781,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "R",
-    "personal": "106",
+    "personal": "107",
     "cost": "15",
     "unit_type": "4",
     "buryoku": "4",
@@ -2747,7 +2793,7 @@
     "gen_main0": "16",
     "gen_main1": "14",
     "gen_main2": "8",
-    "strat": "88",
+    "strat": "90",
     "illustrator": "3",
     "voice_actor": "6"
   }, {
@@ -2758,7 +2804,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "SR",
-    "personal": "107",
+    "personal": "108",
     "cost": "10",
     "unit_type": "2",
     "buryoku": "1",
@@ -2770,8 +2816,8 @@
     "gen_main0": "4",
     "gen_main1": "16",
     "gen_main2": "5",
-    "strat": "89",
-    "illustrator": "61",
+    "strat": "91",
+    "illustrator": "62",
     "voice_actor": "6"
   }, {
     "code": "9db3bc20b280fda5ca1d3087e6cd62bd",
@@ -2781,7 +2827,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "R",
-    "personal": "86",
+    "personal": "87",
     "cost": "20",
     "unit_type": "2",
     "buryoku": "6",
@@ -2793,8 +2839,8 @@
     "gen_main0": "10",
     "gen_main1": "13",
     "gen_main2": "12",
-    "strat": "90",
-    "illustrator": "62",
+    "strat": "92",
+    "illustrator": "63",
     "voice_actor": "25"
   }, {
     "code": "452cd176a990f6d347988a109500625b",
@@ -2804,7 +2850,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "UC",
-    "personal": "108",
+    "personal": "109",
     "cost": "10",
     "unit_type": "3",
     "buryoku": "1",
@@ -2816,8 +2862,8 @@
     "gen_main0": "3",
     "gen_main1": "15",
     "gen_main2": "10",
-    "strat": "91",
-    "illustrator": "63",
+    "strat": "93",
+    "illustrator": "64",
     "voice_actor": "6"
   }, {
     "code": "41ef020f9f1ed543597c2905403720d2",
@@ -2827,7 +2873,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "R",
-    "personal": "73",
+    "personal": "74",
     "cost": "15",
     "unit_type": "2",
     "buryoku": "6",
@@ -2839,8 +2885,8 @@
     "gen_main0": "9",
     "gen_main1": "12",
     "gen_main2": "18",
-    "strat": "92",
-    "illustrator": "64",
+    "strat": "94",
+    "illustrator": "65",
     "voice_actor": "33"
   }, {
     "code": "27defb3577d0647981eb2278d64a4867",
@@ -2850,7 +2896,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "SR",
-    "personal": "109",
+    "personal": "110",
     "cost": "20",
     "unit_type": "2",
     "buryoku": "7",
@@ -2862,7 +2908,7 @@
     "gen_main0": "3",
     "gen_main1": "2",
     "gen_main2": "16",
-    "strat": "93",
+    "strat": "95",
     "illustrator": "14",
     "voice_actor": "9"
   }, {
@@ -2873,7 +2919,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "C",
-    "personal": "110",
+    "personal": "111",
     "cost": "10",
     "unit_type": "0",
     "buryoku": "3",
@@ -2886,17 +2932,17 @@
     "gen_main1": "0",
     "gen_main2": "7",
     "strat": "0",
-    "illustrator": "65",
+    "illustrator": "66",
     "voice_actor": "26"
   }, {
     "code": "f68b2927e25e39c5d040e69b595a4511",
     "pocket_code": "",
     "major_version": "1",
-    "add_version": "9",
+    "add_version": "-1",
     "ver_type": "2",
     "state": "1",
     "rarity": "R",
-    "personal": "111",
+    "personal": "112",
     "cost": "25",
     "unit_type": "1",
     "buryoku": "8",
@@ -2908,7 +2954,7 @@
     "gen_main0": "3",
     "gen_main1": "",
     "gen_main2": "",
-    "strat": "94",
+    "strat": "96",
     "illustrator": "34",
     "voice_actor": "1"
   }, {
@@ -2919,7 +2965,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "C",
-    "personal": "112",
+    "personal": "113",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "2",
@@ -2931,9 +2977,9 @@
     "gen_main0": "3",
     "gen_main1": "12",
     "gen_main2": "18",
-    "strat": "95",
+    "strat": "97",
     "illustrator": "32",
-    "voice_actor": "36"
+    "voice_actor": "37"
   }, {
     "code": "38c9178f9d2d7ce66e99c1a54f01cc8d",
     "pocket_code": "",
@@ -2942,7 +2988,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "SR",
-    "personal": "113",
+    "personal": "114",
     "cost": "15",
     "unit_type": "5",
     "buryoku": "5",
@@ -2954,7 +3000,7 @@
     "gen_main0": "3",
     "gen_main1": "16",
     "gen_main2": "12",
-    "strat": "96",
+    "strat": "98",
     "illustrator": "4",
     "voice_actor": "33"
   }, {
@@ -2965,7 +3011,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "C",
-    "personal": "114",
+    "personal": "115",
     "cost": "15",
     "unit_type": "1",
     "buryoku": "6",
@@ -2977,7 +3023,7 @@
     "gen_main0": "3",
     "gen_main1": "5",
     "gen_main2": "18",
-    "strat": "97",
+    "strat": "99",
     "illustrator": "48",
     "voice_actor": "11"
   }, {
@@ -2988,7 +3034,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "R",
-    "personal": "115",
+    "personal": "116",
     "cost": "20",
     "unit_type": "1",
     "buryoku": "6",
@@ -3000,8 +3046,8 @@
     "gen_main0": "1",
     "gen_main1": "16",
     "gen_main2": "13",
-    "strat": "98",
-    "illustrator": "56",
+    "strat": "100",
+    "illustrator": "58",
     "voice_actor": "13"
   }, {
     "code": "0836a771241077c1cb102e1b3ed02306",
@@ -3011,7 +3057,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "C",
-    "personal": "116",
+    "personal": "117",
     "cost": "10",
     "unit_type": "0",
     "buryoku": "1",
@@ -3023,8 +3069,8 @@
     "gen_main0": "3",
     "gen_main1": "0",
     "gen_main2": "17",
-    "strat": "99",
-    "illustrator": "66",
+    "strat": "101",
+    "illustrator": "67",
     "voice_actor": "25"
   }, {
     "code": "ebcac66de9ad1fcbf6f098b2c62ae02c",
@@ -3034,7 +3080,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "LE",
-    "personal": "80",
+    "personal": "81",
     "cost": "15",
     "unit_type": "1",
     "buryoku": "2",
@@ -3046,9 +3092,9 @@
     "gen_main0": "3",
     "gen_main1": "16",
     "gen_main2": "8",
-    "strat": "70",
+    "strat": "72",
     "illustrator": "46",
-    "voice_actor": "37"
+    "voice_actor": "38"
   }, {
     "code": "ebfcafc9ede5ca5b3d63060a04060889",
     "pocket_code": "",
@@ -3057,7 +3103,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "UC",
-    "personal": "117",
+    "personal": "118",
     "cost": "10",
     "unit_type": "3",
     "buryoku": "2",
@@ -3069,7 +3115,7 @@
     "gen_main0": "10",
     "gen_main1": "5",
     "gen_main2": "17",
-    "strat": "100",
+    "strat": "102",
     "illustrator": "42",
     "voice_actor": "34"
   }, {
@@ -3080,7 +3126,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "UC",
-    "personal": "118",
+    "personal": "119",
     "cost": "25",
     "unit_type": "1",
     "buryoku": "8",
@@ -3092,7 +3138,7 @@
     "gen_main0": "9",
     "gen_main1": "5",
     "gen_main2": "8",
-    "strat": "101",
+    "strat": "103",
     "illustrator": "17",
     "voice_actor": "11"
   }, {
@@ -3103,7 +3149,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "SR",
-    "personal": "119",
+    "personal": "120",
     "cost": "15",
     "unit_type": "2",
     "buryoku": "5",
@@ -3115,9 +3161,9 @@
     "gen_main0": "9",
     "gen_main1": "3",
     "gen_main2": "2",
-    "strat": "102",
-    "illustrator": "50",
-    "voice_actor": "38"
+    "strat": "104",
+    "illustrator": "52",
+    "voice_actor": "39"
   }, {
     "code": "5a7376c357b390524c5b04fb312fce41",
     "pocket_code": "",
@@ -3126,7 +3172,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "UC",
-    "personal": "120",
+    "personal": "121",
     "cost": "20",
     "unit_type": "2",
     "buryoku": "8",
@@ -3138,7 +3184,7 @@
     "gen_main0": "16",
     "gen_main1": "18",
     "gen_main2": "7",
-    "strat": "103",
+    "strat": "105",
     "illustrator": "17",
     "voice_actor": "29"
   }, {
@@ -3149,7 +3195,7 @@
     "ver_type": "1",
     "state": "1",
     "rarity": "C",
-    "personal": "121",
+    "personal": "122",
     "cost": "15",
     "unit_type": "1",
     "buryoku": "5",
@@ -3161,9 +3207,55 @@
     "gen_main0": "4",
     "gen_main1": "1",
     "gen_main2": "17",
-    "strat": "104",
-    "illustrator": "53",
+    "strat": "106",
+    "illustrator": "55",
     "voice_actor": "13"
+  }, {
+    "code": "f2cfbcae8fe2854ac07a0cc5189c1798",
+    "pocket_code": "",
+    "major_version": "2",
+    "add_version": "-1",
+    "ver_type": "2",
+    "state": "1",
+    "rarity": "R",
+    "personal": "73",
+    "cost": "20",
+    "unit_type": "2",
+    "buryoku": "7",
+    "chiryoku": "7",
+    "seiatsu": "1",
+    "skill0": "1",
+    "skill1": "",
+    "skill2": "",
+    "gen_main0": "17",
+    "gen_main1": "",
+    "gen_main2": "",
+    "strat": "107",
+    "illustrator": "68",
+    "voice_actor": "25"
+  }, {
+    "code": "e6afb4cc98bc742d5773c6d4ff386138",
+    "pocket_code": "",
+    "major_version": "2",
+    "add_version": "-1",
+    "ver_type": "2",
+    "state": "1",
+    "rarity": "R",
+    "personal": "123",
+    "cost": "10",
+    "unit_type": "0",
+    "buryoku": "2",
+    "chiryoku": "4",
+    "seiatsu": "1",
+    "skill0": "1",
+    "skill1": "",
+    "skill2": "",
+    "gen_main0": "3",
+    "gen_main1": "",
+    "gen_main2": "",
+    "strat": "108",
+    "illustrator": "43",
+    "voice_actor": "9"
   }, {
     "code": "7f3422111d5fc98518112ac34c43c978",
     "pocket_code": "",
@@ -3172,7 +3264,7 @@
     "ver_type": "0",
     "state": "2",
     "rarity": "UC",
-    "personal": "122",
+    "personal": "124",
     "cost": "25",
     "unit_type": "1",
     "buryoku": "9",
@@ -3185,7 +3277,7 @@
     "gen_main1": "",
     "gen_main2": "",
     "strat": "0",
-    "illustrator": "50",
+    "illustrator": "52",
     "voice_actor": "4"
   }, {
     "code": "d6f075702c94977f724c1fdf6de045c6",
@@ -3195,7 +3287,7 @@
     "ver_type": "0",
     "state": "2",
     "rarity": "UC",
-    "personal": "123",
+    "personal": "125",
     "cost": "25",
     "unit_type": "2",
     "buryoku": "8",
@@ -3207,8 +3299,8 @@
     "gen_main0": "2",
     "gen_main1": "",
     "gen_main2": "",
-    "strat": "105",
-    "illustrator": "67",
+    "strat": "109",
+    "illustrator": "69",
     "voice_actor": "7"
   }, {
     "code": "cca45737c45901500ed429de5488bc15",
@@ -3218,7 +3310,7 @@
     "ver_type": "0",
     "state": "2",
     "rarity": "UC",
-    "personal": "124",
+    "personal": "126",
     "cost": "30",
     "unit_type": "0",
     "buryoku": "9",
@@ -3241,7 +3333,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "R",
-    "personal": "125",
+    "personal": "127",
     "cost": "10",
     "unit_type": "3",
     "buryoku": "2",
@@ -3253,7 +3345,7 @@
     "gen_main0": "3",
     "gen_main1": "16",
     "gen_main2": "7",
-    "strat": "106",
+    "strat": "110",
     "illustrator": "30",
     "voice_actor": "24"
   }, {
@@ -3264,7 +3356,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "C",
-    "personal": "126",
+    "personal": "128",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "2",
@@ -3276,8 +3368,8 @@
     "gen_main0": "4",
     "gen_main1": "1",
     "gen_main2": "10",
-    "strat": "107",
-    "illustrator": "66",
+    "strat": "111",
+    "illustrator": "67",
     "voice_actor": "17"
   }, {
     "code": "17c353abd6c214da151bd8f05eeff2f5",
@@ -3287,7 +3379,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "UC",
-    "personal": "127",
+    "personal": "129",
     "cost": "15",
     "unit_type": "0",
     "buryoku": "6",
@@ -3300,7 +3392,7 @@
     "gen_main1": "13",
     "gen_main2": "8",
     "strat": "0",
-    "illustrator": "59",
+    "illustrator": "60",
     "voice_actor": "7"
   }, {
     "code": "1231647a5f6e657dd5bf00177abd8b4d",
@@ -3310,7 +3402,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "R",
-    "personal": "122",
+    "personal": "124",
     "cost": "25",
     "unit_type": "1",
     "buryoku": "9",
@@ -3322,8 +3414,8 @@
     "gen_main0": "1",
     "gen_main1": "6",
     "gen_main2": "8",
-    "strat": "108",
-    "illustrator": "50",
+    "strat": "112",
+    "illustrator": "52",
     "voice_actor": "4"
   }, {
     "code": "245c76f42edbf5e337902f99340a4d57",
@@ -3333,7 +3425,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "C",
-    "personal": "128",
+    "personal": "130",
     "cost": "10",
     "unit_type": "0",
     "buryoku": "1",
@@ -3345,7 +3437,7 @@
     "gen_main0": "11",
     "gen_main1": "5",
     "gen_main2": "7",
-    "strat": "109",
+    "strat": "113",
     "illustrator": "18",
     "voice_actor": "6"
   }, {
@@ -3356,7 +3448,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "UC",
-    "personal": "129",
+    "personal": "131",
     "cost": "20",
     "unit_type": "1",
     "buryoku": "8",
@@ -3379,7 +3471,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "C",
-    "personal": "130",
+    "personal": "132",
     "cost": "10",
     "unit_type": "0",
     "buryoku": "3",
@@ -3391,8 +3483,8 @@
     "gen_main0": "9",
     "gen_main1": "3",
     "gen_main2": "0",
-    "strat": "110",
-    "illustrator": "57",
+    "strat": "114",
+    "illustrator": "59",
     "voice_actor": "20"
   }, {
     "code": "0c1d0ac142e9ef65f5a6fd30ce39b520",
@@ -3402,7 +3494,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "R",
-    "personal": "131",
+    "personal": "133",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "2",
@@ -3414,7 +3506,7 @@
     "gen_main0": "12",
     "gen_main1": "5",
     "gen_main2": "7",
-    "strat": "111",
+    "strat": "115",
     "illustrator": "12",
     "voice_actor": "18"
   }, {
@@ -3425,7 +3517,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "R",
-    "personal": "132",
+    "personal": "134",
     "cost": "10",
     "unit_type": "0",
     "buryoku": "1",
@@ -3437,9 +3529,9 @@
     "gen_main0": "4",
     "gen_main1": "16",
     "gen_main2": "7",
-    "strat": "112",
-    "illustrator": "68",
-    "voice_actor": "39"
+    "strat": "116",
+    "illustrator": "70",
+    "voice_actor": "40"
   }, {
     "code": "d502deb4ead7ac71a42082b9e1d6c4fb",
     "pocket_code": "9c12e80f36b2e6a08db4e78c100240a7",
@@ -3448,7 +3540,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "R",
-    "personal": "133",
+    "personal": "135",
     "cost": "20",
     "unit_type": "1",
     "buryoku": "7",
@@ -3460,7 +3552,7 @@
     "gen_main0": "3",
     "gen_main1": "12",
     "gen_main2": "18",
-    "strat": "113",
+    "strat": "117",
     "illustrator": "32",
     "voice_actor": "1"
   }, {
@@ -3471,7 +3563,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "SR",
-    "personal": "134",
+    "personal": "136",
     "cost": "20",
     "unit_type": "0",
     "buryoku": "6",
@@ -3483,7 +3575,7 @@
     "gen_main0": "3",
     "gen_main1": "16",
     "gen_main2": "12",
-    "strat": "114",
+    "strat": "118",
     "illustrator": "6",
     "voice_actor": "25"
   }, {
@@ -3494,7 +3586,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "UC",
-    "personal": "135",
+    "personal": "137",
     "cost": "15",
     "unit_type": "1",
     "buryoku": "5",
@@ -3506,8 +3598,8 @@
     "gen_main0": "13",
     "gen_main1": "12",
     "gen_main2": "5",
-    "strat": "115",
-    "illustrator": "69",
+    "strat": "119",
+    "illustrator": "71",
     "voice_actor": "7"
   }, {
     "code": "49ef30c54ed6d753e8327e95d6fa4483",
@@ -3517,7 +3609,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "UC",
-    "personal": "136",
+    "personal": "138",
     "cost": "15",
     "unit_type": "0",
     "buryoku": "5",
@@ -3529,8 +3621,8 @@
     "gen_main0": "3",
     "gen_main1": "0",
     "gen_main2": "7",
-    "strat": "116",
-    "illustrator": "63",
+    "strat": "120",
+    "illustrator": "64",
     "voice_actor": "14"
   }, {
     "code": "949a70c23bedbef5ea79c1a3c55d87a8",
@@ -3540,7 +3632,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "C",
-    "personal": "137",
+    "personal": "139",
     "cost": "10",
     "unit_type": "0",
     "buryoku": "2",
@@ -3552,7 +3644,7 @@
     "gen_main0": "3",
     "gen_main1": "0",
     "gen_main2": "12",
-    "strat": "117",
+    "strat": "121",
     "illustrator": "15",
     "voice_actor": "27"
   }, {
@@ -3563,7 +3655,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "SR",
-    "personal": "138",
+    "personal": "140",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "2",
@@ -3575,7 +3667,7 @@
     "gen_main0": "1",
     "gen_main1": "16",
     "gen_main2": "12",
-    "strat": "118",
+    "strat": "122",
     "illustrator": "14",
     "voice_actor": "9"
   }, {
@@ -3586,7 +3678,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "R",
-    "personal": "139",
+    "personal": "141",
     "cost": "15",
     "unit_type": "0",
     "buryoku": "6",
@@ -3598,8 +3690,8 @@
     "gen_main0": "0",
     "gen_main1": "12",
     "gen_main2": "5",
-    "strat": "119",
-    "illustrator": "70",
+    "strat": "123",
+    "illustrator": "72",
     "voice_actor": "15"
   }, {
     "code": "cffb269c2c8b1c0b954ef2e3674f23ef",
@@ -3609,7 +3701,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "SR",
-    "personal": "140",
+    "personal": "142",
     "cost": "15",
     "unit_type": "3",
     "buryoku": "3",
@@ -3621,8 +3713,8 @@
     "gen_main0": "3",
     "gen_main1": "11",
     "gen_main2": "16",
-    "strat": "120",
-    "illustrator": "60",
+    "strat": "124",
+    "illustrator": "61",
     "voice_actor": "27"
   }, {
     "code": "684fa89eb68c332de8d05f1d49573374",
@@ -3632,7 +3724,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "C",
-    "personal": "141",
+    "personal": "143",
     "cost": "10",
     "unit_type": "2",
     "buryoku": "2",
@@ -3644,7 +3736,7 @@
     "gen_main0": "2",
     "gen_main1": "10",
     "gen_main2": "12",
-    "strat": "121",
+    "strat": "125",
     "illustrator": "22",
     "voice_actor": "20"
   }, {
@@ -3655,7 +3747,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "UC",
-    "personal": "142",
+    "personal": "144",
     "cost": "15",
     "unit_type": "2",
     "buryoku": "4",
@@ -3667,8 +3759,8 @@
     "gen_main0": "3",
     "gen_main1": "12",
     "gen_main2": "8",
-    "strat": "116",
-    "illustrator": "58",
+    "strat": "120",
+    "illustrator": "49",
     "voice_actor": "16"
   }, {
     "code": "050a86a0aa8e8da7b92d3870f0f595a6",
@@ -3678,7 +3770,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "SR",
-    "personal": "143",
+    "personal": "145",
     "cost": "20",
     "unit_type": "0",
     "buryoku": "6",
@@ -3690,7 +3782,7 @@
     "gen_main0": "9",
     "gen_main1": "0",
     "gen_main2": "7",
-    "strat": "122",
+    "strat": "126",
     "illustrator": "4",
     "voice_actor": "16"
   }, {
@@ -3701,7 +3793,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "SR",
-    "personal": "123",
+    "personal": "125",
     "cost": "25",
     "unit_type": "2",
     "buryoku": "8",
@@ -3713,8 +3805,8 @@
     "gen_main0": "9",
     "gen_main1": "10",
     "gen_main2": "14",
-    "strat": "105",
-    "illustrator": "67",
+    "strat": "109",
+    "illustrator": "69",
     "voice_actor": "7"
   }, {
     "code": "f0aa2766d44b26dae47fdd02281e801a",
@@ -3724,7 +3816,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "SR",
-    "personal": "144",
+    "personal": "146",
     "cost": "20",
     "unit_type": "2",
     "buryoku": "8",
@@ -3736,7 +3828,7 @@
     "gen_main0": "2",
     "gen_main1": "5",
     "gen_main2": "6",
-    "strat": "123",
+    "strat": "127",
     "illustrator": "6",
     "voice_actor": "2"
   }, {
@@ -3747,7 +3839,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "SR",
-    "personal": "102",
+    "personal": "103",
     "cost": "10",
     "unit_type": "0",
     "buryoku": "3",
@@ -3759,8 +3851,8 @@
     "gen_main0": "0",
     "gen_main1": "13",
     "gen_main2": "12",
-    "strat": "124",
-    "illustrator": "71",
+    "strat": "128",
+    "illustrator": "73",
     "voice_actor": "9"
   }, {
     "code": "6310473f39435313bb2e30408a6113d1",
@@ -3770,7 +3862,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "C",
-    "personal": "145",
+    "personal": "147",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "2",
@@ -3782,7 +3874,7 @@
     "gen_main0": "3",
     "gen_main1": "4",
     "gen_main2": "1",
-    "strat": "115",
+    "strat": "119",
     "illustrator": "32",
     "voice_actor": "11"
   }, {
@@ -3793,7 +3885,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "R",
-    "personal": "146",
+    "personal": "148",
     "cost": "10",
     "unit_type": "0",
     "buryoku": "2",
@@ -3805,7 +3897,7 @@
     "gen_main0": "16",
     "gen_main1": "12",
     "gen_main2": "5",
-    "strat": "125",
+    "strat": "129",
     "illustrator": "38",
     "voice_actor": "6"
   }, {
@@ -3816,7 +3908,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "R",
-    "personal": "147",
+    "personal": "149",
     "cost": "20",
     "unit_type": "0",
     "buryoku": "8",
@@ -3828,8 +3920,8 @@
     "gen_main0": "3",
     "gen_main1": "4",
     "gen_main2": "14",
-    "strat": "126",
-    "illustrator": "72",
+    "strat": "130",
+    "illustrator": "74",
     "voice_actor": "23"
   }, {
     "code": "5df90c43a6fc67b9ded13fbd1bd7cfd5",
@@ -3839,7 +3931,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "UC",
-    "personal": "148",
+    "personal": "150",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "1",
@@ -3851,8 +3943,8 @@
     "gen_main0": "4",
     "gen_main1": "5",
     "gen_main2": "7",
-    "strat": "127",
-    "illustrator": "73",
+    "strat": "131",
+    "illustrator": "75",
     "voice_actor": "26"
   }, {
     "code": "e3ca08d773ec5d7572c77e6bc28dcb63",
@@ -3862,7 +3954,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "UC",
-    "personal": "149",
+    "personal": "151",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "2",
@@ -3874,8 +3966,8 @@
     "gen_main0": "4",
     "gen_main1": "5",
     "gen_main2": "7",
-    "strat": "128",
-    "illustrator": "73",
+    "strat": "132",
+    "illustrator": "75",
     "voice_actor": "8"
   }, {
     "code": "4734edd8ed0ef8694a8d5b51c23c05a0",
@@ -3885,7 +3977,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "UC",
-    "personal": "150",
+    "personal": "152",
     "cost": "15",
     "unit_type": "2",
     "buryoku": "6",
@@ -3897,8 +3989,8 @@
     "gen_main0": "3",
     "gen_main1": "13",
     "gen_main2": "14",
-    "strat": "113",
-    "illustrator": "74",
+    "strat": "117",
+    "illustrator": "76",
     "voice_actor": "23"
   }, {
     "code": "e3291178f503f057eafd2eb73476ebe0",
@@ -3908,7 +4000,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "UC",
-    "personal": "151",
+    "personal": "153",
     "cost": "20",
     "unit_type": "0",
     "buryoku": "7",
@@ -3920,7 +4012,7 @@
     "gen_main0": "0",
     "gen_main1": "11",
     "gen_main2": "12",
-    "strat": "129",
+    "strat": "133",
     "illustrator": "23",
     "voice_actor": "10"
   }, {
@@ -3931,7 +4023,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "R",
-    "personal": "124",
+    "personal": "126",
     "cost": "25",
     "unit_type": "0",
     "buryoku": "8",
@@ -3943,7 +4035,7 @@
     "gen_main0": "0",
     "gen_main1": "11",
     "gen_main2": "5",
-    "strat": "130",
+    "strat": "134",
     "illustrator": "31",
     "voice_actor": "1"
   }, {
@@ -3954,7 +4046,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "UC",
-    "personal": "152",
+    "personal": "154",
     "cost": "15",
     "unit_type": "4",
     "buryoku": "6",
@@ -3967,7 +4059,7 @@
     "gen_main1": "12",
     "gen_main2": "8",
     "strat": "31",
-    "illustrator": "55",
+    "illustrator": "57",
     "voice_actor": "7"
   }, {
     "code": "3a63484171f509e942fcf1cd22bb5bec",
@@ -3977,7 +4069,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "UC",
-    "personal": "153",
+    "personal": "155",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "3",
@@ -3989,8 +4081,8 @@
     "gen_main0": "9",
     "gen_main1": "1",
     "gen_main2": "10",
-    "strat": "66",
-    "illustrator": "57",
+    "strat": "68",
+    "illustrator": "59",
     "voice_actor": "20"
   }, {
     "code": "8c7ab8ef7c17b7f0e1446dbc8a1c300a",
@@ -4000,7 +4092,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "R",
-    "personal": "154",
+    "personal": "156",
     "cost": "20",
     "unit_type": "1",
     "buryoku": "6",
@@ -4012,7 +4104,7 @@
     "gen_main0": "3",
     "gen_main1": "1",
     "gen_main2": "12",
-    "strat": "131",
+    "strat": "135",
     "illustrator": "19",
     "voice_actor": "23"
   }, {
@@ -4023,7 +4115,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "C",
-    "personal": "155",
+    "personal": "157",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "3",
@@ -4036,7 +4128,7 @@
     "gen_main1": "7",
     "gen_main2": "8",
     "strat": "0",
-    "illustrator": "75",
+    "illustrator": "77",
     "voice_actor": "20"
   }, {
     "code": "b8da58aeb930744818d517840517722f",
@@ -4046,7 +4138,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "UC",
-    "personal": "156",
+    "personal": "158",
     "cost": "20",
     "unit_type": "2",
     "buryoku": "7",
@@ -4059,7 +4151,7 @@
     "gen_main1": "12",
     "gen_main2": "7",
     "strat": "0",
-    "illustrator": "75",
+    "illustrator": "77",
     "voice_actor": "25"
   }, {
     "code": "5c8b83e0de94e360b3d7576d2120f059",
@@ -4069,7 +4161,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "R",
-    "personal": "157",
+    "personal": "159",
     "cost": "15",
     "unit_type": "1",
     "buryoku": "5",
@@ -4081,7 +4173,7 @@
     "gen_main0": "9",
     "gen_main1": "14",
     "gen_main2": "8",
-    "strat": "132",
+    "strat": "136",
     "illustrator": "21",
     "voice_actor": "7"
   }, {
@@ -4092,7 +4184,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "SR",
-    "personal": "158",
+    "personal": "160",
     "cost": "15",
     "unit_type": "2",
     "buryoku": "3",
@@ -4104,7 +4196,7 @@
     "gen_main0": "3",
     "gen_main1": "2",
     "gen_main2": "16",
-    "strat": "133",
+    "strat": "137",
     "illustrator": "6",
     "voice_actor": "13"
   }, {
@@ -4115,7 +4207,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "R",
-    "personal": "159",
+    "personal": "161",
     "cost": "15",
     "unit_type": "1",
     "buryoku": "4",
@@ -4138,7 +4230,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "UC",
-    "personal": "160",
+    "personal": "162",
     "cost": "15",
     "unit_type": "1",
     "buryoku": "5",
@@ -4150,8 +4242,8 @@
     "gen_main0": "1",
     "gen_main1": "6",
     "gen_main2": "7",
-    "strat": "134",
-    "illustrator": "63",
+    "strat": "138",
+    "illustrator": "64",
     "voice_actor": "34"
   }, {
     "code": "584b89a1e7b4df1e7868d561fcaa2b5e",
@@ -4161,7 +4253,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "UC",
-    "personal": "161",
+    "personal": "163",
     "cost": "15",
     "unit_type": "1",
     "buryoku": "6",
@@ -4174,7 +4266,7 @@
     "gen_main1": "10",
     "gen_main2": "18",
     "strat": "0",
-    "illustrator": "76",
+    "illustrator": "78",
     "voice_actor": "0"
   }, {
     "code": "fb3e0e4aaad74b0a52d32843482c66fd",
@@ -4184,7 +4276,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "R",
-    "personal": "162",
+    "personal": "164",
     "cost": "15",
     "unit_type": "2",
     "buryoku": "5",
@@ -4196,7 +4288,7 @@
     "gen_main0": "9",
     "gen_main1": "5",
     "gen_main2": "6",
-    "strat": "135",
+    "strat": "139",
     "illustrator": "1",
     "voice_actor": "10"
   }, {
@@ -4207,7 +4299,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "C",
-    "personal": "163",
+    "personal": "165",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "2",
@@ -4219,8 +4311,8 @@
     "gen_main0": "12",
     "gen_main1": "5",
     "gen_main2": "7",
-    "strat": "116",
-    "illustrator": "77",
+    "strat": "120",
+    "illustrator": "79",
     "voice_actor": "23"
   }, {
     "code": "0a49bd61400f9e6c0bd41ad07ee468c1",
@@ -4230,7 +4322,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "SR",
-    "personal": "123",
+    "personal": "125",
     "cost": "25",
     "unit_type": "1",
     "buryoku": "8",
@@ -4242,8 +4334,8 @@
     "gen_main0": "9",
     "gen_main1": "3",
     "gen_main2": "6",
-    "strat": "136",
-    "illustrator": "78",
+    "strat": "140",
+    "illustrator": "80",
     "voice_actor": "5"
   }, {
     "code": "e68368a87fa18082a33db3fe1e47118f",
@@ -4253,7 +4345,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "SR",
-    "personal": "164",
+    "personal": "166",
     "cost": "10",
     "unit_type": "3",
     "buryoku": "2",
@@ -4265,7 +4357,7 @@
     "gen_main0": "3",
     "gen_main1": "16",
     "gen_main2": "5",
-    "strat": "137",
+    "strat": "141",
     "illustrator": "25",
     "voice_actor": "19"
   }, {
@@ -4276,7 +4368,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "R",
-    "personal": "165",
+    "personal": "167",
     "cost": "15",
     "unit_type": "0",
     "buryoku": "5",
@@ -4288,7 +4380,7 @@
     "gen_main0": "4",
     "gen_main1": "11",
     "gen_main2": "7",
-    "strat": "138",
+    "strat": "142",
     "illustrator": "5",
     "voice_actor": "5"
   }, {
@@ -4299,7 +4391,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "R",
-    "personal": "166",
+    "personal": "168",
     "cost": "10",
     "unit_type": "2",
     "buryoku": "1",
@@ -4311,9 +4403,9 @@
     "gen_main0": "4",
     "gen_main1": "10",
     "gen_main2": "5",
-    "strat": "139",
-    "illustrator": "53",
-    "voice_actor": "39"
+    "strat": "143",
+    "illustrator": "55",
+    "voice_actor": "40"
   }, {
     "code": "13ee9dace6896baa4379805cbf44546c",
     "pocket_code": "b22036ee2672c7dc0bb9a4fc5a5396c2",
@@ -4322,7 +4414,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "C",
-    "personal": "167",
+    "personal": "169",
     "cost": "10",
     "unit_type": "0",
     "buryoku": "3",
@@ -4334,7 +4426,7 @@
     "gen_main0": "12",
     "gen_main1": "18",
     "gen_main2": "8",
-    "strat": "140",
+    "strat": "144",
     "illustrator": "45",
     "voice_actor": "34"
   }, {
@@ -4345,7 +4437,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "R",
-    "personal": "168",
+    "personal": "170",
     "cost": "10",
     "unit_type": "0",
     "buryoku": "2",
@@ -4357,8 +4449,8 @@
     "gen_main0": "11",
     "gen_main1": "5",
     "gen_main2": "17",
-    "strat": "141",
-    "illustrator": "66",
+    "strat": "145",
+    "illustrator": "67",
     "voice_actor": "20"
   }, {
     "code": "218845dc45cdc6b9aab875501296094c",
@@ -4368,7 +4460,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "C",
-    "personal": "169",
+    "personal": "171",
     "cost": "15",
     "unit_type": "0",
     "buryoku": "4",
@@ -4380,8 +4472,8 @@
     "gen_main0": "0",
     "gen_main1": "11",
     "gen_main2": "7",
-    "strat": "142",
-    "illustrator": "52",
+    "strat": "146",
+    "illustrator": "54",
     "voice_actor": "20"
   }, {
     "code": "1c20c77652fe863e98c1fdf0cc2525af",
@@ -4391,7 +4483,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "UC",
-    "personal": "170",
+    "personal": "172",
     "cost": "10",
     "unit_type": "2",
     "buryoku": "3",
@@ -4404,17 +4496,17 @@
     "gen_main1": "13",
     "gen_main2": "5",
     "strat": "36",
-    "illustrator": "79",
+    "illustrator": "81",
     "voice_actor": "1"
   }, {
     "code": "9a8fedc1617efa29d567dc6704d8b54b",
     "pocket_code": "",
     "major_version": "1",
-    "add_version": "5",
+    "add_version": "-1",
     "ver_type": "2",
     "state": "2",
     "rarity": "SR",
-    "personal": "143",
+    "personal": "145",
     "cost": "20",
     "unit_type": "0",
     "buryoku": "8",
@@ -4426,18 +4518,18 @@
     "gen_main0": "7",
     "gen_main1": "",
     "gen_main2": "",
-    "strat": "143",
-    "illustrator": "78",
+    "strat": "147",
+    "illustrator": "80",
     "voice_actor": "2"
   }, {
     "code": "e2154cadb82a36b4e38c3c3a8329fbdb",
     "pocket_code": "",
     "major_version": "1",
-    "add_version": "9",
+    "add_version": "-1",
     "ver_type": "2",
     "state": "2",
     "rarity": "R",
-    "personal": "171",
+    "personal": "173",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "2",
@@ -4449,7 +4541,7 @@
     "gen_main0": "16",
     "gen_main1": "",
     "gen_main2": "",
-    "strat": "144",
+    "strat": "148",
     "illustrator": "18",
     "voice_actor": "18"
   }, {
@@ -4460,7 +4552,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "C",
-    "personal": "172",
+    "personal": "174",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "1",
@@ -4472,9 +4564,9 @@
     "gen_main0": "4",
     "gen_main1": "12",
     "gen_main2": "7",
-    "strat": "145",
-    "illustrator": "73",
-    "voice_actor": "40"
+    "strat": "149",
+    "illustrator": "75",
+    "voice_actor": "41"
   }, {
     "code": "498d90bb7538150d006d59d21ad48d3f",
     "pocket_code": "",
@@ -4483,7 +4575,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "LE",
-    "personal": "134",
+    "personal": "136",
     "cost": "20",
     "unit_type": "0",
     "buryoku": "6",
@@ -4495,9 +4587,9 @@
     "gen_main0": "3",
     "gen_main1": "16",
     "gen_main2": "12",
-    "strat": "114",
+    "strat": "118",
     "illustrator": "46",
-    "voice_actor": "41"
+    "voice_actor": "42"
   }, {
     "code": "a387c57406d1923e74f2bdfd567ab85c",
     "pocket_code": "",
@@ -4506,7 +4598,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "SR",
-    "personal": "138",
+    "personal": "140",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "2",
@@ -4518,8 +4610,8 @@
     "gen_main0": "1",
     "gen_main1": "16",
     "gen_main2": "7",
-    "strat": "146",
-    "illustrator": "80",
+    "strat": "150",
+    "illustrator": "82",
     "voice_actor": "13"
   }, {
     "code": "bfc769515086b8e04d38d176d40aed05",
@@ -4529,7 +4621,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "UC",
-    "personal": "173",
+    "personal": "175",
     "cost": "15",
     "unit_type": "2",
     "buryoku": "3",
@@ -4541,8 +4633,8 @@
     "gen_main0": "3",
     "gen_main1": "11",
     "gen_main2": "8",
-    "strat": "147",
-    "illustrator": "51",
+    "strat": "151",
+    "illustrator": "53",
     "voice_actor": "20"
   }, {
     "code": "dcf4945dfc047989781cb1f62944c52c",
@@ -4552,7 +4644,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "R",
-    "personal": "174",
+    "personal": "176",
     "cost": "15",
     "unit_type": "0",
     "buryoku": "4",
@@ -4564,9 +4656,9 @@
     "gen_main0": "4",
     "gen_main1": "10",
     "gen_main2": "16",
-    "strat": "148",
+    "strat": "152",
     "illustrator": "20",
-    "voice_actor": "38"
+    "voice_actor": "39"
   }, {
     "code": "30461db46edbffa8d8e61925635f00ad",
     "pocket_code": "",
@@ -4575,7 +4667,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "UC",
-    "personal": "175",
+    "personal": "177",
     "cost": "15",
     "unit_type": "0",
     "buryoku": "5",
@@ -4587,9 +4679,9 @@
     "gen_main0": "3",
     "gen_main1": "12",
     "gen_main2": "7",
-    "strat": "149",
-    "illustrator": "81",
-    "voice_actor": "41"
+    "strat": "153",
+    "illustrator": "83",
+    "voice_actor": "42"
   }, {
     "code": "583d4a942f29af7eb6c8f076f456c167",
     "pocket_code": "",
@@ -4598,7 +4690,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "SR",
-    "personal": "146",
+    "personal": "148",
     "cost": "10",
     "unit_type": "0",
     "buryoku": "1",
@@ -4610,9 +4702,9 @@
     "gen_main0": "0",
     "gen_main1": "16",
     "gen_main2": "12",
-    "strat": "150",
-    "illustrator": "80",
-    "voice_actor": "42"
+    "strat": "154",
+    "illustrator": "82",
+    "voice_actor": "43"
   }, {
     "code": "00e14251b5ddc73873aab8dda1095cd0",
     "pocket_code": "",
@@ -4621,7 +4713,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "R",
-    "personal": "176",
+    "personal": "178",
     "cost": "10",
     "unit_type": "0",
     "buryoku": "1",
@@ -4633,7 +4725,7 @@
     "gen_main0": "3",
     "gen_main1": "4",
     "gen_main2": "17",
-    "strat": "151",
+    "strat": "155",
     "illustrator": "43",
     "voice_actor": "32"
   }, {
@@ -4644,7 +4736,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "R",
-    "personal": "177",
+    "personal": "179",
     "cost": "20",
     "unit_type": "0",
     "buryoku": "7",
@@ -4656,9 +4748,9 @@
     "gen_main0": "0",
     "gen_main1": "12",
     "gen_main2": "5",
-    "strat": "152",
+    "strat": "156",
     "illustrator": "6",
-    "voice_actor": "41"
+    "voice_actor": "42"
   }, {
     "code": "2aecfefc16111ddfec753bd198ce467e",
     "pocket_code": "",
@@ -4667,7 +4759,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "SR",
-    "personal": "154",
+    "personal": "156",
     "cost": "25",
     "unit_type": "1",
     "buryoku": "8",
@@ -4679,9 +4771,9 @@
     "gen_main0": "9",
     "gen_main1": "16",
     "gen_main2": "18",
-    "strat": "153",
-    "illustrator": "82",
-    "voice_actor": "37"
+    "strat": "157",
+    "illustrator": "84",
+    "voice_actor": "38"
   }, {
     "code": "e724cc0eeb3a822139a8291400b839c2",
     "pocket_code": "",
@@ -4690,7 +4782,7 @@
     "ver_type": "1",
     "state": "2",
     "rarity": "C",
-    "personal": "178",
+    "personal": "180",
     "cost": "20",
     "unit_type": "2",
     "buryoku": "7",
@@ -4702,9 +4794,55 @@
     "gen_main0": "2",
     "gen_main1": "10",
     "gen_main2": "5",
-    "strat": "154",
+    "strat": "158",
     "illustrator": "9",
     "voice_actor": "1"
+  }, {
+    "code": "00ad965ead084875895379f0b27ca9d4",
+    "pocket_code": "",
+    "major_version": "2",
+    "add_version": "-1",
+    "ver_type": "2",
+    "state": "2",
+    "rarity": "R",
+    "personal": "136",
+    "cost": "20",
+    "unit_type": "2",
+    "buryoku": "7",
+    "chiryoku": "9",
+    "seiatsu": "1",
+    "skill0": "1",
+    "skill1": "",
+    "skill2": "",
+    "gen_main0": "3",
+    "gen_main1": "",
+    "gen_main2": "",
+    "strat": "159",
+    "illustrator": "85",
+    "voice_actor": "44"
+  }, {
+    "code": "3e024c97a4804d75a2c4fb186ecfe7b8",
+    "pocket_code": "",
+    "major_version": "2",
+    "add_version": "-1",
+    "ver_type": "2",
+    "state": "2",
+    "rarity": "R",
+    "personal": "159",
+    "cost": "15",
+    "unit_type": "1",
+    "buryoku": "6",
+    "chiryoku": "2",
+    "seiatsu": "1",
+    "skill0": "3",
+    "skill1": "6",
+    "skill2": "",
+    "gen_main0": "6",
+    "gen_main1": "",
+    "gen_main2": "",
+    "strat": "160",
+    "illustrator": "86",
+    "voice_actor": "45"
   }, {
     "code": "fe898725319fd18bedaa0cfc102efc14",
     "pocket_code": "",
@@ -4713,7 +4851,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "SR",
-    "personal": "179",
+    "personal": "181",
     "cost": "20",
     "unit_type": "1",
     "buryoku": "7",
@@ -4725,7 +4863,7 @@
     "gen_main0": "3",
     "gen_main1": "16",
     "gen_main2": "8",
-    "strat": "155",
+    "strat": "161",
     "illustrator": "17",
     "voice_actor": "7"
   }, {
@@ -4736,7 +4874,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "C",
-    "personal": "180",
+    "personal": "182",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "1",
@@ -4748,7 +4886,7 @@
     "gen_main0": "1",
     "gen_main1": "10",
     "gen_main2": "12",
-    "strat": "156",
+    "strat": "162",
     "illustrator": "31",
     "voice_actor": "28"
   }, {
@@ -4759,7 +4897,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "R",
-    "personal": "181",
+    "personal": "183",
     "cost": "15",
     "unit_type": "2",
     "buryoku": "4",
@@ -4771,7 +4909,7 @@
     "gen_main0": "3",
     "gen_main1": "2",
     "gen_main2": "10",
-    "strat": "157",
+    "strat": "163",
     "illustrator": "3",
     "voice_actor": "22"
   }, {
@@ -4782,7 +4920,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "SR",
-    "personal": "182",
+    "personal": "184",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "2",
@@ -4794,9 +4932,9 @@
     "gen_main0": "4",
     "gen_main1": "1",
     "gen_main2": "12",
-    "strat": "158",
-    "illustrator": "83",
-    "voice_actor": "42"
+    "strat": "164",
+    "illustrator": "87",
+    "voice_actor": "43"
   }, {
     "code": "36d0f80dd8de5e4aaa1195245052d635",
     "pocket_code": "",
@@ -4805,7 +4943,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "C",
-    "personal": "183",
+    "personal": "185",
     "cost": "10",
     "unit_type": "3",
     "buryoku": "3",
@@ -4817,7 +4955,7 @@
     "gen_main0": "3",
     "gen_main1": "15",
     "gen_main2": "5",
-    "strat": "159",
+    "strat": "165",
     "illustrator": "10",
     "voice_actor": "1"
   }, {
@@ -4828,7 +4966,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "R",
-    "personal": "184",
+    "personal": "186",
     "cost": "20",
     "unit_type": "2",
     "buryoku": "8",
@@ -4840,8 +4978,8 @@
     "gen_main0": "2",
     "gen_main1": "14",
     "gen_main2": "18",
-    "strat": "160",
-    "illustrator": "84",
+    "strat": "166",
+    "illustrator": "88",
     "voice_actor": "5"
   }, {
     "code": "da739854d9874d6286721c0e6a63decc",
@@ -4851,7 +4989,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "SR",
-    "personal": "185",
+    "personal": "187",
     "cost": "15",
     "unit_type": "0",
     "buryoku": "4",
@@ -4863,7 +5001,7 @@
     "gen_main0": "3",
     "gen_main1": "7",
     "gen_main2": "8",
-    "strat": "161",
+    "strat": "167",
     "illustrator": "20",
     "voice_actor": "12"
   }, {
@@ -4874,7 +5012,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "C",
-    "personal": "186",
+    "personal": "188",
     "cost": "15",
     "unit_type": "0",
     "buryoku": "5",
@@ -4886,7 +5024,7 @@
     "gen_main0": "9",
     "gen_main1": "0",
     "gen_main2": "7",
-    "strat": "162",
+    "strat": "168",
     "illustrator": "26",
     "voice_actor": "26"
   }, {
@@ -4897,7 +5035,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "SR",
-    "personal": "187",
+    "personal": "189",
     "cost": "20",
     "unit_type": "1",
     "buryoku": "7",
@@ -4909,7 +5047,7 @@
     "gen_main0": "9",
     "gen_main1": "3",
     "gen_main2": "5",
-    "strat": "163",
+    "strat": "169",
     "illustrator": "1",
     "voice_actor": "1"
   }, {
@@ -4920,7 +5058,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "C",
-    "personal": "188",
+    "personal": "190",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "2",
@@ -4932,7 +5070,7 @@
     "gen_main0": "10",
     "gen_main1": "13",
     "gen_main2": "8",
-    "strat": "164",
+    "strat": "170",
     "illustrator": "16",
     "voice_actor": "33"
   }, {
@@ -4943,7 +5081,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "UC",
-    "personal": "189",
+    "personal": "191",
     "cost": "15",
     "unit_type": "0",
     "buryoku": "6",
@@ -4955,8 +5093,8 @@
     "gen_main0": "16",
     "gen_main1": "7",
     "gen_main2": "17",
-    "strat": "165",
-    "illustrator": "84",
+    "strat": "171",
+    "illustrator": "88",
     "voice_actor": "34"
   }, {
     "code": "0e9ac8b1960b8444564e7779907f18b3",
@@ -4966,7 +5104,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "C",
-    "personal": "190",
+    "personal": "192",
     "cost": "10",
     "unit_type": "2",
     "buryoku": "2",
@@ -4978,8 +5116,8 @@
     "gen_main0": "10",
     "gen_main1": "12",
     "gen_main2": "5",
-    "strat": "166",
-    "illustrator": "73",
+    "strat": "172",
+    "illustrator": "75",
     "voice_actor": "30"
   }, {
     "code": "71527f3711154a38cb9ce091fd5efd5f",
@@ -4989,7 +5127,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "UC",
-    "personal": "191",
+    "personal": "193",
     "cost": "10",
     "unit_type": "0",
     "buryoku": "2",
@@ -5001,7 +5139,7 @@
     "gen_main0": "4",
     "gen_main1": "16",
     "gen_main2": "17",
-    "strat": "167",
+    "strat": "173",
     "illustrator": "22",
     "voice_actor": "28"
   }, {
@@ -5012,7 +5150,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "C",
-    "personal": "192",
+    "personal": "194",
     "cost": "10",
     "unit_type": "0",
     "buryoku": "1",
@@ -5024,9 +5162,9 @@
     "gen_main0": "3",
     "gen_main1": "11",
     "gen_main2": "5",
-    "strat": "168",
-    "illustrator": "85",
-    "voice_actor": "36"
+    "strat": "174",
+    "illustrator": "89",
+    "voice_actor": "37"
   }, {
     "code": "b87eaa2313812351654b67107021bf71",
     "pocket_code": "",
@@ -5035,7 +5173,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "SR",
-    "personal": "193",
+    "personal": "195",
     "cost": "25",
     "unit_type": "2",
     "buryoku": "9",
@@ -5047,7 +5185,7 @@
     "gen_main0": "2",
     "gen_main1": "10",
     "gen_main2": "12",
-    "strat": "169",
+    "strat": "175",
     "illustrator": "21",
     "voice_actor": "15"
   }, {
@@ -5058,7 +5196,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "C",
-    "personal": "194",
+    "personal": "196",
     "cost": "10",
     "unit_type": "0",
     "buryoku": "2",
@@ -5070,8 +5208,8 @@
     "gen_main0": "0",
     "gen_main1": "11",
     "gen_main2": "7",
-    "strat": "170",
-    "illustrator": "52",
+    "strat": "176",
+    "illustrator": "54",
     "voice_actor": "6"
   }, {
     "code": "b1dce756116fa82b308c13ee0d570ef0",
@@ -5081,7 +5219,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "C",
-    "personal": "195",
+    "personal": "197",
     "cost": "15",
     "unit_type": "0",
     "buryoku": "3",
@@ -5093,9 +5231,9 @@
     "gen_main0": "11",
     "gen_main1": "7",
     "gen_main2": "8",
-    "strat": "171",
+    "strat": "177",
     "illustrator": "26",
-    "voice_actor": "37"
+    "voice_actor": "38"
   }, {
     "code": "2e04e19c3cb102580032265958f3d91a",
     "pocket_code": "",
@@ -5116,9 +5254,9 @@
     "gen_main0": "9",
     "gen_main1": "2",
     "gen_main2": "12",
-    "strat": "172",
+    "strat": "178",
     "illustrator": "14",
-    "voice_actor": "43"
+    "voice_actor": "45"
   }, {
     "code": "03a56c85db54d91fa110abdf14adf995",
     "pocket_code": "",
@@ -5127,7 +5265,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "UC",
-    "personal": "196",
+    "personal": "198",
     "cost": "10",
     "unit_type": "0",
     "buryoku": "1",
@@ -5139,8 +5277,8 @@
     "gen_main0": "11",
     "gen_main1": "5",
     "gen_main2": "7",
-    "strat": "173",
-    "illustrator": "75",
+    "strat": "179",
+    "illustrator": "77",
     "voice_actor": "12"
   }, {
     "code": "9a37d1a0f286817ed99f837a3a8fd1ca",
@@ -5150,7 +5288,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "R",
-    "personal": "123",
+    "personal": "125",
     "cost": "15",
     "unit_type": "2",
     "buryoku": "6",
@@ -5162,9 +5300,9 @@
     "gen_main0": "3",
     "gen_main1": "12",
     "gen_main2": "18",
-    "strat": "174",
-    "illustrator": "54",
-    "voice_actor": "37"
+    "strat": "180",
+    "illustrator": "56",
+    "voice_actor": "38"
   }, {
     "code": "c7e7a4f7ac44cb516e3312e7955ceb02",
     "pocket_code": "",
@@ -5173,7 +5311,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "R",
-    "personal": "197",
+    "personal": "199",
     "cost": "20",
     "unit_type": "1",
     "buryoku": "7",
@@ -5185,7 +5323,7 @@
     "gen_main0": "1",
     "gen_main1": "14",
     "gen_main2": "8",
-    "strat": "175",
+    "strat": "181",
     "illustrator": "17",
     "voice_actor": "44"
   }, {
@@ -5196,7 +5334,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "R",
-    "personal": "198",
+    "personal": "200",
     "cost": "20",
     "unit_type": "0",
     "buryoku": "8",
@@ -5208,8 +5346,8 @@
     "gen_main0": "12",
     "gen_main1": "5",
     "gen_main2": "8",
-    "strat": "176",
-    "illustrator": "54",
+    "strat": "182",
+    "illustrator": "56",
     "voice_actor": "7"
   }, {
     "code": "8815b1fc2179a16a60b3836f3b448416",
@@ -5219,7 +5357,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "SR",
-    "personal": "199",
+    "personal": "201",
     "cost": "15",
     "unit_type": "3",
     "buryoku": "3",
@@ -5231,9 +5369,9 @@
     "gen_main0": "3",
     "gen_main1": "4",
     "gen_main2": "12",
-    "strat": "177",
-    "illustrator": "86",
-    "voice_actor": "42"
+    "strat": "183",
+    "illustrator": "90",
+    "voice_actor": "43"
   }, {
     "code": "4b488a60cd306ad93ef18d55876e13a0",
     "pocket_code": "",
@@ -5242,7 +5380,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "UC",
-    "personal": "200",
+    "personal": "202",
     "cost": "15",
     "unit_type": "1",
     "buryoku": "5",
@@ -5254,8 +5392,8 @@
     "gen_main0": "3",
     "gen_main1": "4",
     "gen_main2": "6",
-    "strat": "178",
-    "illustrator": "75",
+    "strat": "184",
+    "illustrator": "77",
     "voice_actor": "17"
   }, {
     "code": "e81c98acfbdeecab197ba8a10d36e0ce",
@@ -5265,7 +5403,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "R",
-    "personal": "201",
+    "personal": "203",
     "cost": "15",
     "unit_type": "1",
     "buryoku": "4",
@@ -5277,9 +5415,9 @@
     "gen_main0": "3",
     "gen_main1": "1",
     "gen_main2": "12",
-    "strat": "179",
+    "strat": "185",
     "illustrator": "19",
-    "voice_actor": "37"
+    "voice_actor": "38"
   }, {
     "code": "ab71741ac032853e7fa1757a676d7aef",
     "pocket_code": "",
@@ -5288,7 +5426,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "R",
-    "personal": "202",
+    "personal": "204",
     "cost": "15",
     "unit_type": "3",
     "buryoku": "4",
@@ -5300,7 +5438,7 @@
     "gen_main0": "10",
     "gen_main1": "16",
     "gen_main2": "5",
-    "strat": "180",
+    "strat": "186",
     "illustrator": "8",
     "voice_actor": "31"
   }, {
@@ -5311,7 +5449,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "SR",
-    "personal": "203",
+    "personal": "205",
     "cost": "10",
     "unit_type": "0",
     "buryoku": "1",
@@ -5323,7 +5461,7 @@
     "gen_main0": "4",
     "gen_main1": "0",
     "gen_main2": "7",
-    "strat": "181",
+    "strat": "187",
     "illustrator": "15",
     "voice_actor": "13"
   }, {
@@ -5334,7 +5472,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "C",
-    "personal": "204",
+    "personal": "206",
     "cost": "15",
     "unit_type": "1",
     "buryoku": "5",
@@ -5346,7 +5484,7 @@
     "gen_main0": "3",
     "gen_main1": "5",
     "gen_main2": "17",
-    "strat": "182",
+    "strat": "188",
     "illustrator": "23",
     "voice_actor": "11"
   }, {
@@ -5357,7 +5495,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "C",
-    "personal": "205",
+    "personal": "207",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "3",
@@ -5369,7 +5507,7 @@
     "gen_main0": "1",
     "gen_main1": "10",
     "gen_main2": "5",
-    "strat": "183",
+    "strat": "189",
     "illustrator": "9",
     "voice_actor": "34"
   }, {
@@ -5380,7 +5518,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "R",
-    "personal": "206",
+    "personal": "208",
     "cost": "20",
     "unit_type": "1",
     "buryoku": "8",
@@ -5392,8 +5530,8 @@
     "gen_main0": "1",
     "gen_main1": "14",
     "gen_main2": "8",
-    "strat": "184",
-    "illustrator": "84",
+    "strat": "190",
+    "illustrator": "88",
     "voice_actor": "11"
   }, {
     "code": "92b42bc67fef8fff9b73166d9bc68a2d",
@@ -5403,7 +5541,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "UC",
-    "personal": "207",
+    "personal": "209",
     "cost": "15",
     "unit_type": "2",
     "buryoku": "6",
@@ -5415,9 +5553,9 @@
     "gen_main0": "2",
     "gen_main1": "16",
     "gen_main2": "12",
-    "strat": "178",
+    "strat": "184",
     "illustrator": "17",
-    "voice_actor": "45"
+    "voice_actor": "35"
   }, {
     "code": "2c66f2d011d58dc7c9fbb60fdb7a5096",
     "pocket_code": "",
@@ -5426,7 +5564,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "UC",
-    "personal": "208",
+    "personal": "210",
     "cost": "20",
     "unit_type": "0",
     "buryoku": "7",
@@ -5438,7 +5576,7 @@
     "gen_main0": "3",
     "gen_main1": "0",
     "gen_main2": "5",
-    "strat": "185",
+    "strat": "191",
     "illustrator": "27",
     "voice_actor": "20"
   }, {
@@ -5449,7 +5587,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "R",
-    "personal": "63",
+    "personal": "64",
     "cost": "15",
     "unit_type": "1",
     "buryoku": "5",
@@ -5461,7 +5599,7 @@
     "gen_main0": "3",
     "gen_main1": "10",
     "gen_main2": "12",
-    "strat": "186",
+    "strat": "192",
     "illustrator": "8",
     "voice_actor": "29"
   }, {
@@ -5472,7 +5610,7 @@
     "ver_type": "1",
     "state": "3",
     "rarity": "R",
-    "personal": "209",
+    "personal": "211",
     "cost": "20",
     "unit_type": "2",
     "buryoku": "6",
@@ -5484,18 +5622,18 @@
     "gen_main0": "3",
     "gen_main1": "2",
     "gen_main2": "13",
-    "strat": "187",
+    "strat": "193",
     "illustrator": "12",
-    "voice_actor": "41"
+    "voice_actor": "42"
   }, {
     "code": "760fdfc86434953666897ad46c332f7a",
     "pocket_code": "",
     "major_version": "2",
-    "add_version": "1",
+    "add_version": "-1",
     "ver_type": "2",
     "state": "3",
     "rarity": "C",
-    "personal": "210",
+    "personal": "212",
     "cost": "10",
     "unit_type": "0",
     "buryoku": "3",
@@ -5507,18 +5645,18 @@
     "gen_main0": "0",
     "gen_main1": "",
     "gen_main2": "",
-    "strat": "188",
-    "illustrator": "52",
+    "strat": "194",
+    "illustrator": "54",
     "voice_actor": "30"
   }, {
     "code": "8a1af285cacd9b39ad1b20fa9f7df625",
     "pocket_code": "",
     "major_version": "2",
-    "add_version": "1",
+    "add_version": "-1",
     "ver_type": "2",
     "state": "3",
     "rarity": "C",
-    "personal": "211",
+    "personal": "213",
     "cost": "10",
     "unit_type": "2",
     "buryoku": "3",
@@ -5530,18 +5668,18 @@
     "gen_main0": "2",
     "gen_main1": "",
     "gen_main2": "",
-    "strat": "189",
-    "illustrator": "84",
+    "strat": "195",
+    "illustrator": "88",
     "voice_actor": "20"
   }, {
     "code": "9c751b3417a74195f2a7ed734564aadf",
     "pocket_code": "",
     "major_version": "2",
-    "add_version": "1",
+    "add_version": "-1",
     "ver_type": "2",
     "state": "3",
     "rarity": "C",
-    "personal": "212",
+    "personal": "214",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "3",
@@ -5553,18 +5691,41 @@
     "gen_main0": "1",
     "gen_main1": "",
     "gen_main2": "",
-    "strat": "190",
+    "strat": "196",
     "illustrator": "23",
     "voice_actor": "30"
+  }, {
+    "code": "4672704845176d1fb3fa99faff02464c",
+    "pocket_code": "",
+    "major_version": "2",
+    "add_version": "-1",
+    "ver_type": "2",
+    "state": "3",
+    "rarity": "R",
+    "personal": "215",
+    "cost": "10",
+    "unit_type": "0",
+    "buryoku": "2",
+    "chiryoku": "3",
+    "seiatsu": "1",
+    "skill0": "5",
+    "skill1": "1",
+    "skill2": "7",
+    "gen_main0": "16",
+    "gen_main1": "",
+    "gen_main2": "",
+    "strat": "197",
+    "illustrator": "87",
+    "voice_actor": "32"
   }, {
     "code": "57921a43b73147c1db029650c614595f",
     "pocket_code": "",
     "major_version": "2",
-    "add_version": "1",
+    "add_version": "-1",
     "ver_type": "2",
     "state": "3",
     "rarity": "R",
-    "personal": "213",
+    "personal": "216",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "2",
@@ -5576,7 +5737,7 @@
     "gen_main0": "16",
     "gen_main1": "",
     "gen_main2": "",
-    "strat": "191",
+    "strat": "198",
     "illustrator": "25",
     "voice_actor": "33"
   }, {
@@ -5587,7 +5748,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "R",
-    "personal": "214",
+    "personal": "217",
     "cost": "10",
     "unit_type": "3",
     "buryoku": "1",
@@ -5599,7 +5760,7 @@
     "gen_main0": "3",
     "gen_main1": "10",
     "gen_main2": "12",
-    "strat": "192",
+    "strat": "199",
     "illustrator": "26",
     "voice_actor": "10"
   }, {
@@ -5610,7 +5771,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "UC",
-    "personal": "215",
+    "personal": "218",
     "cost": "10",
     "unit_type": "4",
     "buryoku": "2",
@@ -5622,7 +5783,7 @@
     "gen_main0": "3",
     "gen_main1": "12",
     "gen_main2": "17",
-    "strat": "193",
+    "strat": "200",
     "illustrator": "9",
     "voice_actor": "17"
   }, {
@@ -5633,7 +5794,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "C",
-    "personal": "216",
+    "personal": "219",
     "cost": "20",
     "unit_type": "4",
     "buryoku": "8",
@@ -5646,7 +5807,7 @@
     "gen_main1": "14",
     "gen_main2": "12",
     "strat": "0",
-    "illustrator": "87",
+    "illustrator": "91",
     "voice_actor": "14"
   }, {
     "code": "4f8f7afbab86bb1312981e627913357f",
@@ -5656,7 +5817,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "C",
-    "personal": "217",
+    "personal": "220",
     "cost": "15",
     "unit_type": "3",
     "buryoku": "6",
@@ -5668,7 +5829,7 @@
     "gen_main0": "9",
     "gen_main1": "15",
     "gen_main2": "10",
-    "strat": "194",
+    "strat": "201",
     "illustrator": "26",
     "voice_actor": "26"
   }, {
@@ -5679,7 +5840,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "R",
-    "personal": "218",
+    "personal": "221",
     "cost": "25",
     "unit_type": "1",
     "buryoku": "9",
@@ -5691,8 +5852,8 @@
     "gen_main0": "9",
     "gen_main1": "12",
     "gen_main2": "6",
-    "strat": "195",
-    "illustrator": "81",
+    "strat": "202",
+    "illustrator": "83",
     "voice_actor": "7"
   }, {
     "code": "85b7a63b074725c193ba4c251608c478",
@@ -5702,7 +5863,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "R",
-    "personal": "219",
+    "personal": "222",
     "cost": "20",
     "unit_type": "2",
     "buryoku": "7",
@@ -5714,7 +5875,7 @@
     "gen_main0": "3",
     "gen_main1": "2",
     "gen_main2": "12",
-    "strat": "68",
+    "strat": "70",
     "illustrator": "28",
     "voice_actor": "7"
   }, {
@@ -5725,7 +5886,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "UC",
-    "personal": "220",
+    "personal": "223",
     "cost": "10",
     "unit_type": "0",
     "buryoku": "3",
@@ -5738,7 +5899,7 @@
     "gen_main1": "3",
     "gen_main2": "4",
     "strat": "42",
-    "illustrator": "88",
+    "illustrator": "92",
     "voice_actor": "12"
   }, {
     "code": "5edabf4186e7d951c3967dfa26f49734",
@@ -5748,7 +5909,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "C",
-    "personal": "221",
+    "personal": "224",
     "cost": "10",
     "unit_type": "3",
     "buryoku": "3",
@@ -5760,7 +5921,7 @@
     "gen_main0": "3",
     "gen_main1": "12",
     "gen_main2": "5",
-    "strat": "196",
+    "strat": "203",
     "illustrator": "48",
     "voice_actor": "11"
   }, {
@@ -5771,7 +5932,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "UC",
-    "personal": "222",
+    "personal": "225",
     "cost": "20",
     "unit_type": "1",
     "buryoku": "7",
@@ -5783,8 +5944,8 @@
     "gen_main0": "3",
     "gen_main1": "5",
     "gen_main2": "8",
-    "strat": "197",
-    "illustrator": "89",
+    "strat": "204",
+    "illustrator": "93",
     "voice_actor": "20"
   }, {
     "code": "1a1c93eae5ce103d3ea039327d0b9aa0",
@@ -5794,7 +5955,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "R",
-    "personal": "223",
+    "personal": "226",
     "cost": "10",
     "unit_type": "0",
     "buryoku": "2",
@@ -5806,8 +5967,8 @@
     "gen_main0": "3",
     "gen_main1": "16",
     "gen_main2": "12",
-    "strat": "198",
-    "illustrator": "90",
+    "strat": "205",
+    "illustrator": "94",
     "voice_actor": "24"
   }, {
     "code": "be717c53f6c4a90d54b5136e2d080eb7",
@@ -5817,7 +5978,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "C",
-    "personal": "224",
+    "personal": "227",
     "cost": "15",
     "unit_type": "1",
     "buryoku": "5",
@@ -5829,8 +5990,8 @@
     "gen_main0": "1",
     "gen_main1": "6",
     "gen_main2": "17",
-    "strat": "194",
-    "illustrator": "91",
+    "strat": "201",
+    "illustrator": "95",
     "voice_actor": "34"
   }, {
     "code": "64e4bc9cbdcd15e778b0d50ddd8fceea",
@@ -5840,7 +6001,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "R",
-    "personal": "225",
+    "personal": "228",
     "cost": "25",
     "unit_type": "2",
     "buryoku": "8",
@@ -5852,8 +6013,8 @@
     "gen_main0": "2",
     "gen_main1": "16",
     "gen_main2": "12",
-    "strat": "199",
-    "illustrator": "50",
+    "strat": "206",
+    "illustrator": "52",
     "voice_actor": "25"
   }, {
     "code": "0b2a5fbdc4273be09919eb30dcc7f86d",
@@ -5863,7 +6024,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "R",
-    "personal": "226",
+    "personal": "229",
     "cost": "15",
     "unit_type": "3",
     "buryoku": "4",
@@ -5875,8 +6036,8 @@
     "gen_main0": "3",
     "gen_main1": "10",
     "gen_main2": "12",
-    "strat": "200",
-    "illustrator": "74",
+    "strat": "207",
+    "illustrator": "76",
     "voice_actor": "23"
   }, {
     "code": "dbfb1f4ab9567bff1e2e614e607a98db",
@@ -5886,7 +6047,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "UC",
-    "personal": "227",
+    "personal": "230",
     "cost": "15",
     "unit_type": "2",
     "buryoku": "5",
@@ -5898,7 +6059,7 @@
     "gen_main0": "4",
     "gen_main1": "2",
     "gen_main2": "12",
-    "strat": "201",
+    "strat": "208",
     "illustrator": "31",
     "voice_actor": "25"
   }, {
@@ -5909,7 +6070,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "SR",
-    "personal": "228",
+    "personal": "231",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "2",
@@ -5921,7 +6082,7 @@
     "gen_main0": "10",
     "gen_main1": "16",
     "gen_main2": "12",
-    "strat": "202",
+    "strat": "209",
     "illustrator": "3",
     "voice_actor": "6"
   }, {
@@ -5932,7 +6093,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "UC",
-    "personal": "229",
+    "personal": "232",
     "cost": "15",
     "unit_type": "2",
     "buryoku": "4",
@@ -5955,7 +6116,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "UC",
-    "personal": "230",
+    "personal": "233",
     "cost": "15",
     "unit_type": "1",
     "buryoku": "5",
@@ -5967,7 +6128,7 @@
     "gen_main0": "3",
     "gen_main1": "1",
     "gen_main2": "6",
-    "strat": "201",
+    "strat": "208",
     "illustrator": "17",
     "voice_actor": "14"
   }, {
@@ -5978,7 +6139,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "SR",
-    "personal": "231",
+    "personal": "234",
     "cost": "10",
     "unit_type": "3",
     "buryoku": "2",
@@ -5990,7 +6151,7 @@
     "gen_main0": "3",
     "gen_main1": "16",
     "gen_main2": "8",
-    "strat": "203",
+    "strat": "210",
     "illustrator": "32",
     "voice_actor": "21"
   }, {
@@ -6001,7 +6162,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "C",
-    "personal": "232",
+    "personal": "235",
     "cost": "15",
     "unit_type": "4",
     "buryoku": "6",
@@ -6013,7 +6174,7 @@
     "gen_main0": "9",
     "gen_main1": "3",
     "gen_main2": "14",
-    "strat": "204",
+    "strat": "211",
     "illustrator": "42",
     "voice_actor": "26"
   }, {
@@ -6024,7 +6185,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "C",
-    "personal": "233",
+    "personal": "236",
     "cost": "15",
     "unit_type": "1",
     "buryoku": "5",
@@ -6036,8 +6197,8 @@
     "gen_main0": "1",
     "gen_main1": "5",
     "gen_main2": "7",
-    "strat": "205",
-    "illustrator": "84",
+    "strat": "212",
+    "illustrator": "88",
     "voice_actor": "34"
   }, {
     "code": "f63b4002e4a66726e37095cc97324cb3",
@@ -6047,7 +6208,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "SR",
-    "personal": "199",
+    "personal": "201",
     "cost": "15",
     "unit_type": "0",
     "buryoku": "2",
@@ -6059,8 +6220,8 @@
     "gen_main0": "3",
     "gen_main1": "4",
     "gen_main2": "16",
-    "strat": "206",
-    "illustrator": "83",
+    "strat": "213",
+    "illustrator": "87",
     "voice_actor": "33"
   }, {
     "code": "655a96ebcf8a958210ac0462c85542ab",
@@ -6070,7 +6231,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "UC",
-    "personal": "234",
+    "personal": "237",
     "cost": "10",
     "unit_type": "0",
     "buryoku": "3",
@@ -6093,7 +6254,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "C",
-    "personal": "235",
+    "personal": "238",
     "cost": "10",
     "unit_type": "2",
     "buryoku": "2",
@@ -6106,7 +6267,7 @@
     "gen_main1": "13",
     "gen_main2": "5",
     "strat": "0",
-    "illustrator": "84",
+    "illustrator": "88",
     "voice_actor": "11"
   }, {
     "code": "ddcde375b5c90102f0241e5bf991f46c",
@@ -6116,7 +6277,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "UC",
-    "personal": "236",
+    "personal": "239",
     "cost": "10",
     "unit_type": "3",
     "buryoku": "5",
@@ -6128,7 +6289,7 @@
     "gen_main0": "15",
     "gen_main1": "18",
     "gen_main2": "8",
-    "strat": "207",
+    "strat": "214",
     "illustrator": "23",
     "voice_actor": "7"
   }, {
@@ -6139,7 +6300,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "UC",
-    "personal": "237",
+    "personal": "240",
     "cost": "10",
     "unit_type": "0",
     "buryoku": "2",
@@ -6151,8 +6312,8 @@
     "gen_main0": "3",
     "gen_main1": "0",
     "gen_main2": "5",
-    "strat": "208",
-    "illustrator": "70",
+    "strat": "215",
+    "illustrator": "72",
     "voice_actor": "0"
   }, {
     "code": "befbd046fbd8864facd8525cf1a4556a",
@@ -6162,7 +6323,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "UC",
-    "personal": "238",
+    "personal": "241",
     "cost": "10",
     "unit_type": "0",
     "buryoku": "1",
@@ -6174,7 +6335,7 @@
     "gen_main0": "4",
     "gen_main1": "12",
     "gen_main2": "7",
-    "strat": "209",
+    "strat": "216",
     "illustrator": "45",
     "voice_actor": "17"
   }, {
@@ -6185,7 +6346,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "C",
-    "personal": "239",
+    "personal": "242",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "3",
@@ -6197,8 +6358,8 @@
     "gen_main0": "3",
     "gen_main1": "1",
     "gen_main2": "6",
-    "strat": "207",
-    "illustrator": "56",
+    "strat": "214",
+    "illustrator": "58",
     "voice_actor": "20"
   }, {
     "code": "6180126771037b924573bb336b2606d5",
@@ -6208,7 +6369,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "SR",
-    "personal": "240",
+    "personal": "243",
     "cost": "25",
     "unit_type": "2",
     "buryoku": "8",
@@ -6220,7 +6381,7 @@
     "gen_main0": "9",
     "gen_main1": "3",
     "gen_main2": "12",
-    "strat": "210",
+    "strat": "217",
     "illustrator": "21",
     "voice_actor": "4"
   }, {
@@ -6231,7 +6392,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "R",
-    "personal": "241",
+    "personal": "244",
     "cost": "20",
     "unit_type": "0",
     "buryoku": "8",
@@ -6243,8 +6404,8 @@
     "gen_main0": "0",
     "gen_main1": "7",
     "gen_main2": "17",
-    "strat": "211",
-    "illustrator": "76",
+    "strat": "218",
+    "illustrator": "78",
     "voice_actor": "2"
   }, {
     "code": "0636557a7146f52580d042f93186bb4b",
@@ -6254,7 +6415,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "R",
-    "personal": "242",
+    "personal": "245",
     "cost": "15",
     "unit_type": "2",
     "buryoku": "5",
@@ -6277,7 +6438,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "C",
-    "personal": "243",
+    "personal": "246",
     "cost": "10",
     "unit_type": "0",
     "buryoku": "3",
@@ -6289,7 +6450,7 @@
     "gen_main0": "3",
     "gen_main1": "10",
     "gen_main2": "7",
-    "strat": "207",
+    "strat": "214",
     "illustrator": "42",
     "voice_actor": "34"
   }, {
@@ -6300,7 +6461,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "C",
-    "personal": "244",
+    "personal": "247",
     "cost": "10",
     "unit_type": "3",
     "buryoku": "4",
@@ -6323,7 +6484,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "R",
-    "personal": "245",
+    "personal": "248",
     "cost": "20",
     "unit_type": "2",
     "buryoku": "7",
@@ -6335,7 +6496,7 @@
     "gen_main0": "2",
     "gen_main1": "10",
     "gen_main2": "12",
-    "strat": "212",
+    "strat": "219",
     "illustrator": "28",
     "voice_actor": "2"
   }, {
@@ -6346,7 +6507,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "UC",
-    "personal": "246",
+    "personal": "249",
     "cost": "10",
     "unit_type": "2",
     "buryoku": "1",
@@ -6358,9 +6519,9 @@
     "gen_main0": "4",
     "gen_main1": "2",
     "gen_main2": "16",
-    "strat": "213",
+    "strat": "220",
     "illustrator": "33",
-    "voice_actor": "39"
+    "voice_actor": "40"
   }, {
     "code": "a865e1188f68a9d7fd1f746ca9dcb0e6",
     "pocket_code": "50697c0e1425353963b330e05110945a",
@@ -6369,7 +6530,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "C",
-    "personal": "247",
+    "personal": "250",
     "cost": "10",
     "unit_type": "4",
     "buryoku": "2",
@@ -6381,7 +6542,7 @@
     "gen_main0": "3",
     "gen_main1": "4",
     "gen_main2": "10",
-    "strat": "214",
+    "strat": "221",
     "illustrator": "45",
     "voice_actor": "17"
   }, {
@@ -6392,7 +6553,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "C",
-    "personal": "248",
+    "personal": "251",
     "cost": "15",
     "unit_type": "0",
     "buryoku": "6",
@@ -6404,7 +6565,7 @@
     "gen_main0": "9",
     "gen_main1": "0",
     "gen_main2": "8",
-    "strat": "194",
+    "strat": "201",
     "illustrator": "26",
     "voice_actor": "20"
   }, {
@@ -6415,7 +6576,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "R",
-    "personal": "249",
+    "personal": "252",
     "cost": "15",
     "unit_type": "1",
     "buryoku": "4",
@@ -6427,7 +6588,7 @@
     "gen_main0": "3",
     "gen_main1": "1",
     "gen_main2": "7",
-    "strat": "215",
+    "strat": "222",
     "illustrator": "1",
     "voice_actor": "23"
   }, {
@@ -6438,7 +6599,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "C",
-    "personal": "250",
+    "personal": "253",
     "cost": "15",
     "unit_type": "4",
     "buryoku": "5",
@@ -6450,7 +6611,7 @@
     "gen_main0": "10",
     "gen_main1": "11",
     "gen_main2": "17",
-    "strat": "216",
+    "strat": "223",
     "illustrator": "13",
     "voice_actor": "20"
   }, {
@@ -6461,7 +6622,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "SR",
-    "personal": "251",
+    "personal": "254",
     "cost": "30",
     "unit_type": "2",
     "buryoku": "10",
@@ -6473,8 +6634,8 @@
     "gen_main0": "9",
     "gen_main1": "3",
     "gen_main2": "2",
-    "strat": "217",
-    "illustrator": "50",
+    "strat": "224",
+    "illustrator": "52",
     "voice_actor": "0"
   }, {
     "code": "a1f5a97fd9682a700d96c6683c941c6e",
@@ -6484,7 +6645,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "C",
-    "personal": "252",
+    "personal": "255",
     "cost": "15",
     "unit_type": "2",
     "buryoku": "5",
@@ -6497,7 +6658,7 @@
     "gen_main1": "10",
     "gen_main2": "5",
     "strat": "19",
-    "illustrator": "92",
+    "illustrator": "96",
     "voice_actor": "2"
   }, {
     "code": "f05e2783a7948b24a4a989bd99f1fe1a",
@@ -6507,7 +6668,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "SR",
-    "personal": "253",
+    "personal": "256",
     "cost": "20",
     "unit_type": "1",
     "buryoku": "7",
@@ -6519,7 +6680,7 @@
     "gen_main0": "9",
     "gen_main1": "3",
     "gen_main2": "6",
-    "strat": "218",
+    "strat": "225",
     "illustrator": "30",
     "voice_actor": "33"
   }, {
@@ -6530,7 +6691,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "UC",
-    "personal": "254",
+    "personal": "257",
     "cost": "20",
     "unit_type": "2",
     "buryoku": "8",
@@ -6542,8 +6703,8 @@
     "gen_main0": "2",
     "gen_main1": "13",
     "gen_main2": "14",
-    "strat": "219",
-    "illustrator": "59",
+    "strat": "226",
+    "illustrator": "60",
     "voice_actor": "1"
   }, {
     "code": "a8f6b195f5ec0ea6ed4ed7da8787186d",
@@ -6553,7 +6714,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "UC",
-    "personal": "255",
+    "personal": "258",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "1",
@@ -6565,9 +6726,9 @@
     "gen_main0": "4",
     "gen_main1": "11",
     "gen_main2": "16",
-    "strat": "220",
-    "illustrator": "93",
-    "voice_actor": "39"
+    "strat": "227",
+    "illustrator": "97",
+    "voice_actor": "40"
   }, {
     "code": "cf4ef2c931e1119b8aaec7ec2253df48",
     "pocket_code": "f3dc8063cdbc78dd7e788f4cb0ac5f7f",
@@ -6576,7 +6737,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "R",
-    "personal": "62",
+    "personal": "63",
     "cost": "25",
     "unit_type": "2",
     "buryoku": "9",
@@ -6588,7 +6749,7 @@
     "gen_main0": "2",
     "gen_main1": "16",
     "gen_main2": "12",
-    "strat": "221",
+    "strat": "228",
     "illustrator": "4",
     "voice_actor": "4"
   }, {
@@ -6599,7 +6760,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "R",
-    "personal": "256",
+    "personal": "259",
     "cost": "15",
     "unit_type": "3",
     "buryoku": "7",
@@ -6622,7 +6783,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "C",
-    "personal": "257",
+    "personal": "260",
     "cost": "10",
     "unit_type": "2",
     "buryoku": "3",
@@ -6645,7 +6806,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "C",
-    "personal": "258",
+    "personal": "261",
     "cost": "10",
     "unit_type": "2",
     "buryoku": "3",
@@ -6668,7 +6829,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "UC",
-    "personal": "259",
+    "personal": "262",
     "cost": "10",
     "unit_type": "2",
     "buryoku": "4",
@@ -6680,8 +6841,8 @@
     "gen_main0": "9",
     "gen_main1": "2",
     "gen_main2": "5",
-    "strat": "194",
-    "illustrator": "94",
+    "strat": "201",
+    "illustrator": "98",
     "voice_actor": "34"
   }, {
     "code": "ea538d2a2c2373bc55b02dfb5e4f3e39",
@@ -6691,7 +6852,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "SR",
-    "personal": "240",
+    "personal": "243",
     "cost": "25",
     "unit_type": "1",
     "buryoku": "8",
@@ -6703,7 +6864,7 @@
     "gen_main0": "3",
     "gen_main1": "1",
     "gen_main2": "8",
-    "strat": "222",
+    "strat": "229",
     "illustrator": "34",
     "voice_actor": "7"
   }, {
@@ -6714,7 +6875,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "R",
-    "personal": "260",
+    "personal": "263",
     "cost": "15",
     "unit_type": "0",
     "buryoku": "5",
@@ -6726,8 +6887,8 @@
     "gen_main0": "3",
     "gen_main1": "16",
     "gen_main2": "8",
-    "strat": "223",
-    "illustrator": "57",
+    "strat": "230",
+    "illustrator": "59",
     "voice_actor": "0"
   }, {
     "code": "81787a205d55df11035076cd49ac0875",
@@ -6737,7 +6898,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "SR",
-    "personal": "228",
+    "personal": "231",
     "cost": "15",
     "unit_type": "2",
     "buryoku": "4",
@@ -6749,8 +6910,8 @@
     "gen_main0": "3",
     "gen_main1": "10",
     "gen_main2": "17",
-    "strat": "224",
-    "illustrator": "95",
+    "strat": "231",
+    "illustrator": "99",
     "voice_actor": "27"
   }, {
     "code": "9c9f1d32d9bb52b4c010a97c06956a62",
@@ -6760,7 +6921,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "C",
-    "personal": "261",
+    "personal": "264",
     "cost": "10",
     "unit_type": "1",
     "buryoku": "2",
@@ -6783,7 +6944,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "UC",
-    "personal": "87",
+    "personal": "88",
     "cost": "15",
     "unit_type": "2",
     "buryoku": "6",
@@ -6795,41 +6956,18 @@
     "gen_main0": "2",
     "gen_main1": "10",
     "gen_main2": "17",
-    "strat": "225",
+    "strat": "232",
     "illustrator": "18",
     "voice_actor": "14"
-  }, {
-    "code": "6a2ad1b9559115714296cdff7dadbfe2",
-    "pocket_code": "",
-    "major_version": "1",
-    "add_version": "8",
-    "ver_type": "2",
-    "state": "4",
-    "rarity": "R",
-    "personal": "262",
-    "cost": "10",
-    "unit_type": "2",
-    "buryoku": "2",
-    "chiryoku": "4",
-    "seiatsu": "1",
-    "skill0": "1",
-    "skill1": "",
-    "skill2": "",
-    "gen_main0": "16",
-    "gen_main1": "",
-    "gen_main2": "",
-    "strat": "226",
-    "illustrator": "30",
-    "voice_actor": "9"
   }, {
     "code": "2e1b380250f0527df87b94b77bcd2761",
     "pocket_code": "",
     "major_version": "1",
-    "add_version": "9",
+    "add_version": "-1",
     "ver_type": "2",
     "state": "4",
     "rarity": "R",
-    "personal": "263",
+    "personal": "265",
     "cost": "20",
     "unit_type": "2",
     "buryoku": "8",
@@ -6841,9 +6979,32 @@
     "gen_main0": "3",
     "gen_main1": "",
     "gen_main2": "",
-    "strat": "227",
+    "strat": "233",
     "illustrator": "4",
     "voice_actor": "5"
+  }, {
+    "code": "6a2ad1b9559115714296cdff7dadbfe2",
+    "pocket_code": "",
+    "major_version": "1",
+    "add_version": "-1",
+    "ver_type": "2",
+    "state": "4",
+    "rarity": "R",
+    "personal": "266",
+    "cost": "10",
+    "unit_type": "2",
+    "buryoku": "2",
+    "chiryoku": "4",
+    "seiatsu": "1",
+    "skill0": "1",
+    "skill1": "",
+    "skill2": "",
+    "gen_main0": "16",
+    "gen_main1": "",
+    "gen_main2": "",
+    "strat": "234",
+    "illustrator": "30",
+    "voice_actor": "9"
   }, {
     "code": "f40a6a3bd98bf9bffa9b7e589ae55f29",
     "pocket_code": "",
@@ -6852,7 +7013,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "C",
-    "personal": "264",
+    "personal": "267",
     "cost": "15",
     "unit_type": "4",
     "buryoku": "6",
@@ -6864,9 +7025,9 @@
     "gen_main0": "9",
     "gen_main1": "16",
     "gen_main2": "7",
-    "strat": "207",
-    "illustrator": "63",
-    "voice_actor": "45"
+    "strat": "214",
+    "illustrator": "64",
+    "voice_actor": "35"
   }, {
     "code": "7fda39542b919ca8ad63dab2380c3ba9",
     "pocket_code": "",
@@ -6887,8 +7048,8 @@
     "gen_main0": "1",
     "gen_main1": "16",
     "gen_main2": "17",
-    "strat": "228",
-    "illustrator": "50",
+    "strat": "235",
+    "illustrator": "52",
     "voice_actor": "29"
   }, {
     "code": "447b28b11643d5a1edc2cd0866b0e5d5",
@@ -6898,7 +7059,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "C",
-    "personal": "265",
+    "personal": "268",
     "cost": "20",
     "unit_type": "1",
     "buryoku": "8",
@@ -6911,7 +7072,7 @@
     "gen_main1": "14",
     "gen_main2": "8",
     "strat": "0",
-    "illustrator": "74",
+    "illustrator": "76",
     "voice_actor": "34"
   }, {
     "code": "9ddd831e936d89d577bde849feab41dc",
@@ -6921,7 +7082,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "UC",
-    "personal": "266",
+    "personal": "269",
     "cost": "10",
     "unit_type": "3",
     "buryoku": "2",
@@ -6933,8 +7094,8 @@
     "gen_main0": "4",
     "gen_main1": "10",
     "gen_main2": "16",
-    "strat": "229",
-    "illustrator": "88",
+    "strat": "236",
+    "illustrator": "92",
     "voice_actor": "25"
   }, {
     "code": "20895e9e51c0f138b5df4da3f9c4d590",
@@ -6944,7 +7105,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "SR",
-    "personal": "267",
+    "personal": "270",
     "cost": "20",
     "unit_type": "5",
     "buryoku": "7",
@@ -6956,7 +7117,7 @@
     "gen_main0": "3",
     "gen_main1": "16",
     "gen_main2": "12",
-    "strat": "230",
+    "strat": "237",
     "illustrator": "12",
     "voice_actor": "32"
   }, {
@@ -6967,7 +7128,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "R",
-    "personal": "268",
+    "personal": "271",
     "cost": "15",
     "unit_type": "5",
     "buryoku": "4",
@@ -6979,7 +7140,7 @@
     "gen_main0": "4",
     "gen_main1": "11",
     "gen_main2": "13",
-    "strat": "231",
+    "strat": "238",
     "illustrator": "3",
     "voice_actor": "15"
   }, {
@@ -6990,7 +7151,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "UC",
-    "personal": "269",
+    "personal": "272",
     "cost": "20",
     "unit_type": "3",
     "buryoku": "8",
@@ -7002,7 +7163,7 @@
     "gen_main0": "9",
     "gen_main1": "3",
     "gen_main2": "12",
-    "strat": "232",
+    "strat": "239",
     "illustrator": "24",
     "voice_actor": "25"
   }, {
@@ -7013,7 +7174,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "UC",
-    "personal": "270",
+    "personal": "273",
     "cost": "10",
     "unit_type": "3",
     "buryoku": "3",
@@ -7025,8 +7186,8 @@
     "gen_main0": "4",
     "gen_main1": "15",
     "gen_main2": "7",
-    "strat": "233",
-    "illustrator": "96",
+    "strat": "240",
+    "illustrator": "100",
     "voice_actor": "32"
   }, {
     "code": "b97b231631df883971be82185be023fd",
@@ -7036,7 +7197,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "SR",
-    "personal": "271",
+    "personal": "274",
     "cost": "15",
     "unit_type": "5",
     "buryoku": "5",
@@ -7048,9 +7209,9 @@
     "gen_main0": "3",
     "gen_main1": "18",
     "gen_main2": "5",
-    "strat": "234",
+    "strat": "241",
     "illustrator": "30",
-    "voice_actor": "42"
+    "voice_actor": "43"
   }, {
     "code": "529870dbf98ca723a5b3c8e317557cfb",
     "pocket_code": "",
@@ -7059,7 +7220,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "SR",
-    "personal": "272",
+    "personal": "275",
     "cost": "25",
     "unit_type": "5",
     "buryoku": "8",
@@ -7071,8 +7232,8 @@
     "gen_main0": "10",
     "gen_main1": "10",
     "gen_main2": "10",
-    "strat": "235",
-    "illustrator": "50",
+    "strat": "242",
+    "illustrator": "52",
     "voice_actor": "44"
   }, {
     "code": "9a07a6889dce96f2da77fc4e83902025",
@@ -7082,7 +7243,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "R",
-    "personal": "273",
+    "personal": "276",
     "cost": "15",
     "unit_type": "5",
     "buryoku": "6",
@@ -7094,9 +7255,9 @@
     "gen_main0": "10",
     "gen_main1": "14",
     "gen_main2": "17",
-    "strat": "236",
+    "strat": "243",
     "illustrator": "1",
-    "voice_actor": "43"
+    "voice_actor": "45"
   }, {
     "code": "4307cae99a8a779f4464cd03e7014ecd",
     "pocket_code": "",
@@ -7105,7 +7266,7 @@
     "ver_type": "1",
     "state": "4",
     "rarity": "R",
-    "personal": "274",
+    "personal": "277",
     "cost": "10",
     "unit_type": "3",
     "buryoku": "2",
@@ -7117,9 +7278,32 @@
     "gen_main0": "10",
     "gen_main1": "11",
     "gen_main2": "16",
-    "strat": "237",
-    "illustrator": "60",
-    "voice_actor": "39"
+    "strat": "244",
+    "illustrator": "61",
+    "voice_actor": "40"
+  }, {
+    "code": "744f7dd88a386140a19952714a59a68f",
+    "pocket_code": "",
+    "major_version": "2",
+    "add_version": "-1",
+    "ver_type": "2",
+    "state": "4",
+    "rarity": "R",
+    "personal": "278",
+    "cost": "15",
+    "unit_type": "2",
+    "buryoku": "5",
+    "chiryoku": "2",
+    "seiatsu": "2",
+    "skill0": "1",
+    "skill1": "",
+    "skill2": "",
+    "gen_main0": "4",
+    "gen_main1": "",
+    "gen_main2": "",
+    "strat": "245",
+    "illustrator": "70",
+    "voice_actor": "40"
   }],
   "VER_TYPE": [{
     "name": "スターター"
@@ -7434,6 +7618,11 @@
     "azana": "徳祖",
     "azana_ruby": "ﾄｸｿ"
   }, {
+    "name": "何晏",
+    "name_ruby": "ｶｱﾝ",
+    "azana": "平叔",
+    "azana_ruby": "ﾍｲｼﾕｸ"
+  }, {
     "name": "黄忠",
     "name_ruby": "ｺｳﾁﾕｳ",
     "azana": "漢升",
@@ -7738,6 +7927,11 @@
     "name_ruby": "ﾄｳｼ",
     "azana": "伯苗",
     "azana_ruby": "ﾊｸﾋﾖｳ"
+  }, {
+    "name": "敬哀皇后",
+    "name_ruby": "ｹｲｱｲｺｳｺｳ",
+    "azana": "",
+    "azana_ruby": ""
   }, {
     "name": "甘寧",
     "name_ruby": "ｶﾝﾈｲ",
@@ -8194,6 +8388,11 @@
     "azana": "顕思",
     "azana_ruby": "ｹﾝｼ"
   }, {
+    "name": "樊氏",
+    "name_ruby": "ﾊﾝｼ",
+    "azana": "",
+    "azana_ruby": ""
+  }, {
     "name": "伏寿",
     "name_ruby": "ﾌｸｼﾕ",
     "azana": "",
@@ -8439,15 +8638,15 @@
     "azana": "",
     "azana_ruby": ""
   }, {
-    "name": "董白",
-    "name_ruby": "ﾄｳﾊｸ",
-    "azana": "",
-    "azana_ruby": ""
-  }, {
     "name": "閻行",
     "name_ruby": "ｴﾝｺｳ",
     "azana": "彦明",
     "azana_ruby": "ｹﾝﾒｲ"
+  }, {
+    "name": "董白",
+    "name_ruby": "ﾄｳﾊｸ",
+    "azana": "",
+    "azana_ruby": ""
   }, {
     "name": "何儀",
     "name_ruby": "ｶｷ",
@@ -8501,6 +8700,11 @@
   }, {
     "name": "盧氏",
     "name_ruby": "ﾛｼ",
+    "azana": "",
+    "azana_ruby": ""
+  }, {
+    "name": "姜",
+    "name_ruby": "ｷﾖｳ",
     "azana": "",
     "azana_ruby": ""
   }],
@@ -8720,7 +8924,7 @@
     "name_short": "兵力"
   }],
   "STRAT": [{
-    "key": "223",
+    "key": "230",
     "code": "b3353845b2793f0f198519bafc7a3979",
     "name": "悪逆の弱計",
     "name_ruby": "ｱｸｷﾔｸﾉｼﾔｸｹｲ",
@@ -8730,7 +8934,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "194",
+    "key": "201",
     "code": "46e0656a4cd8202b2c3faf0f1f0ecd48",
     "name": "悪逆無道",
     "name_ruby": "ｱｸｷﾔｸﾑﾄｳ",
@@ -8740,7 +8944,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "90",
+    "key": "92",
     "code": "5866bffb5fddf6189103ca5d10fe6df6",
     "name": "仇討制度",
     "name_ruby": "ｱﾀｳﾁｾｲﾄ",
@@ -8770,7 +8974,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "195",
+    "key": "202",
     "code": "157cb68a99dd5af69abfdb5a261e7e08",
     "name": "悪鬼の大車輪",
     "name_ruby": "ｱﾂｷﾉﾀｲｼﾔﾘﾝ",
@@ -8780,7 +8984,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "91",
+    "key": "93",
     "code": "5e70dbcfbb9fe91777f75a051f293205",
     "name": "阿斗の丸投げ",
     "name_ruby": "ｱﾄﾉﾏﾙﾅｹ",
@@ -8790,7 +8994,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "198",
+    "key": "205",
     "code": "dd5711cb0e9de23b1552dd4aae328ee2",
     "name": "甘き毒",
     "name_ruby": "ｱﾏｷﾄｸ",
@@ -8800,7 +9004,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "234",
+    "key": "241",
     "code": "81bca56cd768bd3c1e1d35e03458c29c",
     "name": "戦処女の大号令",
     "name_ruby": "ｲｸｻｵﾄﾒﾉﾀｲｺｳﾚｲ",
@@ -8810,7 +9014,7 @@
     "strat_range": "3",
     "strat_time": "0"
   }, {
-    "key": "178",
+    "key": "184",
     "code": "b4f43c30863e8993fe970984a268771c",
     "name": "一番槍",
     "name_ruby": "ｲﾁﾊﾝﾔﾘ",
@@ -8820,7 +9024,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "83",
+    "key": "85",
     "code": "5f99abb35d325fb13e86fa6e4c9533e5",
     "name": "一騎当千",
     "name_ruby": "ｲﾂｷﾄｳｾﾝ",
@@ -8830,7 +9034,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "107",
+    "key": "111",
     "code": "402f705e5ba347c1d5732082600cc80f",
     "name": "命がけの推挙",
     "name_ruby": "ｲﾉﾁｶｹﾉｽｲｷﾖ",
@@ -8840,7 +9044,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "153",
+    "key": "157",
     "code": "fee4b5deb53c49a3ade0e4a1e6bdceed",
     "name": "夷陵の炎",
     "name_ruby": "ｲﾘﾖｳﾉﾎﾉｵ",
@@ -8850,7 +9054,7 @@
     "strat_range": "4",
     "strat_time": "0"
   }, {
-    "key": "211",
+    "key": "218",
     "code": "c3e04e4ed135d3832801ec952749bd3b",
     "name": "烏丸流弓技",
     "name_ruby": "ｳｶﾝﾘﾕｳｷﾕｳｷ",
@@ -8860,7 +9064,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "94",
+    "key": "96",
     "code": "138d72e1f357079c63c8cff472086e90",
     "name": "受け継ぎし軍略",
     "name_ruby": "ｳｹﾂｷｼｸﾝﾘﾔｸ",
@@ -8870,7 +9074,7 @@
     "strat_range": "2",
     "strat_time": "0"
   }, {
-    "key": "79",
+    "key": "81",
     "code": "df8c90faff8ee345e9366ba3ca74d03b",
     "name": "雲散の計",
     "name_ruby": "ｳﾝｻﾝﾉｹｲ",
@@ -8880,17 +9084,17 @@
     "strat_range": "0",
     "strat_time": "1"
   }, {
-    "key": "155",
+    "key": "161",
     "code": "cf25927ca0e56370b97f47d4c48be7d6",
     "name": "栄光の大号令",
     "name_ruby": "ｴｲｺｳﾉﾀｲｺｳﾚｲ",
     "morale": "7",
     "explanation": "漢の味方の武力が上がる。この効果は自軍の士気が多いほど大きい",
-    "strat_category": "1",
+    "strat_category": "2",
     "strat_range": "3",
     "strat_time": "0"
   }, {
-    "key": "129",
+    "key": "133",
     "code": "9b8401adc73931cc671f178e9b5271eb",
     "name": "遠弓戦法",
     "name_ruby": "ｴﾝｷﾕｳｾﾝﾎｳ",
@@ -8900,7 +9104,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "151",
+    "key": "155",
     "code": "0078f8371fd9ded6909400faaffccdaa",
     "name": "遠弓の舞い",
     "name_ruby": "ｴﾝｷﾕｳﾉﾏｲ",
@@ -8910,7 +9114,7 @@
     "strat_range": "5",
     "strat_time": "2"
   }, {
-    "key": "110",
+    "key": "114",
     "code": "49b9c7a50bf2442c6f8cfd62528f2ee2",
     "name": "遠弓麻痺矢戦法",
     "name_ruby": "ｴﾝｷﾕｳﾏﾋﾔｾﾝﾎｳ",
@@ -8930,7 +9134,7 @@
     "strat_range": "2",
     "strat_time": "1"
   }, {
-    "key": "188",
+    "key": "194",
     "code": "92294f0dc5996451dd6e636628e6a38b",
     "name": "袁家の乱・煕",
     "name_ruby": "ｴﾝｹﾉﾗﾝ・ｷ",
@@ -8940,7 +9144,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "189",
+    "key": "195",
     "code": "04ce3d9cd253ba0b3e6599de9cdb1caa",
     "name": "袁家の乱・尚",
     "name_ruby": "ｴﾝｹﾉﾗﾝ・ｼﾖｳ",
@@ -8950,7 +9154,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "190",
+    "key": "196",
     "code": "e5c67b21ff7acbb6b855737b185dc401",
     "name": "袁家の乱・譚",
     "name_ruby": "ｴﾝｹﾉﾗﾝ・ﾀﾝ",
@@ -8960,7 +9164,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "113",
+    "key": "117",
     "code": "390309db23651f13b80bca1ab0f08c52",
     "name": "漢の意地",
     "name_ruby": "ｵﾄｺﾉｲｼ",
@@ -8970,7 +9174,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "179",
+    "key": "185",
     "code": "6bcd4e29fc5839fce06a22ed6953286c",
     "name": "開戦の檄文",
     "name_ruby": "ｶｲｾﾝﾉｹｷﾌﾝ",
@@ -8980,7 +9184,7 @@
     "strat_range": "2",
     "strat_time": "0"
   }, {
-    "key": "65",
+    "key": "67",
     "code": "cdf3d587057c812c34971f962e687762",
     "name": "回復の舞い",
     "name_ruby": "ｶｲﾌｸﾉﾏｲ",
@@ -8990,7 +9194,7 @@
     "strat_range": "5",
     "strat_time": "2"
   }, {
-    "key": "116",
+    "key": "120",
     "code": "0abe3e94657c3e871615e0127e621abd",
     "name": "火計",
     "name_ruby": "ｶｹｲ",
@@ -9010,7 +9214,7 @@
     "strat_range": "3",
     "strat_time": "0"
   }, {
-    "key": "205",
+    "key": "212",
     "code": "c10501524be1bb075da38509d839b206",
     "name": "火事場の援軍",
     "name_ruby": "ｶｼﾊﾉｴﾝｸﾝ",
@@ -9020,7 +9224,7 @@
     "strat_range": "2",
     "strat_time": "1"
   }, {
-    "key": "201",
+    "key": "208",
     "code": "4cbeaadda9d58ef3e5cdcf7f9896af53",
     "name": "火事場の馬鹿力",
     "name_ruby": "ｶｼﾊﾉﾊｶﾁｶﾗ",
@@ -9030,7 +9234,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "230",
+    "key": "237",
     "code": "e4142d1d48512950c31ff05fdbb46a93",
     "name": "火神の震撃",
     "name_ruby": "ｶｼﾝﾉｼﾝｹｷ",
@@ -9040,7 +9244,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "159",
+    "key": "165",
     "code": "144f6746c7c76b4f2f564c4c13fe7db5",
     "name": "何進の大号令",
     "name_ruby": "ｶｼﾝﾉﾀｲｺｳﾚｲ",
@@ -9050,7 +9254,17 @@
     "strat_range": "3",
     "strat_time": "0"
   }, {
-    "key": "119",
+    "key": "107",
+    "code": "6448f268f804da40f160f04921872969",
+    "name": "花麗なる号令",
+    "name_ruby": "ｶﾚｲﾅﾙｺｳﾚｲ",
+    "morale": "6",
+    "explanation": "味方の武力が上がる。この効果は特技「魅力」を持つ味方部隊数が多いほど大きい",
+    "strat_category": "2",
+    "strat_range": "2",
+    "strat_time": "0"
+  }, {
+    "key": "123",
     "code": "971db447a3265fcf1b1c8d154a32a5f4",
     "name": "川賊の破弓",
     "name_ruby": "ｶﾜｿｸﾉﾊｷﾕｳ",
@@ -9060,7 +9274,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "161",
+    "key": "167",
     "code": "877e11cf34ac93f8be8c3961fa86aa6f",
     "name": "漢王朝の希望",
     "name_ruby": "ｶﾝｵｳﾁﾖｳﾉｷﾎｳ",
@@ -9070,7 +9284,7 @@
     "strat_range": "6",
     "strat_time": "0"
   }, {
-    "key": "170",
+    "key": "176",
     "code": "c3a54860537e41ed9e33646bf48d3526",
     "name": "漢王朝の悲鳴",
     "name_ruby": "ｶﾝｵｳﾁﾖｳﾉﾋﾒｲ",
@@ -9080,7 +9294,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "219",
+    "key": "226",
     "code": "6cd75a9a940697c285debfd21fa18f1a",
     "name": "陥陣営",
     "name_ruby": "ｶﾝｼﾝｴｲ",
@@ -9090,7 +9304,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "183",
+    "key": "189",
     "code": "a1043a78b731f3652c4af19dbccf136c",
     "name": "漢鳴戦法",
     "name_ruby": "ｶﾝﾒｲｾﾝﾎｳ",
@@ -9100,7 +9314,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "162",
+    "key": "168",
     "code": "5c88764f341a1e49c79f54f7d3989d6f",
     "name": "漢鳴の遠弓",
     "name_ruby": "ｶﾝﾒｲﾉｴﾝｷﾕｳ",
@@ -9110,7 +9324,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "182",
+    "key": "188",
     "code": "2e3c3d04e9d3eebe6043f6fff4c4dd7e",
     "name": "漢鳴の援軍",
     "name_ruby": "ｶﾝﾒｲﾉｴﾝｸﾝ",
@@ -9120,7 +9334,17 @@
     "strat_range": "2",
     "strat_time": "1"
   }, {
-    "key": "166",
+    "key": "197",
+    "code": "6fa465b58a9f1a9c9814a5f801748a84",
+    "name": "漢鳴の義兵",
+    "name_ruby": "ｶﾝﾒｲﾉｷﾍｲ",
+    "morale": "4",
+    "explanation": "【漢鳴】（漢鳴レベルにより効果が変化する。特技「漢鳴」を持つ味方の漢鳴レベルが上がり、自身の漢鳴レベルが下がる）<br />最も武力の高い味方の兵力が上限を超えて回復する",
+    "strat_category": "5",
+    "strat_range": "0",
+    "strat_time": "1"
+  }, {
+    "key": "172",
     "code": "64b0265476a28c926f1f60b576eb4fba",
     "name": "漢鳴の局封",
     "name_ruby": "ｶﾝﾒｲﾉｷﾖｸﾌｳ",
@@ -9130,7 +9354,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "176",
+    "key": "182",
     "code": "366d534cfc0afbc4c7fcd571ed0bca0a",
     "name": "漢鳴の剛弓",
     "name_ruby": "ｶﾝﾒｲﾉｺｳｷﾕｳ",
@@ -9140,7 +9364,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "175",
+    "key": "181",
     "code": "c117accc756216e57c5d1deefd369ab5",
     "name": "漢鳴の剛槍",
     "name_ruby": "ｶﾝﾒｲﾉｺｳｿｳ",
@@ -9150,7 +9374,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "191",
+    "key": "198",
     "code": "e92a6829de4b94843e421596700220fd",
     "name": "漢鳴の再起",
     "name_ruby": "ｶﾝﾒｲﾉｻｲｷ",
@@ -9160,7 +9384,7 @@
     "strat_range": "6",
     "strat_time": "1"
   }, {
-    "key": "164",
+    "key": "170",
     "code": "565b43dbcf5ee9e4e5480fcd372fdb35",
     "name": "漢鳴の弱計",
     "name_ruby": "ｶﾝﾒｲﾉｼﾔｸｹｲ",
@@ -9170,7 +9394,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "174",
+    "key": "180",
     "code": "db596f9840625b6140a22c99239f5eb7",
     "name": "漢鳴の神速行",
     "name_ruby": "ｶﾝﾒｲﾉｼﾝｿｸｺｳ",
@@ -9180,7 +9404,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "163",
+    "key": "169",
     "code": "e08e46e3f3200a19b8ec41095a0ff00f",
     "name": "漢鳴の大号令",
     "name_ruby": "ｶﾝﾒｲﾉﾀｲｺｳﾚｲ",
@@ -9190,7 +9414,7 @@
     "strat_range": "3",
     "strat_time": "0"
   }, {
-    "key": "186",
+    "key": "192",
     "code": "8579ebe87a823f3686af7ac7a522761e",
     "name": "漢鳴の大車輪",
     "name_ruby": "ｶﾝﾒｲﾉﾀｲｼﾔﾘﾝ",
@@ -9200,7 +9424,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "181",
+    "key": "187",
     "code": "321e36e3c92f2f824a3a1e8725fa80d7",
     "name": "漢鳴の討伐令",
     "name_ruby": "ｶﾝﾒｲﾉﾄｳﾊﾂﾚｲ",
@@ -9210,7 +9434,7 @@
     "strat_range": "7",
     "strat_time": "0"
   }, {
-    "key": "165",
+    "key": "171",
     "code": "36642d6075e5116328dbad942b4fc852",
     "name": "漢鳴の麻痺矢",
     "name_ruby": "ｶﾝﾒｲﾉﾏﾋﾔ",
@@ -9220,7 +9444,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "157",
+    "key": "163",
     "code": "3d7f7b69b14c0306467d9cd6164f1bd6",
     "name": "漢鳴の雷撃",
     "name_ruby": "ｶﾝﾒｲﾉﾗｲｹｷ",
@@ -9230,7 +9454,7 @@
     "strat_range": "0",
     "strat_time": "1"
   }, {
-    "key": "156",
+    "key": "162",
     "code": "6553965f04191beef739d1c30811e97d",
     "name": "漢鳴の離間",
     "name_ruby": "ｶﾝﾒｲﾉﾘｶﾝ",
@@ -9300,7 +9524,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "124",
+    "key": "128",
     "code": "93afbb7e14fdfe477c421bc04a127303",
     "name": "弓腰姫の目覚め",
     "name_ruby": "ｷﾕｳﾖｳｷﾉﾒｻﾒ",
@@ -9320,7 +9544,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "227",
+    "key": "233",
     "code": "4fa421ceb0f9cd1056c48500cb87b708",
     "name": "狂騎の神速行",
     "name_ruby": "ｷﾖｳｷﾉｼﾝｿｸｺｳ",
@@ -9330,7 +9554,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "214",
+    "key": "221",
     "code": "d06e50d7e134344bee52a989dad4feb3",
     "name": "香車戦法",
     "name_ruby": "ｷﾖｳｼﾔｾﾝﾎｳ",
@@ -9340,7 +9564,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "81",
+    "key": "83",
     "code": "fc995207dcb82f4a67faf85074ab5aad",
     "name": "局地の雲散",
     "name_ruby": "ｷﾖｸﾁﾉｳﾝｻﾝ",
@@ -9360,7 +9584,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "228",
+    "key": "235",
     "code": "ca080c7cc16489900348612f9474aa29",
     "name": "虚盟の離間",
     "name_ruby": "ｷﾖﾒｲﾉﾘｶﾝ",
@@ -9370,7 +9594,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "221",
+    "key": "228",
     "code": "96b6175e13c601c53c27ba69dde775ee",
     "name": "錦馬超の叛撃",
     "name_ruby": "ｷﾝﾊﾁﾖｳﾉﾊﾝｹｷ",
@@ -9400,7 +9624,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "206",
+    "key": "213",
     "code": "c5d28a7b634d93a69aaf56141718d033",
     "name": "傾国の舞い",
     "name_ruby": "ｹｲｺｸﾉﾏｲ",
@@ -9410,7 +9634,7 @@
     "strat_range": "9",
     "strat_time": "2"
   }, {
-    "key": "177",
+    "key": "183",
     "code": "267a4f5e2909c05018b8fe7239051aec",
     "name": "傾国の鳴舞",
     "name_ruby": "ｹｲｺｸﾉﾒｲﾌ",
@@ -9430,7 +9654,7 @@
     "strat_range": "2",
     "strat_time": "1"
   }, {
-    "key": "97",
+    "key": "99",
     "code": "d55832dbb0eee089c748c21c4aefeab9",
     "name": "堅実な援軍",
     "name_ruby": "ｹﾝｼﾂﾅｴﾝｸﾝ",
@@ -9440,7 +9664,7 @@
     "strat_range": "2",
     "strat_time": "1"
   }, {
-    "key": "112",
+    "key": "116",
     "code": "eb47b9a47c75bd447438e3173255294d",
     "name": "賢母の教え",
     "name_ruby": "ｹﾝﾎﾉｵｼｴ",
@@ -9460,7 +9684,7 @@
     "strat_range": "4",
     "strat_time": "1"
   }, {
-    "key": "147",
+    "key": "151",
     "code": "4e0f1ef854018b3d1015054dba940223",
     "name": "傲岸不遜",
     "name_ruby": "ｺｳｶﾝﾌｿﾝ",
@@ -9480,7 +9704,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "128",
+    "key": "132",
     "code": "a66e72b96c33f4f425c49db6d8eefa8f",
     "name": "剛弓の伝授",
     "name_ruby": "ｺｳｷﾕｳﾉﾃﾝｼﾕ",
@@ -9490,7 +9714,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "126",
+    "key": "130",
     "code": "75c63272b912d9c6cd4f551091d79edc",
     "name": "剛弓麻痺矢戦法",
     "name_ruby": "ｺｳｷﾕｳﾏﾋﾔｾﾝﾎｳ",
@@ -9500,7 +9724,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "207",
+    "key": "214",
     "code": "12d18770c77519f4b1405be5a22eb458",
     "name": "黄巾の群れ",
     "name_ruby": "ｺｳｷﾝﾉﾑﾚ",
@@ -9510,7 +9734,7 @@
     "strat_range": "1",
     "strat_time": "1"
   }, {
-    "key": "88",
+    "key": "90",
     "code": "0fff61a3bfcc9e246dffd304016f2d17",
     "name": "黄式加速装置",
     "name_ruby": "ｺｳｼｷｶｿｸｿｳﾁ",
@@ -9530,7 +9754,17 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "85",
+    "key": "59",
+    "code": "fee81cd088f4028f9db50d3dc31bcd57",
+    "name": "黄鬚の剛腕",
+    "name_ruby": "ｺｳｼﾕﾉｺｳﾜﾝ",
+    "morale": "5",
+    "explanation": "敵に衝撃によるダメージを与える。ダメージは互いの武力で上下する",
+    "strat_category": "3",
+    "strat_range": "4",
+    "strat_time": "1"
+  }, {
+    "key": "87",
     "code": "2b44f5639b4d95f7230357a389190f1d",
     "name": "剛槍戦法",
     "name_ruby": "ｺｳｿｳｾﾝﾎｳ",
@@ -9540,7 +9774,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "95",
+    "key": "97",
     "code": "12f2fce8da5877d676f4300bbe50b6ec",
     "name": "剛槍の伝授",
     "name_ruby": "ｺｳｿｳﾉﾃﾝｼﾕ",
@@ -9570,7 +9804,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "132",
+    "key": "136",
     "code": "83cb3e37641ef791d4567de14b12fcf4",
     "name": "呉下の阿蒙",
     "name_ruby": "ｺｶﾉｱﾓｳ",
@@ -9580,7 +9814,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "232",
+    "key": "239",
     "code": "6ba54b71cfdd9d45b6c2300f7e41723c",
     "name": "黒山賊の襲撃",
     "name_ruby": "ｺｸｻﾝｿｸﾉｼﾕｳｹｷ",
@@ -9590,7 +9824,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "150",
+    "key": "154",
     "code": "009fd0a110c802c1e8a3763244c04475",
     "name": "護国の流星",
     "name_ruby": "ｺｺｸﾉﾘﾕｳｾｲ",
@@ -9600,7 +9834,7 @@
     "strat_range": "7",
     "strat_time": "1"
   }, {
-    "key": "208",
+    "key": "215",
     "code": "14a77af3f4684ce52c1b47753354faa3",
     "name": "五斗の米",
     "name_ruby": "ｺﾄﾉｺﾒ",
@@ -9630,7 +9864,7 @@
     "strat_range": "5",
     "strat_time": "2"
   }, {
-    "key": "220",
+    "key": "227",
     "code": "58d53647910a049ae465e5f9447bc428",
     "name": "才媛の旋律",
     "name_ruby": "ｻｲｴﾝﾉｾﾝﾘﾂ",
@@ -9650,7 +9884,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "106",
+    "key": "110",
     "code": "37c77212ae86f3d0a4d1d0857110c4ed",
     "name": "錯乱の舞い",
     "name_ruby": "ｻｸﾗﾝﾉﾏｲ",
@@ -9660,7 +9894,7 @@
     "strat_range": "5",
     "strat_time": "2"
   }, {
-    "key": "108",
+    "key": "112",
     "code": "3dd14e608ed18a8049fae73f6d0008fc",
     "name": "残響の鈴音",
     "name_ruby": "ｻﾝｷﾖｳﾉｽｽﾈ",
@@ -9680,7 +9914,7 @@
     "strat_range": "3",
     "strat_time": "0"
   }, {
-    "key": "100",
+    "key": "102",
     "code": "834a6ecd2be41c3653e53b4cc501825b",
     "name": "時限式大爆発",
     "name_ruby": "ｼｹﾝｼｷﾀｲﾊｸﾊﾂ",
@@ -9690,7 +9924,7 @@
     "strat_range": "2",
     "strat_time": "1"
   }, {
-    "key": "89",
+    "key": "91",
     "code": "2927e0a6a3c38967f1f7047615b0bbb7",
     "name": "静かなる落雷",
     "name_ruby": "ｼｽｶﾅﾙﾗｸﾗｲ",
@@ -9710,7 +9944,7 @@
     "strat_range": "2",
     "strat_time": "0"
   }, {
-    "key": "139",
+    "key": "143",
     "code": "7fa777dac010b544bfe25889db63fe7c",
     "name": "嫉妬の眼差し",
     "name_ruby": "ｼﾂﾄﾉﾏﾅｻｼ",
@@ -9720,7 +9954,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "193",
+    "key": "200",
     "code": "1c606ed4da554c268309724445926798",
     "name": "自爆",
     "name_ruby": "ｼﾊｸ",
@@ -9750,7 +9984,17 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "140",
+    "key": "58",
+    "code": "f3f86952ae8b2e4f599d76e6cd836f5b",
+    "name": "弱体化の謀略",
+    "name_ruby": "ｼﾔｸﾀｲｶﾉﾎｳﾘﾔｸ",
+    "morale": "5",
+    "explanation": "敵の武力が高いほど、武力を下げる",
+    "strat_category": "0",
+    "strat_range": "0",
+    "strat_time": "0"
+  }, {
+    "key": "144",
     "code": "132ce3959a0ba654049a826d614dc884",
     "name": "弱体弓戦法",
     "name_ruby": "ｼﾔｸﾀｲﾕﾐｾﾝﾎｳ",
@@ -9760,7 +10004,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "76",
+    "key": "78",
     "code": "77f563a88e953823b744ddbdf7eeeb29",
     "name": "車輪の伝授",
     "name_ruby": "ｼﾔﾘﾝﾉﾃﾝｼﾕ",
@@ -9770,7 +10014,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "168",
+    "key": "174",
     "code": "ceaf5ce86f18f0e44ca22d737296c82b",
     "name": "十常侍秘奥義",
     "name_ruby": "ｼﾕｳｼﾖｳｼﾋｵｳｷ",
@@ -9790,7 +10034,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "103",
+    "key": "105",
     "code": "9457aff9ffffebf7450ec57b6d43cbbc",
     "name": "縮地戦法",
     "name_ruby": "ｼﾕｸﾁｾﾝﾎｳ",
@@ -9800,7 +10044,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "117",
+    "key": "121",
     "code": "db47249695d1ab6f6c7c2d965e95d14c",
     "name": "守城戦法",
     "name_ruby": "ｼﾕｼﾖｳｾﾝﾎｳ",
@@ -9820,7 +10064,7 @@
     "strat_range": "2",
     "strat_time": "1"
   }, {
-    "key": "192",
+    "key": "199",
     "code": "5b00f3ce7ed6d4ea218460d9a42c3aac",
     "name": "呪詛の仙術",
     "name_ruby": "ｼﾕｿﾉｾﾝｼﾕﾂ",
@@ -9830,7 +10074,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "143",
+    "key": "147",
     "code": "f864c7373ff3a6316d7dc44dcaaa0502",
     "name": "守刀防御",
     "name_ruby": "ｼﾕﾄｳﾃｲﾌｴﾝｽ",
@@ -9850,7 +10094,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "152",
+    "key": "156",
     "code": "43335fc33523ff703cc7cce3ca66f976",
     "name": "駿弓の共振",
     "name_ruby": "ｼﾕﾝｷﾕｳﾉｷﾖｳｼﾝ",
@@ -9860,7 +10104,7 @@
     "strat_range": "2",
     "strat_time": "0"
   }, {
-    "key": "131",
+    "key": "135",
     "code": "7a9898852ab71177459150e8b54be0f7",
     "name": "駿才の大号令",
     "name_ruby": "ｼﾕﾝｻｲﾉﾀｲｺｳﾚｲ",
@@ -9870,7 +10114,7 @@
     "strat_range": "3",
     "strat_time": "0"
   }, {
-    "key": "118",
+    "key": "122",
     "code": "89249e388df8b318a04f0dd42603b552",
     "name": "浄化の計",
     "name_ruby": "ｼﾖｳｶﾉｹｲ",
@@ -9880,7 +10124,7 @@
     "strat_range": "2",
     "strat_time": "1"
   }, {
-    "key": "146",
+    "key": "150",
     "code": "f7177884c4c3ed4952e94a9f53368b58",
     "name": "小華の旋律",
     "name_ruby": "ｼﾖｳｶﾉｾﾝﾘﾂ",
@@ -9890,7 +10134,7 @@
     "strat_range": "0",
     "strat_time": "1"
   }, {
-    "key": "123",
+    "key": "127",
     "code": "40943282baff9b9875d3343fc24fcad2",
     "name": "小覇王の蛮勇",
     "name_ruby": "ｼﾖｳﾊｵｳﾉﾊﾝﾕｳ",
@@ -9900,7 +10144,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "184",
+    "key": "190",
     "code": "a9085117ddc9d23e725848f20146d8f4",
     "name": "称誉の強襲",
     "name_ruby": "ｼﾖｳﾖﾉｷﾖｳｼﾕｳ",
@@ -9910,7 +10154,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "173",
+    "key": "179",
     "code": "41470fcb49f647245db979bffc9843d7",
     "name": "称誉の弱計",
     "name_ruby": "ｼﾖｳﾖﾉｼﾔｸｹｲ",
@@ -9920,7 +10164,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "104",
+    "key": "106",
     "code": "33d956478c8f10584307bb6755194903",
     "name": "蜀呉の連合号令",
     "name_ruby": "ｼﾖｸｺﾉﾚﾝｺｳｺｳﾚｲ",
@@ -9940,7 +10184,17 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "102",
+    "key": "245",
+    "code": "8c650741cfe8b960faec11c48b1cb99b",
+    "name": "女賊の猛威",
+    "name_ruby": "ｼﾖｿｸﾉﾓｳｲ",
+    "morale": "5",
+    "explanation": "武力が上がり、征圧力が徐々に上がる",
+    "strat_category": "1",
+    "strat_range": "1",
+    "strat_time": "0"
+  }, {
+    "key": "104",
     "code": "44de4ed17e99827e62402aaa5938b3ec",
     "name": "子龍の如く",
     "name_ruby": "ｼﾘﾕｳﾉｺﾄｸ",
@@ -9990,7 +10244,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "167",
+    "key": "173",
     "code": "86e35248fcbfb38b04031ddccac1ae62",
     "name": "水鏡の教え",
     "name_ruby": "ｽｲｷﾖｳﾉｵｼｴ",
@@ -10010,7 +10264,7 @@
     "strat_range": "8",
     "strat_time": "1"
   }, {
-    "key": "180",
+    "key": "186",
     "code": "4baceed3f2ef5749ffa57a2ca1211e5e",
     "name": "隙無き攻勢",
     "name_ruby": "ｽｷﾅｷｺｳｾｲ",
@@ -10030,7 +10284,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "99",
+    "key": "101",
     "code": "2f000ab085257984ba4cb352fc516f99",
     "name": "征戦の助け",
     "name_ruby": "ｾｲｾﾝﾉﾀｽｹ",
@@ -10050,7 +10304,7 @@
     "strat_range": "3",
     "strat_time": "0"
   }, {
-    "key": "212",
+    "key": "219",
     "code": "7cad3a8e16a935775c081c9468c034ae",
     "name": "西涼の乱",
     "name_ruby": "ｾｲﾘﾖｳﾉﾗﾝ",
@@ -10070,7 +10324,7 @@
     "strat_range": "2",
     "strat_time": "0"
   }, {
-    "key": "114",
+    "key": "118",
     "code": "5494765c039c5c4e4590c78940fe73fd",
     "name": "赤壁の大火",
     "name_ruby": "ｾｷﾍｷﾉﾀｲｶ",
@@ -10100,7 +10354,7 @@
     "strat_range": "2",
     "strat_time": "0"
   }, {
-    "key": "69",
+    "key": "71",
     "code": "44c464f7729d5f4f81235f309c8cf183",
     "name": "零距離戦法",
     "name_ruby": "ｾﾛｷﾖﾘｾﾝﾎｳ",
@@ -10110,7 +10364,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "154",
+    "key": "158",
     "code": "d1cb2303d6c1f4c62c2d1fc90876d7cd",
     "name": "戦歌の神速行",
     "name_ruby": "ｾﾝｶﾉｼﾝｿｸｺｳ",
@@ -10120,7 +10374,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "78",
+    "key": "80",
     "code": "e4187be3d338e52c7cd46904adc94014",
     "name": "戦女の後援",
     "name_ruby": "ｾﾝｼﾖﾉｺｳｴﾝ",
@@ -10130,7 +10384,7 @@
     "strat_range": "2",
     "strat_time": "0"
   }, {
-    "key": "160",
+    "key": "166",
     "code": "329f8531e725cf8b41d9313de4f74359",
     "name": "先陣の誉れ",
     "name_ruby": "ｾﾝｼﾝﾉﾎﾏﾚ",
@@ -10140,7 +10394,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "187",
+    "key": "193",
     "code": "80f86e1f07dc0ae974f0d81f8b8664a2",
     "name": "先達の号令",
     "name_ruby": "ｾﾝﾀﾂﾉｺｳﾚｲ",
@@ -10150,7 +10404,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "145",
+    "key": "149",
     "code": "f60a8ff0038d14848c2da671da83a63d",
     "name": "双弓の伝授",
     "name_ruby": "ｿｳｷﾕｳﾉﾃﾝｼﾕ",
@@ -10160,7 +10414,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "149",
+    "key": "153",
     "code": "81eeed250d58af3f090d3ad9f9f919c7",
     "name": "走射戦法",
     "name_ruby": "ｿｳｼﾔｾﾝﾎｳ",
@@ -10170,7 +10424,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "169",
+    "key": "175",
     "code": "4947a09840ffbe91b33aaf3885f2b42a",
     "name": "蒼天之嵐",
     "name_ruby": "ｿｳﾃﾝﾉｱﾗｼ",
@@ -10180,7 +10434,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "115",
+    "key": "119",
     "code": "b006a0a51277ad326b675a5a13061706",
     "name": "孫呉の戦",
     "name_ruby": "ｿﾝｺﾉｲｸｻ",
@@ -10190,7 +10444,17 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "144",
+    "key": "159",
+    "code": "f98eabdeb63a19788fcff0239b85d04e",
+    "name": "孫呉の礎",
+    "name_ruby": "ｿﾝｺﾉｲｼｽｴ",
+    "morale": "5",
+    "explanation": "呉の味方の武力と知力が上がる。ただし自身は撤退する",
+    "strat_category": "2",
+    "strat_range": "2",
+    "strat_time": "0"
+  }, {
+    "key": "148",
     "code": "29f49319bb69be6ecfe6edebbc23c19c",
     "name": "孫呉の祈り",
     "name_ruby": "ｿﾝｺﾉｲﾉﾘ",
@@ -10200,7 +10464,7 @@
     "strat_range": "2",
     "strat_time": "1"
   }, {
-    "key": "84",
+    "key": "86",
     "code": "d210ebc7594ed3d67201154f8b2afbf5",
     "name": "孫呉流弓技",
     "name_ruby": "ｿﾝｺﾘﾕｳｷﾕｳｷ",
@@ -10210,7 +10474,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "136",
+    "key": "140",
     "code": "1439323f32890d278d0de7852fe51553",
     "name": "猛虎蹴撃",
     "name_ruby": "ﾀｲｶーｼﾖッﾄ",
@@ -10220,7 +10484,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "125",
+    "key": "129",
     "code": "3939f5931b6cbbfb1f4d2854cbb17f0f",
     "name": "大華の旋律",
     "name_ruby": "ﾀｲｶﾉｾﾝﾘﾂ",
@@ -10230,7 +10494,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "62",
+    "key": "64",
     "code": "8dc5088a2952bb61d72d1c9b6a1e5f9d",
     "name": "大車輪戦法",
     "name_ruby": "ﾀｲｼﾔﾘﾝｾﾝﾎｳ",
@@ -10240,7 +10504,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "204",
+    "key": "211",
     "code": "c8fe73f1bba486c7ee36ed80651910d0",
     "name": "大将軍の大号令",
     "name_ruby": "ﾀｲｼﾖｳｸﾝﾉﾀｲｺｳﾚｲ",
@@ -10260,7 +10524,7 @@
     "strat_range": "8",
     "strat_time": "1"
   }, {
-    "key": "203",
+    "key": "210",
     "code": "f39a6430051b67c34b9400d9fd2bff2e",
     "name": "太平要術",
     "name_ruby": "ﾀｲﾍｲﾖｳｼﾕﾂ",
@@ -10270,7 +10534,7 @@
     "strat_range": "6",
     "strat_time": "1"
   }, {
-    "key": "137",
+    "key": "141",
     "code": "1794602b41096f53a8c0691dfa34b8e1",
     "name": "大流星の儀式",
     "name_ruby": "ﾀｲﾘﾕｳｾｲﾉｷｼｷ",
@@ -10280,7 +10544,7 @@
     "strat_range": "10",
     "strat_time": "1"
   }, {
-    "key": "226",
+    "key": "234",
     "code": "5541eae30b253ed4b08f2de67231f733",
     "name": "退路遮断",
     "name_ruby": "ﾀｲﾛｼﾔﾀﾝ",
@@ -10290,7 +10554,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "231",
+    "key": "238",
     "code": "4ceb47b2c059975bf8ffdcfd3788277f",
     "name": "蛇蝎の秘術",
     "name_ruby": "ﾀｶﾂﾉﾋｼﾕﾂ",
@@ -10300,7 +10564,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "197",
+    "key": "204",
     "code": "23af59b082166de0cde50a9e6f2af65b",
     "name": "多勢の攻め",
     "name_ruby": "ﾀｾｲﾉｾﾒ",
@@ -10310,7 +10574,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "101",
+    "key": "103",
     "code": "b370c457463a6256b082a74ca982f7ca",
     "name": "多勢奮激大車輪",
     "name_ruby": "ﾀｾｲﾌﾝｹｷﾀｲｼﾔﾘﾝ",
@@ -10320,7 +10584,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "196",
+    "key": "203",
     "code": "9c132748964401cc2de4fc7416cf6fc1",
     "name": "脱兎戦法",
     "name_ruby": "ﾀﾂﾄｾﾝﾎｳ",
@@ -10330,7 +10594,17 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "224",
+    "key": "160",
+    "code": "ef600eac1053ffa3c8aaedfc150c8dc4",
+    "name": "魂の衝動",
+    "name_ruby": "ﾀﾏｼｲﾉｼﾖｳﾄｳ",
+    "morale": "4",
+    "explanation": "武力が上がる。敵と１部隊同士で接触している間、さらに武力が上がる",
+    "strat_category": "1",
+    "strat_range": "1",
+    "strat_time": "0"
+  }, {
+    "key": "231",
     "code": "f3689d84657c1cc9d459c2606a1a9718",
     "name": "堕落への誘い",
     "name_ruby": "ﾀﾗｸﾍﾉｲｻﾅｲ",
@@ -10340,7 +10614,7 @@
     "strat_range": "2",
     "strat_time": "0"
   }, {
-    "key": "135",
+    "key": "139",
     "code": "5d39a9c742f566076b48778d3f337455",
     "name": "単騎の神速行",
     "name_ruby": "ﾀﾝｷﾉｼﾝｿｸｺｳ",
@@ -10350,7 +10624,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "71",
+    "key": "73",
     "code": "81330a2f7526e2a286569e5c911c0f56",
     "name": "嘲笑の計",
     "name_ruby": "ﾁﾖｳｼﾖｳﾉｹｲ",
@@ -10380,7 +10654,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "77",
+    "key": "79",
     "code": "3599fcbfdb2f06210f050b408ba108f0",
     "name": "挺身の身代わり",
     "name_ruby": "ﾃｲｼﾝﾉﾐｶﾜﾘ",
@@ -10410,7 +10684,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "217",
+    "key": "224",
     "code": "445073465eae730f6a31d12b09bcc4b7",
     "name": "天下無双・飛",
     "name_ruby": "ﾃﾝｶﾑｿｳ・ﾋ",
@@ -10420,7 +10694,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "105",
+    "key": "109",
     "code": "5dd9cd57d78781c03ce1dc45381a4191",
     "name": "天啓の幻",
     "name_ruby": "ﾃﾝｹｲﾉﾏﾎﾛｼ",
@@ -10430,7 +10704,7 @@
     "strat_range": "3",
     "strat_time": "0"
   }, {
-    "key": "98",
+    "key": "100",
     "code": "8ba82f8fb85eacf14c791387e45e36ea",
     "name": "天女の錯雷",
     "name_ruby": "ﾃﾝﾆﾖﾉｻｸﾗｲ",
@@ -10440,7 +10714,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "172",
+    "key": "178",
     "code": "1136bea00a25e2ed2a02279c2c8a7cba",
     "name": "天の鼓動",
     "name_ruby": "ﾃﾝﾉｺﾄｳ",
@@ -10470,7 +10744,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "74",
+    "key": "76",
     "code": "c693cf9acb05c8bc9b471b775bbf2e2e",
     "name": "泣斬馬謖",
     "name_ruby": "ﾅｲﾃﾊｼﾖｸｦｷﾙ",
@@ -10480,7 +10754,7 @@
     "strat_range": "1",
     "strat_time": "1"
   }, {
-    "key": "66",
+    "key": "68",
     "code": "a6bcfced41c7f3185e3298e4ec5882bd",
     "name": "長槍戦法",
     "name_ruby": "ﾅｶﾔﾘｾﾝﾎｳ",
@@ -10490,7 +10764,17 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "235",
+    "key": "108",
+    "code": "7eb8c58138ac55b9e0dc09dcc655bcdd",
+    "name": "長槍の舞い",
+    "name_ruby": "ﾅｶﾔﾘﾉﾏｲ",
+    "morale": "5",
+    "explanation": "【舞い】（使用すると移動できなくなる。自身は自身の舞いの効果を受けない）<br />味方の槍兵の槍が長くなる",
+    "strat_category": "4",
+    "strat_range": "5",
+    "strat_time": "2"
+  }, {
+    "key": "242",
     "code": "2f1ecbe32dab8afe36a0c9ac2d15d3a7",
     "name": "南蛮王の大号令",
     "name_ruby": "ﾅﾝﾊﾝｵｳﾉﾀｲｺｳﾚｲ",
@@ -10500,7 +10784,7 @@
     "strat_range": "3",
     "strat_time": "0"
   }, {
-    "key": "75",
+    "key": "77",
     "code": "0e5ad1d35cc084890d793b1d4319c052",
     "name": "白銀の獅子",
     "name_ruby": "ﾊｸｷﾝﾉｼｼ",
@@ -10510,7 +10794,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "199",
+    "key": "206",
     "code": "56205b839597bc2f808dc5ed7118e54d",
     "name": "白馬義従",
     "name_ruby": "ﾊｸﾊｷｼﾕｳ",
@@ -10520,7 +10804,7 @@
     "strat_range": "3",
     "strat_time": "0"
   }, {
-    "key": "87",
+    "key": "89",
     "code": "55b4f18ef4dcfbbc55a7585b427dbe6d",
     "name": "白眉の教授",
     "name_ruby": "ﾊｸﾋﾉｷﾖｳｼﾕ",
@@ -10530,7 +10814,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "236",
+    "key": "243",
     "code": "ed5277ff71280feff92ec64ca070a1a5",
     "name": "はじき戦法",
     "name_ruby": "ﾊｼｷｾﾝﾎｳ",
@@ -10550,7 +10834,7 @@
     "strat_range": "3",
     "strat_time": "0"
   }, {
-    "key": "70",
+    "key": "72",
     "code": "1c441fc9915416749a46f8a7be5e8a7c",
     "name": "八卦の軍略",
     "name_ruby": "ﾊﾂｹﾉｸﾝﾘﾔｸ",
@@ -10560,7 +10844,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "96",
+    "key": "98",
     "code": "97acbe53710c1b58a2ca5687f7c1d1e2",
     "name": "蛮花の雷震",
     "name_ruby": "ﾊﾝｶﾉﾗｲｼﾝ",
@@ -10570,7 +10854,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "68",
+    "key": "70",
     "code": "8b45c512727d291268dc558ea1fab3b7",
     "name": "反逆の狼煙",
     "name_ruby": "ﾊﾝｷﾔｸﾉﾉﾛｼ",
@@ -10590,7 +10874,7 @@
     "strat_range": "2",
     "strat_time": "1"
   }, {
-    "key": "141",
+    "key": "145",
     "code": "9b5be718325222ade6afb08c00cb32f6",
     "name": "万全なる転進",
     "name_ruby": "ﾊﾝｾﾝﾅﾙﾃﾝｼﾝ",
@@ -10610,7 +10894,7 @@
     "strat_range": "5",
     "strat_time": "2"
   }, {
-    "key": "133",
+    "key": "137",
     "code": "09ca10eeecfb938637fb94917f3fbcbd",
     "name": "美周姫の号令",
     "name_ruby": "ﾋｼﾕｳｷﾉｺｳﾚｲ",
@@ -10620,7 +10904,7 @@
     "strat_range": "3",
     "strat_time": "0"
   }, {
-    "key": "158",
+    "key": "164",
     "code": "21e4743040f34a8ecd22939caae5af0e",
     "name": "美女の毒牙",
     "name_ruby": "ﾋｼﾖﾉﾄｸｶ",
@@ -10650,7 +10934,7 @@
     "strat_range": "5",
     "strat_time": "2"
   }, {
-    "key": "229",
+    "key": "236",
     "code": "9f80374155de29619f6be5946a0052fb",
     "name": "封印の計",
     "name_ruby": "ﾌｳｲﾝﾉｹｲ",
@@ -10660,7 +10944,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "225",
+    "key": "232",
     "code": "85c01b4166480bb1e28ad72198ac0d0d",
     "name": "不屈の忠義",
     "name_ruby": "ﾌｸﾂﾉﾁﾕｳｷ",
@@ -10670,7 +10954,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "63",
+    "key": "65",
     "code": "82b5cd45e330aa45be70c1ea58d29204",
     "name": "武神の大号令",
     "name_ruby": "ﾌｼﾝﾉﾀｲｺｳﾚｲ",
@@ -10680,7 +10964,7 @@
     "strat_range": "3",
     "strat_time": "0"
   }, {
-    "key": "148",
+    "key": "152",
     "code": "2024fd03750459066176fa6462cdbda6",
     "name": "復仇の号令",
     "name_ruby": "ﾌﾂｷﾕｳﾉｺｳﾚｲ",
@@ -10690,7 +10974,7 @@
     "strat_range": "2",
     "strat_time": "0"
   }, {
-    "key": "73",
+    "key": "75",
     "code": "a55820e1bc0f3a16777518af20c8b140",
     "name": "不撓不屈",
     "name_ruby": "ﾌﾄｳﾌｸﾂ",
@@ -10710,7 +10994,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "109",
+    "key": "113",
     "code": "f310ede677030aea2da92dbf960d8760",
     "name": "侮蔑の計",
     "name_ruby": "ﾌﾍﾂﾉｹｲ",
@@ -10720,7 +11004,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "60",
+    "key": "62",
     "code": "f8e7b63eddf8ed78b19e1b1a6e6a7257",
     "name": "奮激戦法",
     "name_ruby": "ﾌﾝｹｷｾﾝﾎｳ",
@@ -10730,7 +11014,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "93",
+    "key": "95",
     "code": "b997f50a9e985c8d256d947dbe9748dd",
     "name": "奮激の号令",
     "name_ruby": "ﾌﾝｹｷﾉｺｳﾚｲ",
@@ -10740,7 +11024,7 @@
     "strat_range": "2",
     "strat_time": "0"
   }, {
-    "key": "86",
+    "key": "88",
     "code": "289eba58476fe1f54ed21d14752955a9",
     "name": "奮激の伝授",
     "name_ruby": "ﾌﾝｹｷﾉﾃﾝｼﾕ",
@@ -10750,7 +11034,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "134",
+    "key": "138",
     "code": "3bf5e236a8762c7dea0ca7715a66222a",
     "name": "ふんばれ！",
     "name_ruby": "ﾌﾝﾊﾚ",
@@ -10760,7 +11044,7 @@
     "strat_range": "3",
     "strat_time": "0"
   }, {
-    "key": "200",
+    "key": "207",
     "code": "8d23fb37e92b1d92c6260bd068daf2d2",
     "name": "変化の仙術",
     "name_ruby": "ﾍﾝｹﾉｾﾝｼﾕﾂ",
@@ -10770,7 +11054,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "210",
+    "key": "217",
     "code": "4c6fa0159fb293fd62ca98be514420c0",
     "name": "暴虐なる覇道",
     "name_ruby": "ﾎｳｷﾔｸﾅﾙﾊﾄｳ",
@@ -10780,7 +11064,7 @@
     "strat_range": "3",
     "strat_time": "0"
   }, {
-    "key": "216",
+    "key": "223",
     "code": "d3064e4120e95d8792f4fb959eccfb60",
     "name": "防護戦法",
     "name_ruby": "ﾎｳｺｾﾝﾎｳ",
@@ -10790,7 +11074,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "142",
+    "key": "146",
     "code": "e99f24928a4b291c303062f4456c3690",
     "name": "防柵再建",
     "name_ruby": "ﾎｳｻｸｻｲｹﾝ",
@@ -10800,7 +11084,7 @@
     "strat_range": "7",
     "strat_time": "1"
   }, {
-    "key": "111",
+    "key": "115",
     "code": "ab4f780b2bffabf632589d93490ed226",
     "name": "防柵小再建",
     "name_ruby": "ﾎｳｻｸｼﾖｳｻｲｹﾝ",
@@ -10810,7 +11094,7 @@
     "strat_range": "11",
     "strat_time": "1"
   }, {
-    "key": "233",
+    "key": "240",
     "code": "93fb7062d588d16d7220b34c35e16384",
     "name": "暴風の道術",
     "name_ruby": "ﾎｳﾌｳﾉﾄｳｼﾕﾂ",
@@ -10830,7 +11114,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "138",
+    "key": "142",
     "code": "0d10ffc6ae5798a15c88c83272a1b28b",
     "name": "麻痺矢戦法",
     "name_ruby": "ﾏﾋﾔｾﾝﾎｳ",
@@ -10840,7 +11124,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "130",
+    "key": "134",
     "code": "91aade894bd93cd7ee4210b9103d2332",
     "name": "麻痺矢の大号令",
     "name_ruby": "ﾏﾋﾔﾉﾀｲｺｳﾚｲ",
@@ -10850,7 +11134,7 @@
     "strat_range": "3",
     "strat_time": "0"
   }, {
-    "key": "127",
+    "key": "131",
     "code": "7ba41b3b26b7c6c050f037c4070a6187",
     "name": "麻痺矢の伝授",
     "name_ruby": "ﾏﾋﾔﾉﾃﾝｼﾕ",
@@ -10860,7 +11144,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "121",
+    "key": "125",
     "code": "dcb4abddb0fb3b3029d1860254480107",
     "name": "身代わり",
     "name_ruby": "ﾐｶﾜﾘ",
@@ -10880,7 +11164,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "67",
+    "key": "69",
     "code": "fd330a41bbcf3c5e2c2b5b6cf4250b15",
     "name": "無血開城",
     "name_ruby": "ﾑｹﾂｶｲｼﾖｳ",
@@ -10890,7 +11174,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "82",
+    "key": "84",
     "code": "4f68ba33e71aa8a010f25c7418e4f08f",
     "name": "無知の勇",
     "name_ruby": "ﾑﾁﾉﾕｳ",
@@ -10900,7 +11184,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "215",
+    "key": "222",
     "code": "e1547c0960029565ac1b41000b964b8d",
     "name": "滅国の毒牙",
     "name_ruby": "ﾒﾂｺｸﾉﾄｸｶ",
@@ -10910,7 +11194,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "222",
+    "key": "229",
     "code": "d443948c98bea78c63e12f019fd10c81",
     "name": "滅葬の魔王",
     "name_ruby": "ﾒﾂｿｳﾉﾏｵｳ",
@@ -10920,7 +11204,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "209",
+    "key": "216",
     "code": "b756e429a949e0efdafada723e60e48c",
     "name": "猛将への献策",
     "name_ruby": "ﾓｳｼﾖｳﾍﾉｹﾝｻｸ",
@@ -10930,7 +11214,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "213",
+    "key": "220",
     "code": "a3f4c3c846b99559214e04ce30e61f78",
     "name": "猛勇の伝授",
     "name_ruby": "ﾓｳﾕｳﾉﾃﾝｼﾕ",
@@ -10940,7 +11224,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "185",
+    "key": "191",
     "code": "3f0795b8d6d3dc9d04311b49feb0e8a7",
     "name": "野望の謀略",
     "name_ruby": "ﾔﾎｳﾉﾎｳﾘﾔｸ",
@@ -10950,7 +11234,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "58",
+    "key": "60",
     "code": "4ca08c596780cb03e0a8c684f330fcba",
     "name": "勇略采配",
     "name_ruby": "ﾕｳﾘﾔｸｻｲﾊｲ",
@@ -10960,7 +11244,7 @@
     "strat_range": "3",
     "strat_time": "0"
   }, {
-    "key": "202",
+    "key": "209",
     "code": "44b8274b3578ee53e53a9fcdd7a475ff",
     "name": "誘惑",
     "name_ruby": "ﾕｳﾜｸ",
@@ -10970,7 +11254,7 @@
     "strat_range": "7",
     "strat_time": "0"
   }, {
-    "key": "237",
+    "key": "244",
     "code": "32b21abaf433ac04528c7ce041676747",
     "name": "妖狐の導き",
     "name_ruby": "ﾖｳｺﾉﾐﾁﾋｷ",
@@ -10990,7 +11274,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "72",
+    "key": "74",
     "code": "9cd46b8c771cb1974daf14e2f26ae0d1",
     "name": "雷槍・丈八蛇矛",
     "name_ruby": "ﾗｲｿｳ・ｼﾖｳﾊﾁﾀﾎｳ",
@@ -11000,7 +11284,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "61",
+    "key": "63",
     "code": "fa6d7d1dbe7f77c014ef357a79ffd243",
     "name": "落雷",
     "name_ruby": "ﾗｸﾗｲ",
@@ -11010,7 +11294,7 @@
     "strat_range": "0",
     "strat_time": "1"
   }, {
-    "key": "218",
+    "key": "225",
     "code": "6525ed3689f9c9ce9a2b950800a64367",
     "name": "乱戟無双",
     "name_ruby": "ﾗﾝｹｷﾑｿｳ",
@@ -11030,7 +11314,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "171",
+    "key": "177",
     "code": "4a2eb0c7f7a6681b3d23b1b4ad2ac3b0",
     "name": "流汗の計",
     "name_ruby": "ﾘﾕｳｶﾝﾉｹｲ",
@@ -11040,7 +11324,7 @@
     "strat_range": "3",
     "strat_time": "1"
   }, {
-    "key": "120",
+    "key": "124",
     "code": "1e33319f11731540cf221a589ffca2a8",
     "name": "流星の儀式",
     "name_ruby": "ﾘﾕｳｾｲﾉｷｼｷ",
@@ -11050,7 +11334,7 @@
     "strat_range": "10",
     "strat_time": "1"
   }, {
-    "key": "92",
+    "key": "94",
     "code": "fb39b6525f1db34d5f6d00658b4f802c",
     "name": "龍の怪力",
     "name_ruby": "ﾘﾕｳﾉｶｲﾘｷ",
@@ -11060,7 +11344,7 @@
     "strat_range": "1",
     "strat_time": "0"
   }, {
-    "key": "59",
+    "key": "61",
     "code": "c442cf2d27ac53d341959c679c4739d5",
     "name": "劉備の大徳",
     "name_ruby": "ﾘﾕｳﾋﾉﾀｲﾄｸ",
@@ -11070,7 +11354,7 @@
     "strat_range": "2",
     "strat_time": "0"
   }, {
-    "key": "80",
+    "key": "82",
     "code": "2dcf21c1e6f832e6fd1fe18ea29e54fc",
     "name": "連環の計",
     "name_ruby": "ﾚﾝｶﾝﾉｹｲ",
@@ -11080,7 +11364,7 @@
     "strat_range": "0",
     "strat_time": "0"
   }, {
-    "key": "122",
+    "key": "126",
     "code": "3adf0101323a6b34a417cf3ef6b0377e",
     "name": "若き王の手腕",
     "name_ruby": "ﾜｶｷｵｳﾉｼﾕﾜﾝ",
@@ -11090,7 +11374,7 @@
     "strat_range": "3",
     "strat_time": "0"
   }, {
-    "key": "64",
+    "key": "66",
     "code": "a4aa975da7c661efbc0b8767c6c4fb71",
     "name": "若き血の目覚め",
     "name_ruby": "ﾜｶｷﾁﾉﾒｻﾒ",
@@ -11536,6 +11820,10 @@
   }, {
     "name": "あなQ"
   }, {
+    "name": "セツ"
+  }, {
+    "name": "Boichi"
+  }, {
     "name": "コーエーテクモゲームス"
   }, {
     "name": "風間雷太"
@@ -11554,8 +11842,6 @@
   }, {
     "name": "Yocky"
   }, {
-    "name": "セツ"
-  }, {
     "name": "仙田聡"
   }, {
     "name": "匡吉"
@@ -11571,6 +11857,8 @@
     "name": "清宮敦嗣"
   }, {
     "name": "玄丞"
+  }, {
+    "name": "唐々煙"
   }, {
     "name": "kdash"
   }, {
@@ -11603,6 +11891,10 @@
     "name": "チーコ"
   }, {
     "name": "Wolfina"
+  }, {
+    "name": "須田彩加"
+  }, {
+    "name": "柳内大樹"
   }, {
     "name": "Nidy-2D-"
   }, {
@@ -11703,6 +11995,8 @@
   }, {
     "name": "櫻井慎二朗"
   }, {
+    "name": "河西健吾"
+  }, {
     "name": "井上和彦"
   }, {
     "name": "佐々木拓真"
@@ -11719,11 +12013,9 @@
   }, {
     "name": "花澤香菜"
   }, {
-    "name": "杉田智和"
-  }, {
     "name": "小西克幸"
   }, {
-    "name": "河西健吾"
+    "name": "杉田智和"
   }],
   "ENISHI": [{
     "rarity": "C",

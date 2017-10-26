@@ -1139,7 +1139,41 @@
   }
 }, {
   "majorVer": "第2弾",
-  "releaseVer": "第2弾-1",
+  "releaseVer": "第2弾-EX",
+  "states": "魏",
+  "rarity": "R",
+  "name": "何晏",
+  "cost": 1.5,
+  "unitType": "槍兵",
+  "power": 5,
+  "intelligence": 8,
+  "suppression": 1,
+  "skills": [],
+  "strategy": {
+    "name": "弱体化の謀略",
+    "point": 5,
+    "type": "妨害"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾-EX",
+  "states": "魏",
+  "rarity": "R",
+  "name": "曹彰",
+  "cost": 2.5,
+  "unitType": "槍兵",
+  "power": 9,
+  "intelligence": 5,
+  "suppression": 1,
+  "skills": ["勇猛"],
+  "strategy": {
+    "name": "黄鬚の剛腕",
+    "point": 5,
+    "type": "ダメージ"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾-EX",
   "states": "魏",
   "rarity": "LE",
   "name": "曹操",
@@ -2311,6 +2345,40 @@
     "type": "全体強化"
   }
 }, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾-EX",
+  "states": "蜀",
+  "rarity": "R",
+  "name": "関索",
+  "cost": 2,
+  "unitType": "騎兵",
+  "power": 7,
+  "intelligence": 7,
+  "suppression": 1,
+  "skills": ["魅力"],
+  "strategy": {
+    "name": "花麗なる号令",
+    "point": 6,
+    "type": "全体強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾-EX",
+  "states": "蜀",
+  "rarity": "R",
+  "name": "敬哀皇后",
+  "cost": 1,
+  "unitType": "弓兵",
+  "power": 2,
+  "intelligence": 4,
+  "suppression": 1,
+  "skills": ["魅力"],
+  "strategy": {
+    "name": "長槍の舞い",
+    "point": 5,
+    "type": "舞踊"
+  }
+}, {
   "majorVer": "第1弾",
   "releaseVer": "第1弾",
   "states": "呉",
@@ -3230,7 +3298,7 @@
   }
 }, {
   "majorVer": "第1弾",
-  "releaseVer": "第1弾-5",
+  "releaseVer": "第1弾-EX",
   "states": "呉",
   "rarity": "SR",
   "name": "孫権",
@@ -3451,6 +3519,40 @@
   }
 }, {
   "majorVer": "第2弾",
+  "releaseVer": "第2弾-EX",
+  "states": "呉",
+  "rarity": "R",
+  "name": "周瑜",
+  "cost": 2,
+  "unitType": "騎兵",
+  "power": 7,
+  "intelligence": 9,
+  "suppression": 1,
+  "skills": ["魅力"],
+  "strategy": {
+    "name": "孫呉の礎",
+    "point": 5,
+    "type": "全体強化"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾-EX",
+  "states": "呉",
+  "rarity": "R",
+  "name": "呂蒙",
+  "cost": 1.5,
+  "unitType": "槍兵",
+  "power": 6,
+  "intelligence": 2,
+  "suppression": 1,
+  "skills": ["勇猛", "攻城"],
+  "strategy": {
+    "name": "魂の衝動",
+    "point": 4,
+    "type": "強化"
+  }
+}, {
+  "majorVer": "第2弾",
   "releaseVer": "第2弾",
   "states": "漢",
   "rarity": "SR",
@@ -3464,7 +3566,7 @@
   "strategy": {
     "name": "栄光の大号令",
     "point": 7,
-    "type": "強化"
+    "type": "全体強化"
   }
 }, {
   "majorVer": "第2弾",
@@ -4029,7 +4131,7 @@
   }
 }, {
   "majorVer": "第2弾",
-  "releaseVer": "第2弾-1",
+  "releaseVer": "第2弾-EX",
   "states": "漢",
   "rarity": "C",
   "name": "袁煕",
@@ -4046,7 +4148,7 @@
   }
 }, {
   "majorVer": "第2弾",
-  "releaseVer": "第2弾-1",
+  "releaseVer": "第2弾-EX",
   "states": "漢",
   "rarity": "C",
   "name": "袁尚",
@@ -4063,7 +4165,7 @@
   }
 }, {
   "majorVer": "第2弾",
-  "releaseVer": "第2弾-1",
+  "releaseVer": "第2弾-EX",
   "states": "漢",
   "rarity": "C",
   "name": "袁譚",
@@ -4080,7 +4182,24 @@
   }
 }, {
   "majorVer": "第2弾",
-  "releaseVer": "第2弾-1",
+  "releaseVer": "第2弾-EX",
+  "states": "漢",
+  "rarity": "R",
+  "name": "樊氏",
+  "cost": 1,
+  "unitType": "弓兵",
+  "power": 2,
+  "intelligence": 3,
+  "suppression": 1,
+  "skills": ["防柵", "魅力", "漢鳴"],
+  "strategy": {
+    "name": "漢鳴の義兵",
+    "point": 4,
+    "type": "回復"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾-EX",
   "states": "漢",
   "rarity": "R",
   "name": "伏寿",
@@ -5001,23 +5120,6 @@
   "releaseVer": "第1弾-EX",
   "states": "群雄",
   "rarity": "R",
-  "name": "董白",
-  "cost": 1,
-  "unitType": "騎兵",
-  "power": 2,
-  "intelligence": 4,
-  "suppression": 1,
-  "skills": ["魅力"],
-  "strategy": {
-    "name": "退路遮断",
-    "point": 2,
-    "type": "妨害"
-  }
-}, {
-  "majorVer": "第1弾",
-  "releaseVer": "第1弾-EX",
-  "states": "群雄",
-  "rarity": "R",
   "name": "閻行",
   "cost": 2,
   "unitType": "騎兵",
@@ -5029,6 +5131,23 @@
     "name": "狂騎の神速行",
     "point": 5,
     "type": "強化"
+  }
+}, {
+  "majorVer": "第1弾",
+  "releaseVer": "第1弾-EX",
+  "states": "群雄",
+  "rarity": "R",
+  "name": "董白",
+  "cost": 1,
+  "unitType": "騎兵",
+  "power": 2,
+  "intelligence": 4,
+  "suppression": 1,
+  "skills": ["魅力"],
+  "strategy": {
+    "name": "退路遮断",
+    "point": 2,
+    "type": "妨害"
   }
 }, {
   "majorVer": "第2弾",
@@ -5233,5 +5352,22 @@
     "name": "妖狐の導き",
     "point": 6,
     "type": "復活"
+  }
+}, {
+  "majorVer": "第2弾",
+  "releaseVer": "第2弾-EX",
+  "states": "群雄",
+  "rarity": "R",
+  "name": "姜",
+  "cost": 1.5,
+  "unitType": "騎兵",
+  "power": 5,
+  "intelligence": 2,
+  "suppression": 2,
+  "skills": ["魅力"],
+  "strategy": {
+    "name": "女賊の猛威",
+    "point": 5,
+    "type": "強化"
   }
 }]
