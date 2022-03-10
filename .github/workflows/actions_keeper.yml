@@ -11,7 +11,7 @@ env:
   TZ: Asia/Tokyo
 
 jobs:
-  crawler:
+  main:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
