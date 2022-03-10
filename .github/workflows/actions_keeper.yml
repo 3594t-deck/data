@@ -19,6 +19,8 @@ jobs:
       - name: Run
         run: |
           date --iso-8601="seconds" > actions_keeper.txt
+          git config --local user.name "3594t-deck BOT"
+          git config --local user.email "3594t-deck@example.com"
           git add actions_keeper.txt
           git commit -m "[skip ci]ActionsKeeper"
       - name: Push
