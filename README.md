@@ -2,7 +2,7 @@
 ![Crawler](https://github.com/3594t-deck/data/workflows/Crawler/badge.svg)
 ![last commit](https://img.shields.io/github/last-commit/3594t-deck/data/develop.svg)
 
-Last update [Last update](https://img.shields.io/github/last-commit/3594t-deck/data/main.svg)
+Last update ![Last update](https://img.shields.io/github/last-commit/3594t-deck/data/main.svg)
 
 # Setup
 
