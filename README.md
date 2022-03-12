@@ -1,3 +1,8 @@
+![Build](https://github.com/3594t-deck/data/workflows/CI/crawler.svg)
+![Crawler](https://github.com/3594t-deck/data/workflows/CI/crawler.svg)
+![last commit](https://img.shields.io/github/last-commit/3594t-deck/data/develop.svg)
+![last commit(data)](https://img.shields.io/github/last-commit/3594t-deck/data/main.svg)
+
 # Setup
 
 ```shell
