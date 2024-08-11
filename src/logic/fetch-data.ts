@@ -59,7 +59,7 @@ export default async (): Promise<any> => {
 
     logger.debug('base_data処理待ち');
     await page.waitForFunction(
-      (window: { [x: string]: any }) => {
+      (window: any) => {
         const baseData = window['base_data'];
         return baseData && Object.keys(baseData).length > 0;
       },
@@ -68,7 +68,7 @@ export default async (): Promise<any> => {
     );
     logger.debug('base_data処理待ち完了');
 
-    return await page.evaluate((window) => {
+    return await page.evaluate((window: any) => {
       return window['base_data'];
     }, windowHandle);
   } catch (e) {
